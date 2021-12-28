@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="30mm"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg4709"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Favicon grijs rond.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4711"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="15mm"
+     inkscape:zoom="4.0416191"
+     inkscape:cx="57.897588"
+     inkscape:cy="66.928622"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs4706">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8978">
+      <circle
+         style="opacity:0.481544;fill:#000080;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+         id="circle8980"
+         cx="368.46588"
+         cy="-183.90686"
+         r="4.4867468" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g840"
+       transform="translate(-0.59054485,-0.15475597)">
+      <circle
+         style="fill:#ffffff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+         id="circle2417"
+         cx="15.599895"
+         cy="15.322163"
+         r="14.54"
+         inkscape:export-filename="C:\Users\Gebruiker\Desktop\Robin\AUDIT.ONE\Website Mockups\Favicon rond grijs.png"
+         inkscape:export-xdpi="69.980003"
+         inkscape:export-ydpi="69.980003" />
+      <g
+         id="g5135"
+         transform="matrix(3.2406553,0,0,3.2406553,-1178.471,611.3009)"
+         style="stroke-width:0.30858"
+         inkscape:export-filename="C:\Users\Gebruiker\Desktop\Robin\AUDIT.ONE\Favicon rond grijs.png"
+         inkscape:export-xdpi="69.980003"
+         inkscape:export-ydpi="69.980003"
+         clip-path="url(#clipPath8978)">
+        <g
+           id="g5133"
+           style="stroke-width:0.30858">
+          <path
+             id="path5129"
+             style="opacity:1;fill:#252525;fill-opacity:1;stroke-width:0.583141;stroke-linecap:round;stroke-linejoin:round"
+             d="m 1377.5508,-712.03906 c -1.0433,0 -1.8828,0.83627 -1.8828,1.875 v 30.16601 c 0,1.03873 0.8395,1.875 1.8828,1.875 h 3.3808 l 8.5098,-23.51953 h 6.6484 l 8.5098,23.51953 h 3.1035 c 1.0433,0 1.8828,-0.83627 1.8828,-1.875 v -30.16601 c 0,-1.03873 -0.8395,-1.875 -1.8828,-1.875 z m 15.1816,16.74218 -2.8886,8.62891 h 5.8105 z m -4.3984,13.0625 -1.3926,4.11133 h 11.582 l -1.3925,-4.11133 z"
+             transform="scale(0.26458333)" />
+          <rect
+             style="fill:#e40913;fill-opacity:1;stroke:none;stroke-width:0.00154289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect5131"
+             width="5.1494451"
+             height="1.0743446"
+             x="366.04688"
+             y="-187.48575" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

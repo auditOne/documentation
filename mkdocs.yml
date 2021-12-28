@@ -1,0 +1,223 @@
+# Project information
+site_name: "AUDIT.one: Staking guides"
+site_description: A step-by-step guide on how to get started with staking
+site_author: 
+site_url: http://docs.pstake.finance/
+
+# Copyright
+copyright: pStake-docs
+
+docs_dir: markdowns
+
+# Documentation and theme
+theme:
+  name: material
+  custom_dir: resources
+
+  features:
+    - tabs
+    #- instant
+  palette:
+    - scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: grey
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Poppins
+    code: Poppins
+
+  icon:
+  logo: assets/images/Logo.png
+  logo_white: assets/images/Logo white.png
+  favicon: assets/images/Favicon.png
+# Plugins
+plugins:
+  - macros
+  - search:
+        indexing: 'full'
+  - minify:
+      minify_html: true
+  
+
+
+# Customization
+extra:
+  cosmos:
+    StakedToken: "stkATOM"
+    UnstakedToken: "pATOM"
+  token:
+    StakedToken: "stkTOKEN"
+    UnstakedToken: "pTOKEN"
+  XPRT:
+    StakedToken: "stkXPRT"
+    UnstakedToken: "pXPRT"
+  bridge:
+    name: "pBridge"
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/rs65yQzZ
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/AuditOne_
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/AuditOne
+
+#To add icon to side navigation: name is exact navigation item icon is icon path. 
+  nav_links:
+    - name: Home
+      icon: ../assets/images/Home.svg
+    - name: Crypto wallets
+      icon: ../assets/images/Wallet.svg
+    - name: Getting started
+      icon: ../assets/images/Getting started.svg
+    - name: Glossary
+      icon: ../assets/images/Basics.svg
+    - name: Active networks <br> and staking guides
+      icon: ../assets/images/Networks.svg
+    - name: Smart Contracts
+      icon: ../assets/images/smart_contract.svg
+    - name: Governance
+      icon: ../assets/images/governance.svg
+    - name: FAQs
+      icon: ../assets/images/faq.svg
+    - name: Bug Bounty
+      icon: ../assets/images/bug_bounty.svg
+
+# extra:
+#   analytics:
+#     provider: google
+#     property: !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - codehilite:
+      guess_lang: false
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting started:
+      - About AUDIT.one: about_AUDIT.one.md
+      - About staking: What_is_staking.md
+      - About crypto wallets: What_is_a_crypto_wallet.md
+      - Choosing the right validator: Importance_of_choosing_the_right_validator.md
+  - Glossary:
+      - Overview: Glossary.md
+      - Gas fees: Gas_fees.md
+      - Proof of Stake: Proof_of_Stake.md
+      - Smart contracts: Smart_contracts.md
+      - Transaction fees: Transaction_fees.md      
+      - Unbonding period: Unbonding_period.md
+      - Uptime: Uptime.md      
+      - Validator fees: Validator_fee.md
+      - Voting power: Voting_power.md
+  - Crypto wallets:
+      - Overview: Wallet_overview.md
+      - Elrond wallet: How_to_create_an_Elrond_wallet.md
+      - Keplr wallet: How_to_create_a_Keplr_wallet.md
+      - Persistence wallet: How_to_create_a_Persistence_wallet.md
+      - Terra wallet: How_to_create_a_Terra_wallet.md
+  - Active networks <br> and staking guides:
+      - Overview: Networks.md
+      - Agoric (BLD):
+          - Intro: Agoric.md
+      - Akash (AKT): 
+          - Intro: Akash.md   
+      - Band (BAND): 
+          - Intro: Band.md
+      - Celo (CELO): 
+          - Intro: Celo.md
+      - Comdex (CMDX):
+          - Intro: Comdex.md
+      - Cosmos (ATOM): 
+          - Intro: Cosmos.md
+          - Stake on Keplr: How_to_stake_ATOM_with_Keplr.md
+      - Crypto.com (CRO):
+          - Intro: Cryptocom.md
+      - Elrond (eGLD): 
+          - Intro: Elrond.md
+          - Stake on Elrond: How_to_stake_eGLD_with_Elrond.md
+          - Stake on Maiar: How_to_stake_eGLD_with_Maiar.md
+      - Harmony (ONE): 
+          - Intro: Harmony.md
+      - Injective (INJ):    
+           - Intro: Injective.md
+      - IRISnet (IRIS): 
+          - Intro: Irisnet.md
+      - IXO (IXO):
+          - Intro: Ixo.md
+      - Juno (JUNO):
+          - Intro: Juno.md
+      - Kava (KAVA): 
+          - Intro: Kava.md
+      - Kusama (KSM):
+          - Intro: Kusama.md
+      - Marlin (POND):
+          - Intro: Marlin.md
+      - Near (NEAR): 
+          - Intro: Near.md
+      - Osmosis (OSMO): 
+          - Intro: Osmosis.md
+          - Stake on Keplr: How_to_stake_OSMO_with_Keplr.md
+      - Persistence (XPRT): 
+          - Intro: Persistence.md
+          - Stake on Persistence: How_to_stake_XPRT_with_Persistence.md
+          - Stake on Keplr: How_to_stake_XPRT_with_Keplr.md
+      - Polygon (MATIC): 
+          - Intro: Polygon.md
+      - Sentinel (DVPN): 
+          - Intro: Sentinel.md
+      - Skale (SKL): 
+          - Intro: Skale.md
+      - Stargaze (STAR):
+          - Intro: Stargaze.md
+      - Terra (LUNA): 
+          - Intro: Terra.md
+          - Stake on Terra: How_to_stake_LUNA_on_Terra.md
+      - Tezos (XTZ):
+          - Intro: Tezos.md
+  - FAQs: FAQ.md
+ 
+
+extra_css:
+  - assets/stylesheets/custom.css

@@ -1,0 +1,20 @@
+survey:
+  able_to_find: Did this doc help you?
+  yes: Yes
+  no: No
+  comment_yes_label: Let us know what we do well
+  comment_no_label: Let us know what we can do better
+  optional: Optional
+  required: Required
+  email_placeholder: youremail@email.com
+  email_label: Can we contact you if we have more questions?
+  send: Send
+  feedback: Thank you for your feedback!
+  not_support: If you need a reply, please contact support instead.
+  privacy_policy: Privacy policy
+contribution_cta:
+  title: Help us make these docs great!
+  body: All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+  button: Make a contribution
+  or: Or,
+  to_guidelines: learn how to contribute.
