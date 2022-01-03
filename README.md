@@ -1,4 +1,4 @@
-# pStake-docs
+# AUDIT.one-docs
 
 ## Install dependencies
 ```
