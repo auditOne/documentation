@@ -2,7 +2,7 @@
   > However, please note that you can use any other validator of your choice. <br>
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
-# How to stake AKT tokens on Keplr 
+# How to stake AKT tokens with Keplr 
 
 ### Prerequisites:
 
@@ -63,7 +63,7 @@ You have now succesfully staked your AKT tokens!
 
 Make sure to come back to the [Keplr dashboard](https://wallet.keplr.app/#/dashboard) to see the status of your delegation:
 
-![Overview](https://user-images.githubusercontent.com/95366163/147963513-aed4f9de-18a3-45d6-b0eb-cefa540db417.png)
+![Overview](https://user-images.githubusercontent.com/95366163/147965162-263769a9-4193-48a4-ba1e-d0bec4765079.png)
 
 You can claim your pending rewards by clicking on the **Claim Reward** button in the upper right corner.<br>
 These rewards will be added to your available OSMO balance which you can find on the left under your wallet information.<br>
