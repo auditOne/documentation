@@ -9,16 +9,6 @@
 </div>
 
 <div class="maincard">
-  <a href="https://audit-docs.auditdev.workers.dev/Osmosis/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          OSMOSIS
-       <img  align="left" width="35" src="https://user-images.githubusercontent.com/95366163/146988252-fc0e5f59-8c7a-4b16-bdbd-189b95d9ac5c.png"> 
-       </p>
-     </div>
-   </div>
-  </a>
    
   <a href="https://audit-docs.auditdev.workers.dev/Cosmos/" target="_self">
    <div class="card">
@@ -30,8 +20,29 @@
      </div>
    </div>
   </a>
+   
+<a href="https://audit-docs.auditdev.workers.dev/Elrond/" target="_self">
+   <div class="card"> 
+     <p class="heading">
+      ELROND 
+     <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146986696-60e625c7-7966-48fa-bfd2-da671c451302.png">
+     </p>
+   </div>
+  </a>
+     <a href="https://audit-docs.auditdev.workers.dev/Osmosis/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          OSMOSIS
+       <img  align="left" width="35" src="https://user-images.githubusercontent.com/95366163/146988252-fc0e5f59-8c7a-4b16-bdbd-189b95d9ac5c.png"> 
+       </p>
+     </div>
+   </div>
+  </a>
+</div>
 
-  <a href="https://audit-docs.auditdev.workers.dev/Persistence/" target="_self">
+<div class="maincard">
+     <a href="https://audit-docs.auditdev.workers.dev/Persistence/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -41,14 +52,12 @@
      </div>
    </div>
   </a>
-</div>
-
-<div class="maincard">
-  <a href="https://audit-docs.auditdev.workers.dev/Elrond/" target="_self">
-   <div class="card"> 
+   
+  <a href="https://audit-docs.auditdev.workers.dev/Polygon/" target="_self">
+   <div class="card">
      <p class="heading">
-      ELROND 
-     <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146986696-60e625c7-7966-48fa-bfd2-da671c451302.png">
+      POLYGON 
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987400-d4f74af1-ec96-4d44-a593-19a118a18f95.png">
      </p>
    </div>
   </a>
@@ -62,14 +71,6 @@
    </div>
   </a>
 
-  <a href="https://audit-docs.auditdev.workers.dev/Polygon/" target="_self">
-   <div class="card">
-     <p class="heading">
-      POLYGON 
-     <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987400-d4f74af1-ec96-4d44-a593-19a118a18f95.png">
-     </p>
-   </div>
-  </a>
 </div>
 
 ## Staking guides being created
@@ -213,3 +214,87 @@
    </div>
   </a>
 </div>
+
+<div class="maincard">
+  <a href="https://audit-docs.auditdev.workers.dev/Kusama/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          KUSAMA
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960323-b686eafd-ca94-4fad-b39d-c7a70dd8d029.png">
+        </p>
+     </div>
+   </div>
+  </a>
+
+  <a href="https://audit-docs.auditdev.workers.dev/Marlin/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         MARLIN
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960338-2570b76e-35b5-407b-9689-c2e9a348300a.png">
+       </p>
+     </div>
+   </div>
+  </a>
+
+  <a href="https://audit-docs.auditdev.workers.dev/Near/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         NEAR
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960351-2ff1e92d-abd2-48f2-bafb-089e196dcad2.png">
+       </p>
+     </div>
+   </div>
+  </a>
+</div>
+
+<div class="maincard">
+  <a href="https://audit-docs.auditdev.workers.dev/Sentinel/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          SENTINEL
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960568-2586b051-db7e-4777-8d73-3923ddbfb6f7.png">
+        </p>
+     </div>
+   </div>
+  </a>
+
+  <a href="https://audit-docs.auditdev.workers.dev/Skale/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         SKALE
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960652-7d579e98-1d34-45d6-bf46-0863f40b163a.png">
+       </p>
+     </div>
+   </div>
+  </a>
+
+  <a href="https://audit-docs.auditdev.workers.dev/Stargaze/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         STARGAZE
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960574-7518774d-02dc-4927-ac4a-dac305c1685b.png">
+       </p>
+     </div>
+   </div>
+  </a>
+</div>
+
+<div class="maincard">
+   
+  <a href="https://audit-docs.auditdev.workers.dev/Tezos/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         TEZOS
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960796-cb4b0898-37d0-4842-b9d2-87a4118c8aad.png">
+       </p>
+     </div>
+   </div>
+  </a>
+ </div>
