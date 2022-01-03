@@ -2,7 +2,7 @@
   > However, please note that you can use any other validator of your choice. <br>
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
-# How to stake OSMO tokens on Keplr [<img align="right" width="150" src="https://user-images.githubusercontent.com/95366163/145463556-c4dd11d9-e1e9-4c55-8ee0-09fdbe81c3a0.png">](How_to_stake_OSMO_with_Keplr_Mobile.md)
+# How to stake OSMO tokens with Keplr [<img align="right" width="150" src="https://user-images.githubusercontent.com/95366163/145463556-c4dd11d9-e1e9-4c55-8ee0-09fdbe81c3a0.png">](How_to_stake_OSMO_with_Keplr_Mobile.md)
 
 ### Prerequisites:
 
