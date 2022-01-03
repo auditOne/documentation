@@ -2,7 +2,7 @@
   > However, please note that you can use any other validator of your choice. <br>
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
-# How to stake XPRT tokens on Keplr 
+# How to stake XPRT tokens with Keplr 
 
 ### Prerequisites:
 
@@ -63,7 +63,7 @@ You have now succesfully staked your XPRT tokens!
 
 Make sure to come back to the [Keplr dashboard](https://wallet.keplr.app/#/dashboard) to see the status of your delegation:
 
-![Dashboard](https://user-images.githubusercontent.com/95366163/146570466-7d8a6ea0-40e2-4456-8a45-bd4fd9661ac8.png)
+![Dashboard](https://user-images.githubusercontent.com/95366163/147965338-169c020a-c2d9-4d0a-94f3-9530e44dc13d.png)
 
 You can claim your pending rewards by clicking on the **Claim Reward** button in the upper right corner.<br>
 These rewards will be added to your available OSMO balance which you can find on the left under your wallet information.<br>
