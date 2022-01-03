@@ -18,38 +18,44 @@ Before continuing with this guide please be sure that:
 
 ### **1.  Go to the [Polygon staking page](https://wallet.polygon.technology/staking/)**
 
-Which you can easily access by clicking this link: [Stake XPRT](https://wallet.persistence.one/dashboard/staking)
+Which you can easily access by clicking this link: [Stake MATIC](https://wallet.polygon.technology/staking/)
 
-![Stake page](https://user-images.githubusercontent.com/95366163/146393368-1fc1af41-1093-4bda-ae7a-b09b827a476a.png)
+![Staking page](https://user-images.githubusercontent.com/95366163/147950236-21ba20bd-7a8a-4304-96a0-6b3750ace891.png)
 
 
 ### **2.  Choose AUDIT.one as your validator**
 
-You can either do this by scrolling down in the list until you find our logo or you can use the shortcut _"Ctrl + F / Command + F"_ on your keyboard and type in **AUDIT.one**
+You can either do this by scrolling down in the list until you find our logo or you can type in **AUDIT.one** in the search bar.
 
-Once you've found it, click **Actions** on the right side:
+Once you've found it, click **Delegate** on the right side:
 
-![Select Audit one](https://user-images.githubusercontent.com/95366163/146393399-cdf4a306-bc03-4e9a-9dfd-5fe9a6beadb5.png)
+![Delegete](https://user-images.githubusercontent.com/95366163/147950366-b96fc8c7-0c42-417e-8f8e-30af44dff60d.png)
 
+If you click on our name in stead of *Delegate* you will be redirected to this page with some additional info on AUDIT.one. <br>
 
-This screen will pop up and give you some more info about AUDIT.one. 
+You will not only see things like the **validator fee**, **your own MATIC balance**, the total amount of MATIC **staked with AUDIT.one**, the amount of staked assets that are **selfstaked**, but also the **total amount of rewards** that have been already earned by staking with us. If you're interested you can even see how many delegators are staking with AUDIT.one and how much they are staking. <br>
 
-<img width="750" src="https://user-images.githubusercontent.com/95366163/146362728-2a8755df-a96d-4f92-a40b-e33cb490796e.png">
+Once you're happy with what you see, click on **Become a delegator** to continue.
+
+![Become a delegator](https://user-images.githubusercontent.com/95366163/147951165-aff4954b-d49a-445b-a195-47c8d30717da.png)
+
 
 Want to get more info about this commission fee? Go to [what is a validator fee?](Validator_fee.md)<br>
-To proceed, hit **Delegate** on the left.
 
 
 ### **3.  Choose the amount you wish to delegete**
 
-Once you've clicked on delegate, you will see this screen:
+Once you've clicked on delegate (or become a delegator), you will see this screen:
 
-<img width="500" src="https://user-images.githubusercontent.com/95366163/146365291-a4f308c3-e10f-4da9-9b0d-730f64d218f4.png">
+<img width="350" src="https://user-images.githubusercontent.com/95366163/147950815-b88728d0-ce18-45de-857f-aa3b21dfb98e.png">
 
 You will be asked to put in the amount of XPRT you wish to stake before you can continue. <br>
-_(By clicking the word '**Balance**' underneath the entry bar, the maximum available amount will be filled in automatically)_
+_(By clicking the word '**MAX**' on the right side of the entry bar, the maximum available amount will be filled in automatically)_
 
-Once you've decided how many tokens you wish to stake, hit the **Next** button.
+Once you've decided how many tokens you wish to stake, hit the **Continue** button.
+
+***
+# Uncomplete
 
 You will be asked to choose the transaction fee (low, average or high). 
 The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](Transaction_fees.md)
@@ -57,12 +63,12 @@ The higher the fee you are willing to pay, the faster the transaction will be co
 <img width="500" src=https://user-images.githubusercontent.com/95366163/146365376-77fc715c-a942-4a06-9c6f-0d8937ff0004.png>
 
 ### **Congratulations!** 
-You have now succesfully staked your XPRT tokens!
+You have now succesfully staked your MATIC tokens!
 
 
 ### **4.  Sit back and watch your tokens earn rewards**
 
-Make sure to come back to the [Persistence dashboard](https://wallet.persistence.one/dashboard/wallet) to see the status of your delegations. <br>
+Make sure to come back to the [Polygon staking dashboard](https://wallet.polygon.technology/staking/) to see the status of your delegations. <br>
 
 You can claim your pending rewards by clicking on the green **Claim** button on the right side.<br>
 These rewards will be added to your total XPRT balance and will be visible as **Delegatable** or **Transferable**. <br>
