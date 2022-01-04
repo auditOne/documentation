@@ -9,7 +9,7 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## C
   - [Cryptocurrency](Cryptocurrency.md)
 ## D
-   -[DeFi](DeFi.md)
+   - [DeFi](DeFi.md)
 ## E
 ## F
 ## G
