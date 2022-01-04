@@ -221,6 +221,8 @@ nav:
           - Intro: Sentinel.md
       - Skale (SKL): 
           - Intro: Skale.md
+      - Solana (SOL):
+          - Intro: Solana.md
       - Stargaze (STAR):
           - Intro: Stargaze.md
       - Terra (LUNA): 
