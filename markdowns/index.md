@@ -1,15 +1,16 @@
-# Welcome to AUDIT.one Docs!
+# Welcome to the [AUDIT.one](https://audit.one) Wiki!
 
-The purpose of these docs is to make staking accessable for everyone! <br>
-Our step-by-step guides and glossary will make it super easy to get started. <br>
-This is for all crypto-rookies who want to learn more about the infinite possibilities within the crypto world, but also for more native crypto people who like to expand their portfolio and start staking on different networks. 
+The main purpose of this Wiki is to make staking accessible and understandable for everyone! Whether you're new to crypto or whether you're an experienced staker looking to expand into more networks, we hope these documents provide you value. <br>
+
+If you're completely new, reading through our [glossary](glossary.md) would be the best way to start. Once you're ready to dive deeper into staking, our [step-by-step staking guides](networks.md) are there to assist you. <br>
+
 
 <div class="maincard">
   <a href="https://audit-docs.auditdev.workers.dev/about_AUDIT.one/" target="_self">
    <div class="card">
       <div>
-         <p class="heading">Getting started</p>
-         <p>Start here if you’re new to crypto, staking or want to learn more about AUDIT.one.</p>
+         <p class="heading">About AUDIT.one</p>
+         <p>Click here if you want to learn more about AUDIT.one.</p>
       </div>
       <img width="20" src="../assets/images/Favicon grijs rond.svg" /> 
    </div></a>
@@ -43,3 +44,5 @@ This is for all crypto-rookies who want to learn more about the infinite possibi
 </div>
 
 <br>
+
+We aim to keep all documents on this wiki clear, correct and up-to-date at all times, but if anything seems wrong, please let us know via hello@audit.one and we'll address the issue as soon as possible. You can also submit your proposed changes directly via a pull request.
