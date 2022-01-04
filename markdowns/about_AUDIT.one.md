@@ -28,7 +28,7 @@ We have a highly redundant setup with self-hosted data centers across multiple g
 We have a deep understanding of the importance of having a fault-tolerant and attack resistant setup. We use Sentry Nodes to fend off DDoS attacks, and have real-time alerting and monitoring solutions to ensure our nodes keep running 24/7/365.
 
 [comment]: # (upload and link architecture.png)
-![validator-arch](./architecture.png) 
+![validator-arch](https://github.com/auditOne/documentation/blob/main/resources/assets/images/architecture.png)
 
 
 ## Contact us
