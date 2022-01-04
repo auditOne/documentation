@@ -5,7 +5,9 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## A
   - [APR](APR.md)
 ## B
+  - [Blockchain](Blockchain.md)
 ## C
+  - [Cryptocurrency](Cryptocurrency.md)
 ## D
 ## E
 ## F
