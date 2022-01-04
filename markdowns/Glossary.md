@@ -20,6 +20,7 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## K
 ## L
 ## M
+- [Market cap](Market_cap.md)
 ## N
 ## O
 ## P
