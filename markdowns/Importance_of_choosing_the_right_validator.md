@@ -1,7 +1,8 @@
 # Why is it important to choose the right validator?
 
 It might be overwelming when it comes to choosing the right validator to delegate your crypto tokens to as the number of validators keeps growing.
-We will try to make that decision a little easier for you by dividing them in different categories. In that way, with a little research of yourself, you can choose the validator that fits your needs!
+We will try to make that decision a little easier for you by dividing them in different categories. But what might even be more important is that, with a little research of yourself, you should choose a validator that fits your needs best!
+
 
 In general, there are only a few categories to distinct the different types of validators. <br>
 Each one of them have there own advantages and disadvantages.
@@ -61,4 +62,15 @@ The type of validator you decide to delegate your crypto to will depend on your 
       --> **Try an individual validator.** <br>
 
 
-> Don't forget to always do your own research before choosing a network and/or validator to delegate your assets to.
+## Last but not least
+
+When choosing the type of validator you fits yout needs, you should look for:
+
+- **Reliability**: Choose a validator that knows what they’re doing. Favor providers with proven experience validating on the network you want to support.
+
+- **Communication**: Do you get enough information and support from them, on a regular basis? Be sure to pick a team that makes you comfortable and matches your availability.
+
+- **Economics**: Look for a competitive fee. “The lower, the better”, is not always the best strategy when choosing a validator.
+
+
+> Always do your own research before choosing a network and/or validator to delegate your assets to.
