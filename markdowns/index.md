@@ -2,7 +2,7 @@
 
 The main purpose of this Wiki is to make staking accessible and understandable for everyone! Whether you're new to crypto or whether you're an experienced staker looking to expand into more networks, we hope these documents provide you value. <br>
 
-If you're completely new, reading through our [glossary](glossary.md) would be the best way to start. Once you're ready to dive deeper into staking, our [step-by-step staking guides](networks.md) are there to assist you. <br>
+If you're completely new, reading through our [glossary](Glossary.md) would be the best way to start. Once you're ready to dive deeper into staking, our [step-by-step staking guides](Networks.md) are there to assist you. <br>
 
 
 <div class="maincard">
