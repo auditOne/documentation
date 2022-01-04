@@ -151,7 +151,9 @@ nav:
       - Gas fees: Gas_fees.md
       - Liquid staking: Liquid_staking.md
       - Market cap: Market_cap.md
+      - NFT: NFT.md
       - Proof of Stake: Proof_of_Stake.md
+      - Proof of Work: Proof_of_work.md
       - Smart contracts: Smart_contracts.md
       - Transaction fees: Transaction_fees.md      
       - Unbonding period: Unbonding_period.md
