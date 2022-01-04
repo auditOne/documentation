@@ -21,12 +21,15 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## J
 ## K
 ## L
+- [Liquid staking](Liquid_staking.md)
 ## M
 - [Market cap](Market_cap.md)
 ## N
+- [NFT](NFT.md)
 ## O
 ## P
  - [Proof of Stake](Proof_of_Stake.md)
+ - [Proof of Work](Proof_of_work.md)
 ## Q
 ## R
 ## S
