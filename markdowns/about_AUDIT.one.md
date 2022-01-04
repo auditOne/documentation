@@ -1,17 +1,41 @@
 # About
 
-AUDIT.one is the infrastructure arm of Persistence and has become one of the biggest validators in South Asia, running nodes across more than 20 leading networks such as Cosmos, Polygon, Skale, Celo, Terra and many more. 
+[AUDIT.one](https://audit.one) is the infrastructure arm of [Persistence](https://persistence.one) and has become one of the biggest validators in South Asia, running nodes across more than 20 leading networks such as [Cosmos](Cosmos.md), [Polygon](Polygon.md), [Solana](Solana.md), [Near](Near.md), [Elrond](Elrond.md), [Celo](Celo.md), [Terra](Terra.md) and [many more](Networks.md). 
 
-Currently, AUDIT.one has over $300M worth of assets under delegation, and is now scaling up the team to add on more networks - such as Ethereum and Solana - and build products for these networks and the community around them, in order to further accelerate the adoption of web3 and decentralised technology.  
+Currently, AUDIT.one has over $300M worth of assets under delegation, and is rapidly scaling up the team to add on more networks and build products for these networks and the community around them, in order to further accelerate the adoption of web3 and decentralised technology.  
+
 
 ## Our vision
-“In a future world where plenty of business transactions happen on chain, Validators will take on the role of Auditors, verifying transactions in real-time, while secure blockchain infrastructure will be the backbone of the economy”
+“In a future where plenty of business happens on chain, Validators will take on the role of Auditors, verifying transactions in real-time, while secure blockchain infrastructure will be the backbone of the economy”
 
-### Why? 
+#### Why? 
 To accelerate the adoption of decentralized technology
 
-### How? 
+#### How? 
 By supporting communities operating at the bleeding edge of innovation
 
-### What? 
+#### What? 
 By making enterprise-grade blockchain infrastructure globally accessible and easy-to-use
+
+
+## Our Team
+We are a team of experienced business and technology professionals who believe that the adoption of decentralised technology will change the world. Our team consists of a variety of experts and engineers skilled in building blockchain systems and infrastructure in a secure and reliable way. 
+
+
+## Our Operations, Architecture & Security
+We have a highly redundant setup with self-hosted data centers across multiple geographical locations in combination with selected Cloud Infrastructure providers.
+
+We have a deep understanding of the importance of having a fault-tolerant and attack resistant setup. We use Sentry Nodes to fend off DDoS attacks, and have real-time alerting and monitoring solutions to ensure our nodes keep running 24/7/365.
+
+[comment]: # (upload and link architecture.png)
+![validator-arch](./architecture.png) 
+
+
+## Contact us
+
+You can reach out to us on
+
+- Email: hello@audit.one.
+- Telegram: @auditone
+- Twitter: @AuditOne_
+- Website: https://audit.one/
