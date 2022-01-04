@@ -168,7 +168,8 @@ nav:
       - Agoric (BLD):
           - Intro: Agoric.md
       - Akash (AKT): 
-          - Intro: Akash.md   
+          - Intro: Akash.md  
+          - Stake on Keplr: How_to_stake_AKT_on_Keplr.md
       - Band (BAND): 
           - Intro: Band.md
       - Celo (CELO): 
