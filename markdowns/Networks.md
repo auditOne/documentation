@@ -287,6 +287,20 @@
    </div>
   </a>
 
+  <a href="https://audit-docs.auditdev.workers.dev/Solana/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         SOLANA
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/148082123-2cbbf1d3-1f36-4f94-811a-369c6deb044d.png">
+       </p>
+     </div>
+   </div>
+  </a>
+</div>
+
+<div class="maincard">
+   
   <a href="https://audit-docs.auditdev.workers.dev/Stargaze/" target="_self">
    <div class="card">
      <div>
@@ -296,10 +310,7 @@
        </p>
      </div>
    </div>
-  </a>
-</div>
-
-<div class="maincard">
+  </a> 
    
   <a href="https://audit-docs.auditdev.workers.dev/Tezos/" target="_self">
    <div class="card">
