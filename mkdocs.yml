@@ -143,6 +143,7 @@ nav:
       - Choosing the right validator: Importance_of_choosing_the_right_validator.md
   - Glossary:
       - Overview: Glossary.md
+      - APR: APR.md
       - Gas fees: Gas_fees.md
       - Proof of Stake: Proof_of_Stake.md
       - Smart contracts: Smart_contracts.md
