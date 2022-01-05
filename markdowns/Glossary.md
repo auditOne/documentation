@@ -7,6 +7,7 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## B
   - [Blockchain](Blockchain.md)
 ## C
+  - [Compound interest](Compound_interest.md)
   - [Cryptocurrency](Cryptocurrency.md)
 ## D
    - [DAO](DAO.md)
