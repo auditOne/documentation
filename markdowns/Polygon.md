@@ -8,5 +8,5 @@ Polygon combines the best of Ethereum and sovereign blockchains into a full-fled
 
 [<p align="center">
   <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/148233554-27791b94-e725-4936-adcc-9f23dc3e3576.png">
-</p>](How_to_stake_MATIC_on_Keplr.md)
+</p>](How_to_stake_MATIC_on_Polygon.md)
 
