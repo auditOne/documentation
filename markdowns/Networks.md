@@ -65,6 +65,18 @@
      </div>
    </div>
   </a>
+
+  <a href="https://audit-docs.auditdev.workers.dev/Polygon/" target="_self">
+   <div class="card">
+     <p class="heading">
+      POLYGON 
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987400-d4f74af1-ec96-4d44-a593-19a118a18f95.png">
+     </p>
+   </div>
+  </a>
+ </div>
+ 
+<div class="maincard">
    
   <a href="https://audit-docs.auditdev.workers.dev/Terra/" target="_self">
    <div class="card">
@@ -74,6 +86,7 @@
      </p>
    </div>
   </a>
+
 
 </div>
 
@@ -252,19 +265,6 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Polygon/" target="_self">
-   <div class="card">
-     <p class="heading">
-      POLYGON 
-       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987400-d4f74af1-ec96-4d44-a593-19a118a18f95.png">
-     </p>
-   </div>
-  </a>
-   
-</div>
-
-<div class="maincard">
-   
   <a href="https://audit-docs.auditdev.workers.dev/Sentinel/" target="_self">
    <div class="card">
      <div>
@@ -275,6 +275,11 @@
      </div>
    </div>
   </a>
+
+</div>
+
+<div class="maincard">
+   
 
   <a href="https://audit-docs.auditdev.workers.dev/Skale/" target="_self">
    <div class="card">
@@ -297,10 +302,7 @@
      </div>
    </div>
   </a>
-</div>
-
-<div class="maincard">
-   
+  
   <a href="https://audit-docs.auditdev.workers.dev/Stargaze/" target="_self">
    <div class="card">
      <div>
@@ -311,6 +313,9 @@
      </div>
    </div>
   </a> 
+</div>
+
+<div class="maincard">
    
   <a href="https://audit-docs.auditdev.workers.dev/Tezos/" target="_self">
    <div class="card">
