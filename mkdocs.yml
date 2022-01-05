@@ -172,65 +172,65 @@ nav:
   - Active networks <br> and staking guides:
       - Overview: Networks.md
       - Agoric (BLD):
-          - Intro: Agoric.md
+          - Intro to Agoric: Agoric.md
       - Akash (AKT): 
-          - Intro: Akash.md  
+          - Intro to Akash: Akash.md  
           - Stake on Keplr: How_to_stake_AKT_with_Keplr.md
       - Band (BAND): 
-          - Intro: Band.md
+          - Intro to Band: Band.md
       - Celo (CELO): 
-          - Intro: Celo.md
+          - Intro to Celo: Celo.md
       - Comdex (CMDX):
-          - Intro: Comdex.md
+          - Intro to Comdex: Comdex.md
       - Cosmos (ATOM): 
-          - Intro: Cosmos.md
+          - Intro to Cosmos: Cosmos.md
           - Stake on Keplr: How_to_stake_ATOM_with_Keplr.md
       - Crypto.com (CRO):
-          - Intro: Cryptocom.md
+          - Intro to Crypto.com: Cryptocom.md
       - Elrond (eGLD): 
-          - Intro: Elrond.md
+          - Intro to Elrond: Elrond.md
           - Stake on Elrond: How_to_stake_eGLD_with_Elrond.md
           - Stake on Maiar: How_to_stake_eGLD_with_Maiar.md
       - Harmony (ONE): 
-          - Intro: Harmony.md
+          - Intro to Harmony: Harmony.md
       - Injective (INJ):    
-           - Intro: Injective.md
+           - Intro to Injective: Injective.md
       - IRISnet (IRIS): 
-          - Intro: Irisnet.md
+          - Intro to IRISnet: Irisnet.md
       - IXO (IXO):
-          - Intro: Ixo.md
+          - Intro to IXO: Ixo.md
       - Juno (JUNO):
-          - Intro: Juno.md
+          - Intro to Juno: Juno.md
       - Kava (KAVA): 
-          - Intro: Kava.md
+          - Intro to Kava: Kava.md
       - Kusama (KSM):
-          - Intro: Kusama.md
+          - Intro to Kusama: Kusama.md
       - Marlin (POND):
-          - Intro: Marlin.md
+          - Intro to Marlin: Marlin.md
       - Near (NEAR): 
-          - Intro: Near.md
+          - Intro to Near: Near.md
       - Osmosis (OSMO): 
-          - Intro: Osmosis.md
+          - Intro to Osmosis: Osmosis.md
           - Stake on Keplr: How_to_stake_OSMO_with_Keplr.md
       - Persistence (XPRT): 
-          - Intro: Persistence.md
+          - Intro to Persistence: Persistence.md
           - Stake on Persistence: How_to_stake_XPRT_with_Persistence.md
           - Stake on Keplr: How_to_stake_XPRT_with_Keplr.md
       - Polygon (MATIC): 
-          - Intro: Polygon.md
+          - Intro to Polygon: Polygon.md
       - Sentinel (DVPN): 
-          - Intro: Sentinel.md
+          - Intro to Sentinel: Sentinel.md
       - Skale (SKL): 
-          - Intro: Skale.md
+          - Intro to Skale: Skale.md
       - Solana (SOL):
-          - Intro: Solana.md
+          - Intro to Solana: Solana.md
       - Stargaze (STAR):
-          - Intro: Stargaze.md
+          - Intro to Stargaze: Stargaze.md
       - Terra (LUNA): 
-          - Intro: Terra.md
+          - Intro to Terra: Terra.md
           - Stake on Terra: How_to_stake_LUNA_on_Terra.md
       - Tezos (XTZ):
-          - Intro: Tezos.md
+          - Intro to Tezos: Tezos.md
   - FAQs: FAQ.md
  
 
