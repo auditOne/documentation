@@ -7,7 +7,9 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## B
   - [Blockchain](Blockchain.md)
 ## C
+  - [Cloud computing](Cloud_computing.md)
   - [Compound interest](Compound_interest.md)
+  - [Containerization](Containerization.md)
   - [Cryptocurrency](Cryptocurrency.md)
 ## D
    - [DAO](DAO.md)
