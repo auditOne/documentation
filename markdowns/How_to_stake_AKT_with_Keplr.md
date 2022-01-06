@@ -35,9 +35,10 @@ Once you've found it, click **manage** on the right side:
 
 This screen will pop up and give you some more info about the validator. 
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/148405587-ee8e5125-c42c-4a8b-8a76-7d900a4ba3a3.png">
+<img width="700" src="https://user-images.githubusercontent.com/95366163/148434355-31d04e5c-1e93-48dd-b831-959c178c13db.png">
 
-Want to get more info about this commission fee? Go to [what is a validator fee?](Validator_fee.md)<br>
+Click [here](Validator_fee.md) to get more info about this commission fee. <br>
+
 To proceed, hit **Delegate** on the right bottom.
 
 
@@ -45,7 +46,7 @@ To proceed, hit **Delegate** on the right bottom.
 
 Once you've clicked on delegate, you will see this screen:
 
-<img width="981px" src="https://user-images.githubusercontent.com/95366163/148405713-e7a805ff-ec6e-4de7-a579-bfd7d04663af.png">
+<img width="981px" src="https://user-images.githubusercontent.com/95366163/148434387-c5376330-6c2d-4431-8d6e-9a57d6348213.png">
 
 If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](Unbonding_period.md)
 
@@ -63,20 +64,17 @@ There you will find more details about the delegation and see all previous trans
 You have now succesfully staked your AKT tokens!
 
 
-### **4.  Claim rewards and restake regularly to benefit from compounding effects**
+### **4.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
-Make sure to come back to the [Keplr dashboard](https://wallet.keplr.app/#/dashboard) to see the status of your delegation:
+Make sure to check your **Keplr web extention** on a regular basis to see the status of your delegation.
 
-![Overview](https://user-images.githubusercontent.com/95366163/147965162-263769a9-4193-48a4-ba1e-d0bec4765079.png)
+You can claim your pending rewards by clicking on the **Claim** button next to your **Pending staking awards**.<br>
+You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
+Once the transaction is complete, these rewards will be added to your available AKT balance. <br> <br>
 
-You can claim your pending rewards by clicking on the **Claim Reward** button in the upper right corner.<br>
-You will be asked to approve the transaction again with your wallet and choose the transaction fee.
+<img width="800" src="https://user-images.githubusercontent.com/95366163/148435560-88beed7e-1d93-4079-bc07-2234c0d5dd25.png"> 
 
-<img width="300" src="https://user-images.githubusercontent.com/95366163/148405913-46c5ec16-d587-4dab-8beb-6d89481ca3bf.png"> 
+You can now go back to step 1 and restake your rewards to benefit from the [compounding effect](Compounding_interest.md).
 
-These rewards will be added to your available AKT balance which you can find on the left under your wallet information.<br>
 
-Or you can go directly to the **Keplr web extention** in your browser to see your progress and claim your pending rewards:
-
-<img width="300px" src="https://user-images.githubusercontent.com/95366163/147964630-644cd32d-f9a8-4859-b505-2a166a86e377.png">
 
