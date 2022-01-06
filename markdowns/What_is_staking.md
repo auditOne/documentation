@@ -1,5 +1,9 @@
 # About staking
 
+# TO BE ADJUSTED
+
+(currencies er uit halen)
+
 Wether you're new to crypto or you've already taken your first steps, staking is a term you'll often come across. <br> 
 Staking is a way of verifying transactions in Proof-of-Stake networks and allows participants aka "stakers" or "delegators" to earn rewards on their assets.
 
@@ -18,7 +22,8 @@ Staking participants first pledge their coins to the cryptocurrency protocol aft
 
 Every time a block is added to the blockchain, new cryptocurrency coins are minted and distributed as staking rewards to that block's validator. In most cases, the rewards are paid in the native cryptocurrency tokens that participants are staking. However, some blockchains use a different type of cryptocurrency for rewards.
 
-If you want to stake crypto yourself, you don't necessarily have to become a validator. You just have to look for a validator you trust and delegate your assets to them. They will validate the transactions for you and the staking rewards, will be distributed towards the delegators.
+If you want to stake crypto yourself, you don't necessarily have to become a validator. You just have to look for a validator you trust and delegate your assets to them. They will validate the transactions for you and the staking rewards, will be distributed towards the delegators minus the valitdor's commission.
 
-Important to know is that your coins are still in your possession when you stake them. What you're essentialy doing is put your assets to work, and you're free to unstake them later if you want to trade them. The unstaking process may not be immediate, as for most cryptocurrencies, you're required to stake coins for a minimum amount of time. You can find more info about this [unbonding period](Unbonding_period.md) here.
+(non-custodial)
+Important to know is that your coins are still in your possession when you stake them. What you're essentialy doing is put your assets to work, and you're free to unstake them later if you want to trade them. The unstaking process may not be immediate, as for most cryptocurrencies. You can find more info about this [unbonding period](Unbonding_period.md) here.
 
