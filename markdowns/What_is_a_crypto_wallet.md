@@ -21,6 +21,5 @@ Using an online wallet gives you easy access to your crypto holdings. You can:
 * Manage all your digital assets in one secure place 
 * Control your own private keys 
 * Send and receive cryptocurrency to and from anywhere in the world 
-* Interact with usernames rather than long, hexadecimal “public key” addresses 
-* Browse dapps (decentralized finance apps) 
+* Easily access dapps (decentralized apps) 
 * Shop at stores that accept cryptocurrency
