@@ -11,7 +11,7 @@ Before continuing with this guide please be sure that:
 
 - **You have a [Keplr wallet](How_to_create_a_Keplr_wallet.md)**
 - **You have installed the mobile Keplr app for [iOS](https://apps.apple.com/us/app/keplr-wallet/id1567851089) or [Android](https://play.google.com/store/apps/details?id=com.chainapsis.keplr&hl=nl&gl=US)**
-- **You have [ATOM tokens](How_to_get_ATOM_tokens.md) in your Keplr wallet**
+- **You have ATOM tokens in your Keplr wallet**
 - **You know what [staking](What_is_staking.md) is.**
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
