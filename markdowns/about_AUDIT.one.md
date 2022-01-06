@@ -1,4 +1,4 @@
-# About
+# About AUDIT.one
 
 [AUDIT.one](https://audit.one) is the infrastructure arm of [Persistence](https://persistence.one) and has become one of the biggest validators in South Asia, running nodes across more than 20 leading networks such as [Cosmos](Cosmos.md), [Polygon](Polygon.md), [Solana](Solana.md), [Near](Near.md), [Elrond](Elrond.md), [Celo](Celo.md), [Terra](Terra.md) and [many more](Networks.md). 
 
