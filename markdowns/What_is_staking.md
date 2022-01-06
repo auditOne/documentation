@@ -1,4 +1,4 @@
-# Staking
+# About staking
 
 Wether you're new to crypto or you've already taken your first steps, staking is a term you'll often come across. <br> 
 Staking is a way of verifying transactions in Proof-of-Stake networks and allows participants aka "stakers" or "delegators" to earn rewards on their assets.
