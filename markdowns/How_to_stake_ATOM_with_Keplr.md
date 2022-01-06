@@ -3,7 +3,7 @@
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 
-# How to stake ATOM tokens with Keplr [<img align="right" width="150" src="https://user-images.githubusercontent.com/95366163/145463556-c4dd11d9-e1e9-4c55-8ee0-09fdbe81c3a0.png">](How_to_stake_ATOM_with_Keplr_Mobile.md)
+# How to stake ATOM tokens on Keplr [<img align="right" width="150" src="https://user-images.githubusercontent.com/95366163/145463556-c4dd11d9-e1e9-4c55-8ee0-09fdbe81c3a0.png">](How_to_stake_ATOM_with_Keplr_Mobile.md)
 
 ### Prerequisites:
 
