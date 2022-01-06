@@ -1,4 +1,4 @@
-# Crypto wallets
+# About crypto wallets
 
 Crypto wallets keep your private keys _(the passwords that give you access to your cryptocurrencies)_ safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, Metamask wallet, Keplr wallet, etc.. which makes using crypto as easy as shopping with a credit card online.
 
