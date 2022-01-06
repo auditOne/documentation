@@ -1,4 +1,4 @@
-# What are the risks of staking?
+# Risks of staking?
 
 **There are a few risks of staking crypto to understand:**
 
