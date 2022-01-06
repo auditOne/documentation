@@ -53,6 +53,8 @@ The higher the fee you are willing to pay, the faster the transaction will be co
 
 <img width="300" src="https://user-images.githubusercontent.com/95366163/148364570-f21b03ab-c11e-41e9-8357-6eb6c83d7d73.png">
 
+If you want to check the status of your transaction, you can fill in your wallet address on [Minstscan.io](https://www.mintscan.io/osmosis). <br>
+There you will find more details about the delegation and see all previous transactions that have been made.
 
 ### **Congratulations!** 
 You have now succesfully staked your OSMO tokens!
