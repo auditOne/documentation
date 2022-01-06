@@ -58,7 +58,7 @@ The higher the fee you are willing to pay, the faster the transaction will be co
 You have now succesfully staked your OSMO tokens!
 
 
-### **4.  Sit back and watch your tokens earn rewards**
+### **4.  Claim rewards and restake regularly to benefit from compounding effects**
 
 Make sure to come back to the [Keplr dashboard](https://wallet.keplr.app/#/dashboard) to see the status of your delegation:
 
