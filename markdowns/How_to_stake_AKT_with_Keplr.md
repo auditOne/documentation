@@ -2,7 +2,7 @@
   > However, please note that you can use any other validator of your choice. <br>
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
-# How to stake AKT tokens with Keplr 
+# How to stake AKT tokens on Keplr 
 
 ### Prerequisites:
 
@@ -35,7 +35,7 @@ Once you've found it, click **manage** on the right side:
 
 This screen will pop up and give you some more info about the validator. 
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/148211217-77cf319c-7eaf-49de-8d48-fc5a19cd564d.png">
+<img width="700" src="https://user-images.githubusercontent.com/95366163/148405587-ee8e5125-c42c-4a8b-8a76-7d900a4ba3a3.png">
 
 Want to get more info about this commission fee? Go to [what is a validator fee?](Validator_fee.md)<br>
 To proceed, hit **Delegate** on the right bottom.
@@ -45,15 +45,19 @@ To proceed, hit **Delegate** on the right bottom.
 
 Once you've clicked on delegate, you will see this screen:
 
-<img width="981px" src="https://user-images.githubusercontent.com/95366163/148212315-51139aff-01ec-4f55-86bb-e6eb13e895ee.png">
+<img width="981px" src="https://user-images.githubusercontent.com/95366163/148405713-e7a805ff-ec6e-4de7-a579-bfd7d04663af.png">
 
 If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](Unbonding_period.md)
 
 Once you understand what it means and you've decided how many tokens you wish to stake, hit the **Delegate** button on the right.
 
-You will be asked to approve the transaction with your wallet and choose the transaction fee (low, average or high). 
+You will be asked to approve the transaction with your wallet and choose the transaction fee (low, average or high). <br>
 The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](Transaction_fees.md)
 
+<img width="300" src="https://user-images.githubusercontent.com/95366163/148405827-84655c7b-e275-4f47-935a-edc7b436b99c.png">
+
+If you want to check the status of your transaction, you can fill in your wallet address on [Minstscan.io](https://www.mintscan.io/akash). <br>
+There you will find more details about the delegation and see all previous transactions that have been made.
 
 ### **Congratulations!** 
 You have now succesfully staked your AKT tokens!
@@ -66,6 +70,10 @@ Make sure to come back to the [Keplr dashboard](https://wallet.keplr.app/#/dashb
 ![Overview](https://user-images.githubusercontent.com/95366163/147965162-263769a9-4193-48a4-ba1e-d0bec4765079.png)
 
 You can claim your pending rewards by clicking on the **Claim Reward** button in the upper right corner.<br>
+You will be asked to approve the transaction again with your wallet and choose the transaction fee.
+
+<img width="300" src="https://user-images.githubusercontent.com/95366163/148405913-46c5ec16-d587-4dab-8beb-6d89481ca3bf.png"> 
+
 These rewards will be added to your available AKT balance which you can find on the left under your wallet information.<br>
 
 Or you can go directly to the **Keplr web extention** in your browser to see your progress and claim your pending rewards:
