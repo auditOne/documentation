@@ -1,6 +1,8 @@
+# TO BE ADJUSTED
+
 # About crypto wallets
 
-Crypto wallets keep your private keys _(the passwords that give you access to your cryptocurrencies)_ safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, Metamask wallet, Keplr wallet, etc.. which makes using crypto as easy as shopping with a credit card online.
+Crypto wallets keep your private keys _(the passwords that give you access to your digital assets)_ safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, Metamask wallet, Keplr wallet, etc.. which makes using crypto as easy as shopping with a credit card online.
 
 ## Why are crypto wallets important?
 Unlike a normal wallet, which can hold actual cash, crypto wallets technically don’t store your crypto. Your holdings live on the blockchain, but can only be accessed using a private key. Your keys prove your ownership of your digital money and allow you to make transactions. If you lose your private keys, you lose access to your money. That’s why it’s important to keep your hardware wallet safe, or use a trusted wallet provider.
