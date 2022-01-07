@@ -10,19 +10,19 @@ Before continuing with this guide please be sure that:
 
 - **You have a [Keplr wallet](How_to_create_a_Keplr_wallet.md)**
 - **You have XPRT tokens in your Keplr wallet**
-- **You know what [staking](What_is_staking.md) is.**
+- **You know what [staking](What_is_staking.md) is**
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
 ***
 
 
-Staking XPRT with Keplr is pretty easy when you follow these few steps:
+Staking XPRT on Keplr is pretty easy when you follow these few steps:
 
-### **1.  Go to the [Persistence staking page](https://wallet.keplr.app/#/core/stake)**
+### **1.  Go to the <a name="step1"> [Persistence staking page](https://wallet.keplr.app/#/core/stake) </a>**
 
-Which you can easily access by clicking this link: [Stake XPRT](https://wallet.keplr.app/#/core/stake)
+Which you can easily access by clicking [this link](https://wallet.keplr.app/#/core/stake)
 
-![Screen](https://user-images.githubusercontent.com/95366163/146570218-f73f6222-4237-4f07-9b7b-b9df1b946cfe.png)
+![Screen](https://user-images.githubusercontent.com/95366163/148555158-4dab8818-466b-4264-933c-0b8e4e0f96eb.png)
 
 
 ### **2.  Choose AUDIT.one as your validator**
@@ -31,13 +31,13 @@ You can either do this by scrolling down in the list until you find our logo or 
 
 Once you've found it, click **manage** on the right side:
 
-![Select AUDIT](https://user-images.githubusercontent.com/95366163/146570268-17dae741-9e8c-4ebf-879d-0e7e1bac55f5.png)
+![Select AUDIT](https://user-images.githubusercontent.com/95366163/148555137-229daa34-72f1-403b-8b9e-5c14b7a797f1.png)
 
-This screen will pop up and give you some more info about the validator.
+This screen will pop up and give you some more info about the validator. 
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/148400256-85ba7422-7634-4daa-8f23-e6e7bf2fb11f.png">
+<img width="700" src="https://user-images.githubusercontent.com/95366163/148533039-a00b4cf5-e902-4923-83bf-d87cd8f8ea27.png">
 
-Want to get more info about this commission fee? Go to [what is a validator fee?](Validator_fee.md)<br>
+Click [here](Validator_fee.md) to get more info about this commission fee. <br>
 To proceed, hit **Delegate** on the right bottom.
 
 
@@ -45,16 +45,16 @@ To proceed, hit **Delegate** on the right bottom.
 
 Once you've clicked on delegate, you will see this screen:
 
-<img width="981px" src="https://user-images.githubusercontent.com/95366163/148400319-301dc0e3-c0ba-4a1a-8b4a-614205263092.png">
+<img width="981" src="https://user-images.githubusercontent.com/95366163/148555199-0018410e-0f6d-4c0c-9707-6995aee93954.png">
 
-If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](Unbonding_period.md)
+If you don't know what an unbonding period is, we suggest you to first learn about it in our [glossary](Unbonding_period.md).
 
 Once you understand what it means and you've decided how many tokens you wish to stake, hit the **Delegate** button on the right.
 
-You will be asked to approve the transaction with your wallet and choose the transaction fee (low, average or high). <br>
-The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](Transaction_fees.md)
+You will be asked to approve the transaction with your wallet and choose the [transaction fee](Transaction_fees.md) (low, average or high). <br>
+The higher the fee you are willing to pay, the faster the transaction will be completed.
 
-<img width="300" src="https://user-images.githubusercontent.com/95366163/148400379-ccc44a7d-5494-4672-8125-385df93cfa36.png">
+<img width="300" src="https://user-images.githubusercontent.com/95366163/148555558-bda348f8-3baf-45ad-8183-0724e3bc5310.png">
 
 If you want to check the status of your transaction, you can fill in your wallet address on [Minstscan.io](https://www.mintscan.io/persistence). <br>
 There you will find more details about the delegation and see all previous transactions that have been made.
@@ -63,20 +63,16 @@ There you will find more details about the delegation and see all previous trans
 You have now succesfully staked your XPRT tokens!
 
 
-### **4.  Claim rewards and restake regularly to benefit from compounding effects**
+### **4.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
-Make sure to come back to the [Keplr dashboard](https://wallet.keplr.app/#/dashboard) to see the status of your delegation:
+Make sure to check your **Keplr web extention** on a regular basis to see the status of your delegation.
 
-![Dashboard](https://user-images.githubusercontent.com/95366163/147965338-169c020a-c2d9-4d0a-94f3-9530e44dc13d.png)
+You can claim your pending rewards by clicking on the **Claim** button next to your **Pending staking awards**.<br>
+You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
+Once the transaction is complete, these rewards will be added to your available AKT balance. <br> <br>
 
-You can claim your pending rewards by clicking on the **Claim Reward** button in the upper right corner.<br>
-You will be asked to approve the transaction again with your wallet and choose the transaction fee.
+![Claim rewards](https://user-images.githubusercontent.com/95366163/148556552-01c2ec75-8a10-4797-bd03-c5d9e7e4955c.png)
 
-<img width="300" src="https://user-images.githubusercontent.com/95366163/148400447-e4d768fe-d026-4091-87f2-cda2c852d029.png"> 
+You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from the [compounding effect](Compounding_interest.md).
 
-These rewards will be added to your available XPRT balance which you can find on the left under your wallet information.<br>
-
-Or you can go directly to the **Keplr web extention** in your browser to see your progress and claim your pending rewards:
-
-<img width="300px" src="https://user-images.githubusercontent.com/95366163/146570502-4b90f2c8-7855-4d74-997e-86e25d37de88.png">
 
