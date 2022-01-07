@@ -22,7 +22,7 @@ Staking OSMO on Keplr is pretty easy when you follow these few steps:
 
 Which you can easily access by clicking [this link](https://wallet.keplr.app/#/osmosis/stake)
 
-![OSMO stake](https://user-images.githubusercontent.com/95366163/146043409-36de4ed2-017a-4ec9-8ff1-64bf6a89fb8c.png)
+![OSMO stake](https://user-images.githubusercontent.com/95366163/148534451-109f3401-ef97-4727-b736-540fa6f5698e.png)
 
 
 ### **2.  Choose AUDIT.one as your validator**
@@ -31,7 +31,7 @@ You can either do this by scrolling down in the list until you find our logo or 
 
 Once you've found it, click **manage** on the right side:
 
-![Pick AUDIT one OSMO](https://user-images.githubusercontent.com/95366163/144635753-acd8f7c2-923c-414c-83bb-370d34a83241.png)
+![Pick AUDIT one OSMO](https://user-images.githubusercontent.com/95366163/148534478-b088bc1c-ec94-4577-9b65-fe7305b9aea7.png)
 
 This screen will pop up and give you some more info about the validator. 
 
