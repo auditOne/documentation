@@ -53,8 +53,8 @@ If you don't know what an unbonding period is, we suggest you to first read the 
 
 Once you understand what it means and you've decided how many tokens you wish to stake, hit the **Delegate** button on the right.
 
-You will be asked to approve the transaction with your wallet and choose the transaction fee (low, average or high). <br>
-The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](Transaction_fees.md)
+You will be asked to approve the transaction with your wallet and choose the [transaction fee](Transaction_fees.md) (low, average or high). <br>
+The higher the fee you are willing to pay, the faster the transaction will be completed.
 
 <img width="300" src="https://user-images.githubusercontent.com/95366163/148521832-29bc1787-f26f-42e1-af27-273df7dd68cb.png">
 
