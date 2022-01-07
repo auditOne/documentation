@@ -18,7 +18,7 @@ Before continuing with this guide please be sure that:
 
 Staking AKT with Keplr is pretty easy when you follow these few steps:
 
-### <a name="step1"> **1.  Go to the [Akash staking page](https://wallet.keplr.app/#/akashnet/stake)** </a>
+### 1.  Go to the <a name="step1"> [Akash staking page](https://wallet.keplr.app/#/akashnet/stake) </a> 
 
 Which you can easily access by clicking [this link](https://wallet.keplr.app/#/akashnet/stake)
 
@@ -49,7 +49,7 @@ Once you've clicked on delegate, you will see this screen:
 
 <img width="981" src="https://user-images.githubusercontent.com/95366163/148521751-7173e5e6-ffd0-4fb0-8277-4b0b141161a8.png">
 
-If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](Unbonding_period.md)
+If you don't know what an unbonding period is, we suggest you to first learn about it in our [glossary](Unbonding_period.md).
 
 Once you understand what it means and you've decided how many tokens you wish to stake, hit the **Delegate** button on the right.
 
