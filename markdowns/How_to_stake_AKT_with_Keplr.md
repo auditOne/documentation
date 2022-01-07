@@ -73,7 +73,7 @@ You can claim your pending rewards by clicking on the **Claim** button next to y
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
 Once the transaction is complete, these rewards will be added to your available AKT balance. <br> <br>
 
-![Claim Rewards](https://user-images.githubusercontent.com/95366163/148522002-7b77bba7-9371-4b91-ac02-a9be775cdb7c.png)
+![Claim Rewards](https://user-images.githubusercontent.com/95366163/148528041-905a2ada-5994-40f6-bebb-ac73813c3b79.png)
 
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from the [compounding effect](Compounding_interest.md).
 
