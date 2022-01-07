@@ -18,7 +18,7 @@ Before continuing with this guide please be sure that:
 
 Staking AKT with Keplr is pretty easy when you follow these few steps:
 
-### 1.  Go to the <a name="step1"> [Akash staking page](https://wallet.keplr.app/#/akashnet/stake) </a> 
+### **1.  Go to the <a name="step1"> [Akash staking page](https://wallet.keplr.app/#/akashnet/stake) </a>**
 
 Which you can easily access by clicking [this link](https://wallet.keplr.app/#/akashnet/stake)
 
