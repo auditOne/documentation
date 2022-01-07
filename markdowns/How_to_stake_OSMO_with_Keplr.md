@@ -10,14 +10,17 @@ Before continuing with this guide please be sure that:
 
 - **You have a [Keplr wallet](How_to_create_a_Keplr_wallet.md)**
 - **You have OSMO tokens in your Keplr wallet**
-- **You know what [staking](What_is_staking.md) is.**
+- **You know what [staking](What_is_staking.md) is**
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
 ***
 
-### **1.  Go to the [Osmosis staking page](https://wallet.keplr.app/#/osmosis/stake)**
 
-Which you can easily access by clicking this link: [Stake Osmosis](https://wallet.keplr.app/#/osmosis/stake)
+Staking OSMO on Keplr is pretty easy when you follow these few steps:
+
+### **1.  Go to the <a name="step1"> [Osmosis staking page](https://wallet.keplr.app/#/osmosis/stake) </a>**
+
+Which you can easily access by clicking [this link](https://wallet.keplr.app/#/osmosis/stake)
 
 ![OSMO stake](https://user-images.githubusercontent.com/95366163/146043409-36de4ed2-017a-4ec9-8ff1-64bf6a89fb8c.png)
 
@@ -32,9 +35,9 @@ Once you've found it, click **manage** on the right side:
 
 This screen will pop up and give you some more info about the validator. 
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/148368389-1ba35fe5-5412-47ea-b020-e9da4735f212.png">
+<img width="700" src="https://user-images.githubusercontent.com/95366163/148533039-a00b4cf5-e902-4923-83bf-d87cd8f8ea27.png">
 
-Want to get more info about this commission fee? Go to [what is a validator fee?](Validator_fee.md)<br>
+Click [here](Validator_fee.md) to get more info about this commission fee. <br>
 To proceed, hit **Delegate** on the right bottom.
 
 
@@ -42,16 +45,16 @@ To proceed, hit **Delegate** on the right bottom.
 
 Once you've clicked on delegate, you will see this screen:
 
-<img width="981px" src="https://user-images.githubusercontent.com/95366163/148368951-37e7c9f1-3a9c-42b7-a372-1d2a835411fb.png">
+<img width="981" src="https://user-images.githubusercontent.com/95366163/148533277-796a7e3d-3f2e-4239-be27-750963f76181.png">
 
-If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](Unbonding_period.md)
+If you don't know what an unbonding period is, we suggest you to first learn about it in our [glossary](Unbonding_period.md).
 
 Once you understand what it means and you've decided how many tokens you wish to stake, hit the **Delegate** button on the right.
 
-You will be asked to approve the transaction with your wallet and choose the transaction fee (low, average or high). <br>
-The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](Transaction_fees.md)
+You will be asked to approve the transaction with your wallet and choose the [transaction fee](Transaction_fees.md) (low, average or high). <br>
+The higher the fee you are willing to pay, the faster the transaction will be completed.
 
-<img width="300" src="https://user-images.githubusercontent.com/95366163/148364570-f21b03ab-c11e-41e9-8357-6eb6c83d7d73.png">
+<img width="300" src="https://user-images.githubusercontent.com/95366163/148531482-68f51a1d-b520-47c1-a56e-0752bb0db0e9.png">
 
 If you want to check the status of your transaction, you can fill in your wallet address on [Minstscan.io](https://www.mintscan.io/osmosis). <br>
 There you will find more details about the delegation and see all previous transactions that have been made.
@@ -60,20 +63,16 @@ There you will find more details about the delegation and see all previous trans
 You have now succesfully staked your OSMO tokens!
 
 
-### **4.  Claim rewards and restake regularly to benefit from compounding effects**
+### **4.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
-Make sure to come back to the [Keplr dashboard](https://wallet.keplr.app/#/dashboard) to see the status of your delegation:
+Make sure to check your **Keplr web extention** on a regular basis to see the status of your delegation.
 
-![Dashboard](https://user-images.githubusercontent.com/95366163/144883216-74020bb8-5a1b-419c-8229-a26c007e51ac.png)
+You can claim your pending rewards by clicking on the **Claim** button next to your **Pending staking awards**.<br>
+You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
+Once the transaction is complete, these rewards will be added to your available OSMO balance. <br> <br>
 
-You can claim your pending rewards by clicking on the **Claim Reward** button in the upper right corner.<br>
-You will be asked to approve the transaction again with your wallet and choose the transaction fee.
+![Claim rewards](https://user-images.githubusercontent.com/95366163/148532809-57912e3c-276f-45b5-9b74-aad6f741c8a0.png)
 
-<img width="300" src="https://user-images.githubusercontent.com/95366163/148359854-f7a5bd16-eaf5-4d29-80cf-aa57bbf5a4cd.png"> 
+You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from the [compounding effect](Compounding_interest.md).
 
-These rewards will be added to your available OSMO balance which you can find on the left under your wallet information.<br>
-
-Or you can go directly to the **Keplr web extention** in your browser to see your progress and claim your pending rewards: <br>
-
-<img width="300px" align="center" src="https://user-images.githubusercontent.com/95366163/144886384-0b798147-2d36-4788-a261-e15151d30c13.png">
 
