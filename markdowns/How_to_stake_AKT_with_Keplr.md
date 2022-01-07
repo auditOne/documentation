@@ -10,7 +10,7 @@ Before continuing with this guide please be sure that:
 
 - **You have a [Keplr wallet](How_to_create_a_Keplr_wallet.md)**
 - **You have AKT tokens in your Keplr wallet**
-- **You know what [staking](What_is_staking.md) is.**
+- **You know what [staking](What_is_staking.md) is**
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
 ***
