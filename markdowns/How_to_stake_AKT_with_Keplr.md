@@ -18,9 +18,11 @@ Before continuing with this guide please be sure that:
 
 Staking AKT with Keplr is pretty easy when you follow these few steps:
 
+<a name="step1" >
 ### **1.  Go to the [Akash staking page](https://wallet.keplr.app/#/akashnet/stake)**
+</a>
 
-Which you can easily access by clicking this link: [Stake AKT](https://wallet.keplr.app/#/akashnet/stake)
+Which you can easily access by clicking [this link](https://wallet.keplr.app/#/akashnet/stake)
 
 ![Page](https://user-images.githubusercontent.com/95366163/147964603-17f93b7b-4389-4a4f-8638-368ee679e4fe.png)
 
@@ -36,6 +38,7 @@ Once you've found it, click **manage** on the right side:
 This screen will pop up and give you some more info about the validator. 
 
 <img width="700" src="https://user-images.githubusercontent.com/95366163/148434355-31d04e5c-1e93-48dd-b831-959c178c13db.png">
+![Click Delegate First](https://user-images.githubusercontent.com/95366163/148521007-e1639b17-c41f-45d4-bc63-d8c23c435db6.png)
 
 Click [here](Validator_fee.md) to get more info about this commission fee. <br>
 
@@ -46,7 +49,7 @@ To proceed, hit **Delegate** on the right bottom.
 
 Once you've clicked on delegate, you will see this screen:
 
-<img width="981px" src="https://user-images.githubusercontent.com/95366163/148434387-c5376330-6c2d-4431-8d6e-9a57d6348213.png">
+<img width="981" src="https://user-images.githubusercontent.com/95366163/148521751-7173e5e6-ffd0-4fb0-8277-4b0b141161a8.png">
 
 If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](Unbonding_period.md)
 
@@ -55,7 +58,7 @@ Once you understand what it means and you've decided how many tokens you wish to
 You will be asked to approve the transaction with your wallet and choose the transaction fee (low, average or high). <br>
 The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](Transaction_fees.md)
 
-<img width="300" src="https://user-images.githubusercontent.com/95366163/148405827-84655c7b-e275-4f47-935a-edc7b436b99c.png">
+<img width="300" src="https://user-images.githubusercontent.com/95366163/148521832-29bc1787-f26f-42e1-af27-273df7dd68cb.png">
 
 If you want to check the status of your transaction, you can fill in your wallet address on [Minstscan.io](https://www.mintscan.io/akash). <br>
 There you will find more details about the delegation and see all previous transactions that have been made.
@@ -72,9 +75,9 @@ You can claim your pending rewards by clicking on the **Claim** button next to y
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
 Once the transaction is complete, these rewards will be added to your available AKT balance. <br> <br>
 
-<img width="800" src="https://user-images.githubusercontent.com/95366163/148435560-88beed7e-1d93-4079-bc07-2234c0d5dd25.png"> 
+![Claim Rewards](https://user-images.githubusercontent.com/95366163/148522002-7b77bba7-9371-4b91-ac02-a9be775cdb7c.png)
 
-You can now go back to step 1 and restake your rewards to benefit from the [compounding effect](Compounding_interest.md).
+You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from the [compounding effect](Compounding_interest.md).
 
 
 
