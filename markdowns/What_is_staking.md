@@ -7,7 +7,7 @@
 Wether you're new to crypto or you've already taken your first steps, staking is a term you'll often come across. <br> 
 Staking is a way of verifying transactions in Proof-of-Stake networks and allows participants aka "stakers" or "delegators" to earn rewards on their assets.
 
-### But what is crypto staking? 
+## But what is crypto staking? 
 
 Staking means locking tokes to secure the underlying blockchain network and receive rewards for that. <br>
 When you stake a cryptocurrency, you commit your tokens to support a blockchain network and confirm transactions. <br>
@@ -15,7 +15,7 @@ It's only available for cryptocurrencies that use a [Proof-of-Stake](Proof_of_St
 
 Staking can be a great way to generate passive income, especially because some cryptocurrencies offer high interest rates for staking. But before you get started, it's important to fully understand how crypto staking works.
 
-### How staking works
+## How staking works
 With cryptocurrencies that use the Proof-of-Stake model, staking is how new transactions are added to the blockchain.
 
 Staking participants first pledge their coins to the cryptocurrency protocol after which the protocol chooses validators from those participants, to confirm blocks of transactions. The more coins you pledge, the more likely you are to be chosen as a validator.
