@@ -71,7 +71,7 @@ You can claim your pending rewards by clicking on the **Claim** button next to y
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
 Once the transaction is complete, these rewards will be added to your available OSMO balance. <br> <br>
 
-![Claim rewards](https://user-images.githubusercontent.com/95366163/148532809-57912e3c-276f-45b5-9b74-aad6f741c8a0.png)
+![Claim rewards](https://user-images.githubusercontent.com/95366163/148682458-581b3490-d45f-4da6-bdb6-fc383a8055aa.png)
 
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from the [compounding effect](Compounding_interest.md).
 
