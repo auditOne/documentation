@@ -1,6 +1,6 @@
 # About AUDIT.one
 
-[AUDIT.one](https://audit.one) is the infrastructure arm of [Persistence](https://persistence.one) and has become one of the biggest validators in South Asia, running nodes across more than 20 leading networks such as [Cosmos](Cosmos.md), [Polygon](Polygon.md), [Solana](Solana.md), [Near](Near.md), [Elrond](Elrond.md), [Celo](Celo.md), [Terra](Terra.md) and [many more](Networks.md). 
+[AUDIT.one](https://audit.one) is the infrastructure arm of [Persistence](https://persistence.one) and has become one of the biggest validators in South Asia, running nodes across more than 20 leading networks such as [Cosmos](Cosmos.md), [Polygon](Polygon.md), [Solana](Solana.md), [Elrond](Elrond.md), [Terra](Terra.md) and [many more](Networks.md). 
 
 Currently, AUDIT.one has over $300M worth of assets under delegation, and is rapidly scaling up the team to add on more networks and build products for these networks and the community around them, in order to further accelerate the adoption of web3 and decentralised technology.  
 
@@ -23,7 +23,7 @@ We are a team of experienced business and technology professionals who believe t
 
 
 ## Our Operations, Architecture & Security
-We have a highly redundant setup with self-hosted data centers across multiple geographical locations in combination with selected Cloud Infrastructure providers.
+We have a highly redundant setup with data centers across multiple geographical locations in combination with selected Cloud Infrastructure providers.
 
 We have a deep understanding of the importance of having a fault-tolerant and attack resistant setup. We use Sentry Nodes to fend off DDoS attacks, and have real-time alerting and monitoring solutions to ensure our nodes keep running 24/7/365.
 
