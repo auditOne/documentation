@@ -13,7 +13,7 @@ But before you get started, it's important to fully understand how staking works
 
 ## How staking works
 
-If you want to stake your tokens, you don't necessarily have to become a validator yourself. You just have to look for a validator you trust and delegate your assets to them. They will validate the transactions for you and the staking rewards will be distributed towards the delegators, minus the valitdor's commission.
+If you want to stake your tokens, you don't necessarily have to become a validator yourself. You just have to look for a validator you trust and delegate your assets to them. They will validate the transactions for you and the staking rewards will be distributed towards the delegators, minus the [valitdor's commission](Validator_fee.md).
 
 So with staking, token holders assigns some or all of their tokens to a one or more validatos, which helps increase those validators’ voting weight. Assigning your tokens to a validator is known as “delegating”. Delegating your tokens to a validator does **not** give the validator ownership or control over your tokens. At all times, this is non-custodial and you always stay in control of all your staked tokens that you may have chosen to delegate. What you're essentialy doing is put your assets to work, and you're free to unstake them later if you want to trade them again. Do bear in mind that the staking process often implicates an [unbonding period](Unbonding_period.md) before your tokens become liquid again.
 
