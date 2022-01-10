@@ -3,7 +3,7 @@
 Wether you're new to crypto or you've already taken your first steps, staking is a term you'll often come across. <br> 
 Staking is a way of verifying transactions in Proof-of-Stake networks and allows participants aka "stakers" or "delegators" to earn rewards on their assets.
 
-## But what is crypto staking? 
+## But what is staking? 
 
 On networks that use a [Proof-of-Stake](Proof_of_stake.md) (PoS) consensus mechanism, validators are responsible for processing new incoming transactions as well as for voting on and adding new blocks to the blockchain. Token holders can participate in the network and earn rewards by delegating their tokens to stake with one of the hundreds of validators who run, maintain and secure the blockchain. Validators with more stake are chosen to write new transactions to the ledger and pass on more rewards to delegators for helping keep the network running as quickly and smoothly as possible.
 This is a more energy-efficient alternative to the original [Proof-of-Work](Proof_of_work.md) model that is used by Bitcoin for example. 
