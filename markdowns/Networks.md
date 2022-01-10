@@ -31,7 +31,22 @@
    </div>
   </a>
    
-<a href="https://audit-docs.auditdev.workers.dev/Elrond/" target="_self">
+  <a href="https://audit-docs.auditdev.workers.dev/Cryptocom/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         CRYPTO.COM
+         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877600-2a7f0740-caf2-473d-8132-f0f42f497875.png">
+       </p>
+     </div>
+   </div>
+  </a>
+   
+</div>
+
+<div class="maincard">
+   
+ <a href="https://audit-docs.auditdev.workers.dev/Elrond/" target="_self">
    <div class="card"> 
      <p class="heading">
       ELROND 
@@ -39,10 +54,6 @@
      </p>
    </div>
   </a>
-   
-</div>
-
-<div class="maincard">
    
   <a href="https://audit-docs.auditdev.workers.dev/Osmosis/" target="_self">
    <div class="card">
@@ -66,6 +77,10 @@
    </div>
   </a>
 
+ </div>
+ 
+<div class="maincard">
+
   <a href="https://audit-docs.auditdev.workers.dev/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
@@ -74,9 +89,6 @@
      </p>
    </div>
   </a>
- </div>
- 
-<div class="maincard">
    
   <a href="https://audit-docs.auditdev.workers.dev/Terra/" target="_self">
    <div class="card">
@@ -86,7 +98,6 @@
      </p>
    </div>
   </a>
-
 
 </div>
 
@@ -143,17 +154,6 @@
    </div>
   </a>
 
-  <a href="https://audit-docs.auditdev.workers.dev/Cryptocom/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         CRYPTO.COM
-         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877600-2a7f0740-caf2-473d-8132-f0f42f497875.png">
-       </p>
-     </div>
-   </div>
-  </a>
-   
   <a href="https://audit-docs.auditdev.workers.dev/Harmony/" target="_self">
    <div class="card">
      <div>
@@ -165,10 +165,6 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
   <a href="https://audit-docs.auditdev.workers.dev/Injective/" target="_self">
    <div class="card">
      <div>
@@ -179,6 +175,10 @@
      </div>
    </div>
   </a>
+   
+</div>
+
+<div class="maincard">
 
   <a href="https://audit-docs.auditdev.workers.dev/Irisnet/" target="_self">
    <div class="card">
@@ -201,10 +201,6 @@
      </div>
    </div>
   </a>
-   
-</div>
-
-<div class="maincard">
 
   <a href="https://audit-docs.auditdev.workers.dev/Juno/" target="_self">
    <div class="card">
@@ -216,6 +212,10 @@
      </div>
    </div>
   </a>
+   
+</div>
+
+<div class="maincard">
 
   <a href="https://audit-docs.auditdev.workers.dev/Kava/" target="_self">
    <div class="card">
@@ -239,10 +239,6 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
   <a href="https://audit-docs.auditdev.workers.dev/Marlin/" target="_self">
    <div class="card">
      <div>
@@ -252,7 +248,11 @@
        </p>
      </div>
    </div>
-  </a>
+  </a>  
+   
+</div>
+
+<div class="maincard">
 
   <a href="https://audit-docs.auditdev.workers.dev/Near/" target="_self">
    <div class="card">
@@ -275,12 +275,7 @@
      </div>
    </div>
   </a>
-
-</div>
-
-<div class="maincard">
    
-
   <a href="https://audit-docs.auditdev.workers.dev/Skale/" target="_self">
    <div class="card">
      <div>
@@ -291,6 +286,10 @@
      </div>
    </div>
   </a>
+   
+</div>
+
+<div class="maincard">
 
   <a href="https://audit-docs.auditdev.workers.dev/Solana/" target="_self">
    <div class="card">
@@ -313,9 +312,6 @@
      </div>
    </div>
   </a> 
-</div>
-
-<div class="maincard">
    
   <a href="https://audit-docs.auditdev.workers.dev/Tezos/" target="_self">
    <div class="card">
@@ -328,6 +324,10 @@
    </div>
   </a>
    
+</div>
+
+<div class="maincard">
+  
   <a target="_self">
    <div class="card">
      <div>
