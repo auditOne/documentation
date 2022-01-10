@@ -49,3 +49,14 @@
    </div>
   </a>
 </div>
+
+<div class="maincard">
+  <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Phantom_wallet/" target="_self">
+   <div class="card"> 
+     <p class="heading">
+      Phantom Wallet 
+     <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/148819615-e193c983-7cf6-4ff0-85bd-600ab37bb1f8.png">
+     </p>
+   </div>
+  </a>
+</div>
