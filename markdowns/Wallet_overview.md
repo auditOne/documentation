@@ -39,19 +39,8 @@
      </p>
    </div>
   </a>
-   
-  <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Terra_wallet/" target="_self">
-   <div class="card">
-     <p class="heading">
-      Terra Wallet
-     <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987147-0f3caf37-90f4-4b4d-89e0-b97dea313fba.png">
-     </p>
-   </div>
-  </a>
-</div>
-
-<div class="maincard">
-  <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Phantom_wallet/" target="_self">
+ 
+ <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Phantom_wallet/" target="_self">
    <div class="card"> 
      <p class="heading">
       Phantom Wallet 
@@ -59,4 +48,18 @@
      </p>
    </div>
   </a>
+   
+</div>
+
+<div class="maincard">
+
+ <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Terra_wallet/" target="_self">
+   <div class="card">
+     <p class="heading">
+      Terra Wallet
+     <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987147-0f3caf37-90f4-4b4d-89e0-b97dea313fba.png">
+     </p>
+   </div>
+  </a>
+   
 </div>
