@@ -67,7 +67,7 @@ Make sure to check your **Keplr web extention** on a regular basis to see the st
 
 You can claim your pending rewards by clicking on the **Claim** button next to your **Pending staking awards**.<br>
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
-Once the transaction is complete, these rewards will be added to your available OSMO balance. <br> <br>
+Once the transaction is complete, these rewards will be added to your available IXO balance. <br> <br>
 
 ![Claim rewards](https://user-images.githubusercontent.com/95366163/148812377-e135852b-1bfd-41d8-a968-3549a5fdb5ad.png)
 
