@@ -19,7 +19,7 @@ _(If you already have a Keplr wallet but did not yet add the extension for your 
 
 You will get to see a random list of words what is called the **Mnemonic Seed Phrase** and be asked to give your account a name and create a password.
 
-<img width="350" align="left" src="https://user-images.githubusercontent.com/95366163/145225450-148b233f-6e5c-466a-9b57-f79f6be8a5b5.png">
+<img width="350" align="left" src="https://user-images.githubusercontent.com/95366163/145225450-148b233f-6e5c-466a-9b57-f79f6be8a5b5.png"> <br>
 
 #### Attention!
 
@@ -47,11 +47,3 @@ Hit **register** and you are good to go! <br>
 ### Congratulations!
 
 You have succesfully created your **Keplr wallet**!
-
-
-
-
-
-
-
-
