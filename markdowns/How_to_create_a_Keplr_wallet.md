@@ -36,7 +36,6 @@ Choose a safe password, confirm it and **click next**. <br>
 <br>
 <br>
 
-
 To finish the creation of your wallet, you will now be asked to **regenerate the Mnemonic Seed phrase.** <br>
 As we said before, the order in which the words are ranked is important! <br>
 
