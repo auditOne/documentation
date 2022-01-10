@@ -15,3 +15,5 @@ If you want to stake your tokens, you don't necessarily have to become a validat
 
 So with staking, token holders assigns some or all of their tokens to a one or more validatos, which helps increase those validators’ voting weight. Delegating your tokens to a validator however, does **not** give the validator ownership or control over your tokens. At all times, this is fully [non-custodial](Non_custodial.md), so you always stay in control of all your staked tokens that you may have chosen to delegate. What you're essentialy doing is put your assets to work, and you're free to unstake them later if you want to trade them again. Do bear in mind that the staking process often implicates an [unbonding period](Unbonding_period.md) before your tokens become liquid again.
 
+
+**Check out our [network overview page](Networks.md) to get started on staking and earn your own passive income!**
