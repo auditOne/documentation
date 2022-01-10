@@ -9,7 +9,7 @@
 Before continuing with this guide please be sure that:
 
 - **You have an [Elrond wallet](How_to_create_an_Elrond_wallet.md)**
-- **You have at least one [eGLD token](How_to_get_eGLD_tokens.md) in your Elrond wallet**
+- **You have at least one eGLD token in your Elrond wallet**
 - **You know what [staking](What_is_staking.md) is.**
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
