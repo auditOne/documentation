@@ -9,7 +9,8 @@
 </div>
 
 <div class="maincard">
-    <a href="https://audit-docs.auditdev.workers.dev/Akash/" target="_self">
+   
+ <a href="https://audit-docs.auditdev.workers.dev/Akash/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -43,7 +44,7 @@
   </a>
    
 </div>
-
+   
 <div class="maincard">
    
  <a href="https://audit-docs.auditdev.workers.dev/Elrond/" target="_self">
@@ -52,6 +53,17 @@
       ELROND 
      <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146986696-60e625c7-7966-48fa-bfd2-da671c451302.png">
      </p>
+   </div>
+  </a>
+   
+ <a href="https://audit-docs.auditdev.workers.dev/Ixo/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          IXO
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877776-22e962a9-3deb-4b4c-925b-ea40adeb78b8.png">
+        </p>
+     </div>
    </div>
   </a>
    
@@ -66,6 +78,10 @@
    </div>
   </a>
    
+</div>
+ 
+<div class="maincard">
+   
   <a href="https://audit-docs.auditdev.workers.dev/Persistence/" target="_self">
    <div class="card">
      <div>
@@ -77,10 +93,6 @@
    </div>
   </a>
 
- </div>
- 
-<div class="maincard">
-
   <a href="https://audit-docs.auditdev.workers.dev/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
@@ -89,6 +101,21 @@
      </p>
    </div>
   </a>
+   
+  <a href="https://audit-docs.auditdev.workers.dev/Sentinel/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          SENTINEL
+           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960568-2586b051-db7e-4777-8d73-3923ddbfb6f7.png">
+        </p>
+     </div>
+   </div>
+  </a>
+   
+ </div>
+ 
+<div class="maincard">
    
   <a href="https://audit-docs.auditdev.workers.dev/Terra/" target="_self">
    <div class="card">
@@ -191,17 +218,6 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Ixo/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          IXO
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877776-22e962a9-3deb-4b4c-925b-ea40adeb78b8.png">
-        </p>
-     </div>
-   </div>
-  </a>
-
   <a href="https://audit-docs.auditdev.workers.dev/Juno/" target="_self">
    <div class="card">
      <div>
@@ -213,11 +229,7 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
-  <a href="https://audit-docs.auditdev.workers.dev/Kava/" target="_self">
+ <a href="https://audit-docs.auditdev.workers.dev/Kava/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -227,6 +239,10 @@
      </div>
    </div>
   </a>
+   
+</div>
+
+<div class="maincard">
    
   <a href="https://audit-docs.auditdev.workers.dev/Kusama/" target="_self">
    <div class="card">
@@ -250,10 +266,6 @@
    </div>
   </a>  
    
-</div>
-
-<div class="maincard">
-
   <a href="https://audit-docs.auditdev.workers.dev/Near/" target="_self">
    <div class="card">
      <div>
@@ -265,17 +277,10 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Sentinel/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          SENTINEL
-           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960568-2586b051-db7e-4777-8d73-3923ddbfb6f7.png">
-        </p>
-     </div>
-   </div>
-  </a>
-   
+</div>
+
+<div class="maincard">
+
   <a href="https://audit-docs.auditdev.workers.dev/Skale/" target="_self">
    <div class="card">
      <div>
@@ -286,10 +291,6 @@
      </div>
    </div>
   </a>
-   
-</div>
-
-<div class="maincard">
 
   <a href="https://audit-docs.auditdev.workers.dev/Solana/" target="_self">
    <div class="card">
@@ -313,6 +314,10 @@
    </div>
   </a> 
    
+</div>
+
+<div class="maincard">
+   
   <a href="https://audit-docs.auditdev.workers.dev/Tezos/" target="_self">
    <div class="card">
      <div>
@@ -323,11 +328,7 @@
      </div>
    </div>
   </a>
-   
-</div>
 
-<div class="maincard">
-  
   <a target="_self">
    <div class="card">
      <div>
@@ -338,5 +339,6 @@
      </div>
    </div>  
   </a>
+   
  </div>
 
