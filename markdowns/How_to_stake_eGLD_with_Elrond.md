@@ -61,7 +61,7 @@ Wait for the transaction to be processed, and you're all done!
 You have now succesfully staked your eGLD tokens!
 
 
-### **3.  Sit back and watch your tokens earn rewards**
+### **3.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
 Make sure to come back to the [Elrond staking dashboard](https://wallet.elrond.com/delegation) to see the status of your delegations. <br>
 
