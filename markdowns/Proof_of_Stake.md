@@ -1,6 +1,6 @@
 # Proof-of-Stake
 
-Many cryptos use the [Proof-of-Work](Proof_of_Work.md) model to add blocks to their blockchains. The problem with Proof-of-Work is that it requires considerable computing power. That has led to significant energy usage from cryptocurrencies that use Proof-of-Work.
+Many networks use the [Proof-of-Work](Proof_of_Work.md) model to add blocks to their blockchains. The problem with Proof-of-Work is that it requires considerable computing power. That has led to significant energy usage from cryptocurrencies that use Proof-of-Work.
 
 Proof-of-Stake, on the other hand, doesn't require nearly as much energy. This also makes it a more scalable option that can handle greater numbers of transactions.
 
