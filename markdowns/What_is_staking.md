@@ -5,7 +5,7 @@ In simple terms, staking means locking up your digital assets in order to earn r
 
 ## But what is staking and how does it work? 
 
-On networks that use a [Proof-of-Stake](Proof_of_stake.md) (PoS) consensus mechanism, validators are responsible for processing new transactions as well as for voting on and adding new blocks to the blockchain. Token holders can participate in the network and earn rewards by delegating their tokens to stake with one of the hundreds of validators who run, maintain and secure the blockchain. 
+On networks that use a [Proof-of-Stake](Proof_of_Stake.md) (PoS) consensus mechanism, validators are responsible for processing new transactions as well as for voting on and adding new blocks to the blockchain. Token holders can participate in the network and earn rewards by delegating their tokens to stake with one of the hundreds of validators who run, maintain and secure the blockchain. 
 
 This is a more energy-efficient alternative to the original [Proof-of-Work](Proof_of_work.md) (PoW) model that is used by Bitcoin for example. 
 
