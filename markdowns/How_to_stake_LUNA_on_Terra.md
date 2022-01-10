@@ -10,7 +10,7 @@
 Before continuing with this guide please be sure that:
 
 - **You have a [Terra wallet](How_to_create_a_Terra_wallet.md)** OR **any other wallet that holds LUNA tokens**.
-- **You have [LUNA tokens](How_to_get_LUNA_tokens.md) in your wallet**
+- **You have LUNA tokens in your wallet**
 - **You know what [staking](What_is_staking.md) is.**
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
