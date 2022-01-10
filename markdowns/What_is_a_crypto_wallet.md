@@ -1,8 +1,6 @@
 # About crypto wallets
 
-A crypto wallet is nothing like your real-life wallet. Where your regular wallet is nothing less than a 'case' for storing your physical money or credit cards, crypto wallets are more or less your identity when you buy digital assets or any kind of token: its address is how your buying and selling is recorded on the blockchain.
-
-They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, Metamask wallet, Keplr wallet, etc.. which makes using digital assets as easy as shopping with a credit card online.
+Crypto wallets come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, Metamask wallet, Keplr wallet, etc.. which make using digital assets as easy as shopping with a credit card online.
 
 ## How do they work?
 
