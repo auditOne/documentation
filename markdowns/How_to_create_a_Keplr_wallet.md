@@ -15,9 +15,11 @@ Click on “**Install for Chrome**”, allow the extension to be added and a Kep
 Click on the Keplr extension icon you’ve just added and **create a new account**. <br>
 _(If you already have a Keplr wallet but did not yet add the extension for your current device, you can import an existing account.)_ <br>
 
+<img width="350" src="https://user-images.githubusercontent.com/95366163/145223011-20a94f6a-d3d3-4d6a-98c4-f21a22514c3a.png">
+
 You will get to see a random list of words what is called the **Mnemonic Seed Phrase** and be asked to give your account a name and create a password.
 
-<img width="350" align="left" src="https://user-images.githubusercontent.com/95366163/145223011-20a94f6a-d3d3-4d6a-98c4-f21a22514c3a.png">
+<img width="350" align="left" src="https://user-images.githubusercontent.com/95366163/145225450-148b233f-6e5c-466a-9b57-f79f6be8a5b5.png">
 
 #### Attention!
 
@@ -26,14 +28,14 @@ Not only the words, but also the order of the words is important. Anyone who has
 You are able to choose a phrase that consists of 12 or 24 words. The more words you have, the more secure your phrase is, but this choice is up to you.
 <br>
 <br>
-<br>
-<br>
-<br>
 
 The name of the account is of lesser importance as this can always be changed in the future. <br>
-Choose a safe password, confirm it and **click next**.
+Choose a safe password, confirm it and **click next**. <br>
+<br>
+<br>
+<br>
+<br>
 
-<img width="350" src="https://user-images.githubusercontent.com/95366163/145225450-148b233f-6e5c-466a-9b57-f79f6be8a5b5.png"> <br>
 
 To finish the creation of your wallet, you will now be asked to **regenerate the Mnemonic Seed phrase.** <br>
 As we said before, the order in which the words are ranked is important! <br>
