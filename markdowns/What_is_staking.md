@@ -9,7 +9,7 @@ On networks that use a [Proof-of-Stake](Proof_of_stake.md) (PoS) consensus mecha
 This is a more energy-efficient alternative to the original [Proof-of-Work](Proof_of_work.md) model that is used by Bitcoin for example. 
 
 Staking can be a great way to generate passive income, especially because some networks offer high interest rates for staking. <br>
-But before you get started, it's important to fully understand how crypto staking works.
+But before you get started, it's important to fully understand how staking works.
 
 ## How staking works
 
