@@ -1,29 +1,19 @@
 # About staking
 
-# TO BE ADJUSTED
-
-(currencies er uit halen)
-
 Wether you're new to crypto or you've already taken your first steps, staking is a term you'll often come across. <br> 
 Staking is a way of verifying transactions in Proof-of-Stake networks and allows participants aka "stakers" or "delegators" to earn rewards on their assets.
 
 ## But what is crypto staking? 
 
-Staking means locking tokens to secure the underlying blockchain network and receive rewards for that. <br>
-When you stake tokend, you commit your assets to support a blockchain network and confirm transactions. <br>
-It's only available for networks that use a [Proof-of-Stake](Proof_of_Stake.md) consensus mechanism to validate transactions. This is a more energy-efficient alternative to the original [Proof-of-Work](Proof_of_work.md) model that is used by Bitcoin for example. Proof-of-work requires mining devices that use computing power to solve mathematical equations.
+On networks that use a [Proof-of-Stake](Proof_of_stake.md) (PoS) consensus mechanism, validators are responsible for processing new incoming transactions as well as for voting on and adding new blocks to the blockchain. Token holders can participate in the network and earn rewards by delegating their tokens to stake with one of the hundreds of validators who run, maintain and secure the blockchain. Validators with more stake are chosen to write new transactions to the ledger and pass on more rewards to delegators for helping keep the network running as quickly and smoothly as possible.
+This is a more energy-efficient alternative to the original [Proof-of-Work](Proof_of_work.md) model that is used by Bitcoin for example. 
 
-Staking can be a great way to generate passive income, especially because some networks offer high interest rates for staking. But before you get started, it's important to fully understand how crypto staking works.
+Staking can be a great way to generate passive income, especially because some networks offer high interest rates for staking. <br>
+But before you get started, it's important to fully understand how crypto staking works.
 
 ## How staking works
-With cryptocurrencies that use the Proof-of-Stake model, staking is how new transactions are added to the blockchain.
 
-Staking participants first pledge their coins to the cryptocurrency protocol after which the protocol chooses validators from those participants, to confirm blocks of transactions. The more coins you pledge, the more likely you are to be chosen as a validator.
+If you want to stake your tokens, you don't necessarily have to become a validator yourself. You just have to look for a validator you trust and delegate your assets to them. They will validate the transactions for you and the staking rewards will be distributed towards the delegators, minus the valitdor's commission.
 
-Every time a block is added to the blockchain, new cryptocurrency coins are minted and distributed as staking rewards to that block's validator. In most cases, the rewards are paid in the native cryptocurrency tokens that participants are staking. However, some blockchains use a different type of cryptocurrency for rewards.
-
-If you want to stake crypto yourself, you don't necessarily have to become a validator. You just have to look for a validator you trust and delegate your assets to them. They will validate the transactions for you and the staking rewards, will be distributed towards the delegators minus the valitdor's commission.
-
-(non-custodial)
-Important to know is that your coins are still in your possession when you stake them. What you're essentialy doing is put your assets to work, and you're free to unstake them later if you want to trade them. The unstaking process may not be immediate, as for most cryptocurrencies. You can find more info about this [unbonding period](Unbonding_period.md) here.
+So with staking, token holders assigns some or all of their tokens to a one or more validatos, which helps increase those validators’ voting weight. Assigning your tokens to a validator is known as “delegating”. Delegating your tokens to a validator does **not** give the validator ownership or control over your tokens. At all times, this is non-custodial and you always stay in control of all your staked tokens that you may have chosen to delegate. What you're essentialy doing is put your assets to work, and you're free to unstake them later if you want to trade them again. Do bear in mind that the staking process often implicates an [unbonding period](Unbonding_period.md) before your tokens become liquid again.
 
