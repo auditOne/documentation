@@ -40,6 +40,7 @@ Not only the words, but also the order of the words is important. Anyone who has
 <br>
 <br>
 <br>
+<br>
 
 If you've chosen a safe password and stored your seed phrase safely, hit **Next** to continue.
 
