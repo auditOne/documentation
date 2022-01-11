@@ -2,7 +2,7 @@
  
 * **APR** or **Annual Percentage Rate** represents the expected annual return from staking your tokens. <br>
 It gives you a rate that is easily comparable to the returns on other protocols. <br>
-The APR does not take into account the [compounding effects](compound_interest.md) of restaking your rewards. 
+The APR does not take into account the [compounding effects](Compound_interest.md) of restaking your rewards. 
 
 * **[APY](APY.md)** or **Annual Percentage Yield** is the expected annual compound return, expressed in percentages. <br>
 This includes both the interest on the initial amount invested and the compound interests on the rewards you receive from staking. <br>
