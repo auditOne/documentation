@@ -5,7 +5,7 @@ It gives you a rate that is easily comparable to the returns on other protocols.
 The APR does not take into account the [compounding effects](Compound_interest.md) of restaking your rewards. 
 
 * In comparison,**[APY](APY.md)** or **Annual Percentage Yield** is the expected annual compound return, expressed in percentages. <br>
-This includes both the interest on the initial amount invested and the compound interests on the rewards you receive from staking. <br>
+This includes both the interest on the initial amount invested and the compound interests on the rewards you receive from staking.
 In other words, you earn additional interst on your interests.
 
 # Example
