@@ -18,7 +18,7 @@ Before continuing with this guide please be sure that:
 
 Staking SOL on Phantom is pretty easy when you follow these few steps:
 
-### **1.  Go to the <a name="step1"> Phantom web extension in your browser </a>**
+### **<a name="step1">1.  Go to the Phantom web extension in your browser </a>**
 
 Which you can easily access by clicking the Phantom icon next to the search bar or using the shortcut: **ALT + SHIFT + P** <br>
 To get started, click on your **Solana balance** followed by **Start earning SOL**.
