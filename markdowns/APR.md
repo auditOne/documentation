@@ -27,3 +27,6 @@ How much will you earn after 1 year?
     - (1000 * (1.00192308)^52 = 1105.065)
 
 The reason Protocol B is a better investment is because the APY includes the rewards paid in previous periods. With Protocol A, interests are only calculated on the initial amount invested.
+
+Depending on how often you claim and restake your rewards, your APY will differ.
+You can calculate your own APY via [this link](https://www.aprtoapy.com/)
