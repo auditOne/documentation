@@ -3,7 +3,7 @@
 </p>
 
 [Solana](https://solana.com/) is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
-Solana is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with over 400 projects spanning DeFi, NFTs, Web3 and more.
+Solana is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with over 400 projects spanning [DeFi](DeFi.md), [NFTs](NFT.md), Web3 and more.
 
 
 [<p align="center">
