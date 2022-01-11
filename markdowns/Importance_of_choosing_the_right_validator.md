@@ -1,4 +1,4 @@
-# Choosing the right validator?
+# Choosing the right validator
 
 It might be overwelming when it comes to choosing the right validator to delegate your crypto tokens to as the number of validators keeps growing.
 We will try to make that decision a little easier for you by dividing them in different categories. But what might even be more important is that, with a little research of yourself, you should choose a validator that fits your needs best!
