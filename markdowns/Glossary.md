@@ -4,6 +4,7 @@ In this glossary we have gathered a list of words and terms that will help you b
 
 ## A
   - [APR](APR.md)
+  - [APY](APY.md)
 ## B
   - [Blockchain](Blockchain.md)
 ## C
