@@ -45,7 +45,7 @@ To proceed, fill in the amount you would like to stake and hit the **Stake butto
 
 Wait until the transaction is excecuted and **done!**
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/148989267-13cd1f40-5c72-42b7-8142-62ccb5280cba.png"
+<img width="700" src="https://user-images.githubusercontent.com/95366163/148989267-13cd1f40-5c72-42b7-8142-62ccb5280cba.png">
 
 If you want to check the status of your transaction, you can click on the **View transaction** link or fill in your wallet address on [Solscan.io](https://solscan.io/). <br>
 There you will find more details about the delegation and see all previous transactions that have been made.
