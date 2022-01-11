@@ -7,6 +7,6 @@ Solana is the fastest blockchain in the world and the fastest growing ecosystem 
 
 
 [<p align="center">
-  <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/148081787-e7f3e5bd-34d1-4e8d-8c47-06928d698cd2.png">
+  <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/148992401-ea0a3bbf-9ba1-432c-81be-93e9e027d8b3.png">
 </p>](How_to_stake_SOL_on_Phantom.md)
 
