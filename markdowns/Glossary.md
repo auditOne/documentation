@@ -39,6 +39,7 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## S
   - [Sharding](Sharding.md)
   - [Slashing](Slashing.md)
+  - [Slippage](Slippage.md)
   - [Smart contracts](Smart_contracts.md)
 ## T
   - [Transaction fees](Transaction_fees.md)
