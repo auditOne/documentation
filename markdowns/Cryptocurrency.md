@@ -4,4 +4,5 @@ A cryptocurrency is a digital form of money. At its core, cryptocurrency is typi
 
 Crypto makes it possible to transfer value online without the need for a middleman like a bank or payment processor, allowing value to be transferred globally, near-instantly, 24/7, for negligible fees. 
 
-If a bank or government isn’t involved, how is crypto secure? It’s secure because all transactions are vetted by a technology called a [blockchain](Blockchain.md).
+**If no bank or government is involved, how is crypto secure?** <br>
+It’s secure because all transactions are vetted by a technology called a [blockchain](Blockchain.md).
