@@ -10,7 +10,7 @@
 
 <div class="maincard">
    
- <a href="https://audit-docs.auditdev.workers.dev/Akash/" target="_self">
+ <a href="https://wiki.audit.one/Akash/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -21,7 +21,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Cosmos/" target="_self">
+  <a href="https://wiki.audit.one/Cosmos/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -32,7 +32,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Cryptocom/" target="_self">
+  <a href="https://wiki.audit.one/Cryptocom/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -47,7 +47,7 @@
    
 <div class="maincard">
    
- <a href="https://audit-docs.auditdev.workers.dev/Elrond/" target="_self">
+ <a href="https://wiki.audit.one/Elrond/" target="_self">
    <div class="card"> 
      <p class="heading">
       ELROND 
@@ -56,7 +56,7 @@
    </div>
   </a>
    
- <a href="https://audit-docs.auditdev.workers.dev/Ixo/" target="_self">
+ <a href="https://wiki.audit.one/Ixo/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -67,7 +67,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Osmosis/" target="_self">
+  <a href="https://wiki.audit.one/Osmosis/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -82,7 +82,7 @@
  
 <div class="maincard">
    
-  <a href="https://audit-docs.auditdev.workers.dev/Persistence/" target="_self">
+  <a href="https://wiki.audit.one/Persistence/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -93,7 +93,7 @@
    </div>
   </a>
 
-  <a href="https://audit-docs.auditdev.workers.dev/Polygon/" target="_self">
+  <a href="https://wiki.audit.one/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
       POLYGON 
@@ -102,7 +102,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Sentinel/" target="_self">
+  <a href="https://wiki.audit.one/Sentinel/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -117,7 +117,7 @@
  
 <div class="maincard">
    
-  <a href="https://audit-docs.auditdev.workers.dev/Solana/" target="_self">
+  <a href="https://wiki.audit.one/Solana/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -128,7 +128,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Terra/" target="_self">
+  <a href="https://wiki.audit.one/Terra/" target="_self">
    <div class="card">
      <p class="heading">
       TERRA
@@ -143,7 +143,7 @@
 
 <div class="maincard">
    
-  <a href="https://audit-docs.auditdev.workers.dev/Agoric/" target="_self">
+  <a href="https://wiki.audit.one/Agoric/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -155,7 +155,7 @@
   </a>
 
 
-  <a href="https://audit-docs.auditdev.workers.dev/Band/" target="_self">
+  <a href="https://wiki.audit.one/Band/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -166,7 +166,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Celo/" target="_self">
+  <a href="https://wiki.audit.one/Celo/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -181,7 +181,7 @@
 
 <div class="maincard">
 
-  <a href="https://audit-docs.auditdev.workers.dev/Comdex/" target="_self">
+  <a href="https://wiki.audit.one/Comdex/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -192,7 +192,7 @@
    </div>
   </a>
 
-  <a href="https://audit-docs.auditdev.workers.dev/Harmony/" target="_self">
+  <a href="https://wiki.audit.one/Harmony/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -203,7 +203,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Injective/" target="_self">
+  <a href="https://wiki.audit.one/Injective/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -218,7 +218,7 @@
 
 <div class="maincard">
 
-  <a href="https://audit-docs.auditdev.workers.dev/Irisnet/" target="_self">
+  <a href="https://wiki.audit.one/Irisnet/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -229,7 +229,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Juno/" target="_self">
+  <a href="https://wiki.audit.one/Juno/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -240,7 +240,7 @@
    </div>
   </a>
    
- <a href="https://audit-docs.auditdev.workers.dev/Kava/" target="_self">
+ <a href="https://wiki.audit.one/Kava/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -255,7 +255,7 @@
 
 <div class="maincard">
    
-  <a href="https://audit-docs.auditdev.workers.dev/Kusama/" target="_self">
+  <a href="https://wiki.audit.one/Kusama/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -266,7 +266,7 @@
    </div>
   </a>
    
-  <a href="https://audit-docs.auditdev.workers.dev/Marlin/" target="_self">
+  <a href="https://wiki.audit.one/Marlin/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -277,7 +277,7 @@
    </div>
   </a>  
    
-  <a href="https://audit-docs.auditdev.workers.dev/Near/" target="_self">
+  <a href="https://wiki.audit.one/Near/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -292,7 +292,7 @@
 
 <div class="maincard">
 
-  <a href="https://audit-docs.auditdev.workers.dev/Skale/" target="_self">
+  <a href="https://wiki.audit.one/Skale/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -303,7 +303,7 @@
    </div>
   </a>
   
-  <a href="https://audit-docs.auditdev.workers.dev/Stargaze/" target="_self">
+  <a href="https://wiki.audit.one/Stargaze/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -314,7 +314,7 @@
    </div>
   </a> 
    
-  <a href="https://audit-docs.auditdev.workers.dev/Tezos/" target="_self">
+  <a href="https://wiki.audit.one/Tezos/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
