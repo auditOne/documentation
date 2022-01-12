@@ -7,7 +7,7 @@
 </div>
 
 <div class="maincard">
-  <a href="https://audit-docs.auditdev.workers.dev/How_to_create_an_Elrond_wallet/" target="_self">
+  <a href="https://wiki.audit.one/How_to_create_an_Elrond_wallet/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -18,7 +18,7 @@
    </div>
   </a>
 
-  <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Keplr_wallet/" target="_self">
+  <a href="https://wiki.audit.one/How_to_create_a_Keplr_wallet/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -31,7 +31,7 @@
 </div>
 
 <div class="maincard">
-  <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Persistence_wallet/" target="_self">
+  <a href="https://wiki.audit.one/How_to_create_a_Persistence_wallet/" target="_self">
    <div class="card"> 
      <p class="heading">
       Persistence Wallet 
@@ -40,7 +40,7 @@
    </div>
   </a>
  
- <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Phantom_wallet/" target="_self">
+ <a href="https://wiki.audit.one/How_to_create_a_Phantom_wallet/" target="_self">
    <div class="card"> 
      <p class="heading">
       Phantom Wallet 
@@ -53,7 +53,7 @@
 
 <div class="maincard">
 
- <a href="https://audit-docs.auditdev.workers.dev/How_to_create_a_Terra_wallet/" target="_self">
+ <a href="https://wiki.audit.one/How_to_create_a_Terra_wallet/" target="_self">
    <div class="card">
      <p class="heading">
       Terra Wallet
