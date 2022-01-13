@@ -51,8 +51,6 @@ There you will find more details about the delegation and see all previous trans
 ### **Congratulations!** 
 You have now succesfully staked your CMDX tokens!
 
-***
-# TO BE ADJUSTED!
 
 ### **4.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
@@ -60,16 +58,16 @@ Make sure to check your **Omniflix dashboard** on a regular basis to see the sta
 
 You can claim your pending rewards by clicking on the **Claim** button under your rewards.<br>
 
-![Claim](https://user-images.githubusercontent.com/95366163/149306381-d484baec-0d0c-4890-8740-76333ae62138.png)
+![Claim](https://user-images.githubusercontent.com/95366163/149380056-c83dca30-728d-4d77-9843-4ea05588c97d.png)
 
 Select the validator of which you want to claim your rewards and hit the **claim** button to continue. <br>
 
-![Select rewards](https://user-images.githubusercontent.com/95366163/149306982-0a1281d2-4017-4176-bbeb-5bea01d13779.png)
+![Select rewards](https://user-images.githubusercontent.com/95366163/149380091-1a585610-d3f0-406f-a79f-a6833e0ba660.png)
 
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
 Once the transaction is complete, these rewards will be added to your available CMDX balance. <br> <br>
 
-<img width="900" src="https://user-images.githubusercontent.com/95366163/149306790-198808f0-6a95-430d-bf77-340a52c6dba0.png">
+<img width="900" src="https://user-images.githubusercontent.com/95366163/149380132-23571e1b-83dd-404a-934c-ff92101c48ab.png">
 
 Here again you can check the status of your transaction by clicking on the transaction hash on the right. <br>
 
