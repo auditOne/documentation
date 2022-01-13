@@ -1,3 +1,6 @@
-# We are working on it!
+# <p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/95366163/149375196-81f35561-0890-4046-9756-b1adff3d7114.png">
+</p>
 
-![giphy](https://user-images.githubusercontent.com/95366163/146923848-577d802e-2def-426e-b78f-165b28fac8cf.gif)
+[Kusama](https://kusama.network/) is a scalable network of specialized blockchains built using Substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot. <br>
+<br>
