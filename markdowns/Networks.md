@@ -21,6 +21,17 @@
    </div>
   </a>
    
+  <a href="https://wiki.audit.one/Comdex/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         COMDEX
+         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877586-ecff7913-195a-481e-b402-15a0adcb3140.png"> 
+       </p>
+     </div>
+   </div>
+  </a>
+   
   <a href="https://wiki.audit.one/Cosmos/" target="_self">
    <div class="card">
      <div>
@@ -32,7 +43,11 @@
    </div>
   </a>
    
-  <a href="https://wiki.audit.one/Cryptocom/" target="_self">
+</div>
+   
+<div class="maincard">
+   
+ <a href="https://wiki.audit.one/Cryptocom/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -41,11 +56,7 @@
        </p>
      </div>
    </div>
-  </a>
-   
-</div>
-   
-<div class="maincard">
+  </a>   
    
  <a href="https://wiki.audit.one/Elrond/" target="_self">
    <div class="card"> 
@@ -67,7 +78,11 @@
    </div>
   </a>
    
-  <a href="https://wiki.audit.one/Juno/" target="_self">
+</div>
+ 
+<div class="maincard">
+   
+ <a href="https://wiki.audit.one/Juno/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -76,11 +91,7 @@
        </p>
      </div>
    </div>
-  </a>
-   
-</div>
- 
-<div class="maincard">
+  </a>  
    
   <a href="https://wiki.audit.one/Osmosis/" target="_self">
    <div class="card">
@@ -103,19 +114,19 @@
      </div>
    </div>
   </a>
-
-  <a href="https://wiki.audit.one/Polygon/" target="_self">
+   
+ </div>
+ 
+<div class="maincard">
+   
+ <a href="https://wiki.audit.one/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
       POLYGON 
        <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987400-d4f74af1-ec96-4d44-a593-19a118a18f95.png">
      </p>
    </div>
-  </a>
-   
- </div>
- 
-<div class="maincard">
+  </a>   
    
   <a href="https://wiki.audit.one/Sentinel/" target="_self">
    <div class="card">
@@ -138,8 +149,12 @@
      </div>
    </div>
   </a>
+
+</div>
+
+<div class="maincard">
    
-  <a href="https://wiki.audit.one/Stargaze/" target="_self">
+ <a href="https://wiki.audit.one/Stargaze/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -148,11 +163,7 @@
        </p>
      </div>
    </div>
-  </a> 
-
-</div>
-
-<div class="maincard">
+  </a>    
    
   <a href="https://wiki.audit.one/Terra/" target="_self">
    <div class="card">
@@ -207,17 +218,6 @@
 
 <div class="maincard">
 
-  <a href="https://wiki.audit.one/Comdex/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         COMDEX
-         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877586-ecff7913-195a-481e-b402-15a0adcb3140.png"> 
-       </p>
-     </div>
-   </div>
-  </a>
-
   <a href="https://wiki.audit.one/Harmony/" target="_self">
    <div class="card">
      <div>
@@ -240,10 +240,6 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
   <a href="https://wiki.audit.one/Irisnet/" target="_self">
    <div class="card">
      <div>
@@ -253,8 +249,11 @@
        </p>
      </div>
    </div>
-  </a>
-  
+  </a>   
+</div>
+
+<div class="maincard">
+
  <a href="https://wiki.audit.one/Kava/" target="_self">
    <div class="card">
      <div>
@@ -277,11 +276,7 @@
    </div>
   </a>  
    
-</div>
-
-<div class="maincard">
-   
-  <a href="https://wiki.audit.one/Marlin/" target="_self">
+ <a href="https://wiki.audit.one/Marlin/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -290,7 +285,11 @@
        </p>
      </div>
    </div>
-  </a>  
+  </a>   
+   
+</div>
+
+<div class="maincard">
    
   <a href="https://wiki.audit.one/Near/" target="_self">
    <div class="card">
@@ -314,10 +313,6 @@
    </div>
   </a> 
    
-</div>
-
-<div class="maincard">
-   
   <a href="https://wiki.audit.one/Tezos/" target="_self">
    <div class="card">
      <div>
@@ -328,6 +323,9 @@
      </div>
    </div>
   </a>
+</div>
+
+<div class="maincard">
    
   <a target="_self">
    <div class="card">
