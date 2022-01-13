@@ -49,7 +49,7 @@ In this glossary we have gathered a list of words and terms that will help you b
   - [Uptime](Uptime.md)
 
 ## V
-  - [Validator fees](Validator_fee.md)
+  - [Validator fee](Validator_fee.md)
   - [Voting Power](Voting_power.md)
 ## W
 ## X
