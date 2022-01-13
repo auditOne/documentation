@@ -69,6 +69,8 @@ Once the transaction is complete, these rewards will be added to your available 
 
 <img width="900" src="https://user-images.githubusercontent.com/95366163/149306790-198808f0-6a95-430d-bf77-340a52c6dba0.png">
 
+Here again you can check the status of your transaction by clicking on the transaction hash on the right. <br>
+
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compound_interest.md).
 
 
