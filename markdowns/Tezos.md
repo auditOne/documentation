@@ -1,3 +1,6 @@
-# We are working on it!
+# <p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/95366163/149378128-0bd9ab7d-fa37-4d0b-8451-21926dcd9e20.png">
+</p>
 
-![giphy](https://user-images.githubusercontent.com/95366163/146923848-577d802e-2def-426e-b78f-165b28fac8cf.gif)
+[Tezos](https://tezos.com/) is an energy-efficient [blockchain](Blockchain.md) where developers, artists, entrepreneurs, brands, and others from around the world build and engage with a network of decentralized applications. Tezos' modular architecture allows for seamless, community-determined upgrades that deploy new advancements to fuel the next round of innovation. They discribe themselves as part of humanity’s digital future.<br>
+<br>
