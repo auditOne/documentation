@@ -1,3 +1,6 @@
-# We are working on it!
+# <p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/95366163/149361343-d83ae298-b557-42fa-908b-a94aff728449.png">
+</p>
 
-![giphy](https://user-images.githubusercontent.com/95366163/146923848-577d802e-2def-426e-b78f-165b28fac8cf.gif)
+One of the biggest challenges for the any decentralized application is to have access to trusted data and services over the traditional Web 2.0. [Band Protocol](https://bandprotocol.com/) tackles this problem by building a decentralized bridge to enable secure interoperabilities between [smart contracts](Smart_contracts.md) and the traditional web. <br>
+<br>
