@@ -8,6 +8,6 @@ The Celo Foundation is a non-profit organization based in the US that supports t
 <br>
 
 
-[<p align="center">
+<p align="center">
   <img width="400" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/149524609-756864ef-1cc9-4eca-8ab9-433b14ad4cbb.png">
-</p>]
+</p>
