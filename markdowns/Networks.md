@@ -10,6 +10,17 @@
 
 <div class="maincard">
    
+  <a href="https://wiki.audit.one/Agoric/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          AGORIC
+           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877472-69c4cc36-7416-42f8-a270-ceff8b68682e.png"> 
+        </p>
+     </div>
+   </div>
+  </a>   
+   
  <a href="https://wiki.audit.one/Akash/" target="_self">
    <div class="card">
      <div>
@@ -32,7 +43,11 @@
    </div>
   </a>
    
-  <a href="https://wiki.audit.one/Cosmos/" target="_self">
+</div>
+   
+<div class="maincard">
+   
+ <a href="https://wiki.audit.one/Cosmos/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -41,11 +56,7 @@
        </p>
      </div>
    </div>
-  </a>
-   
-</div>
-   
-<div class="maincard">
+  </a>  
    
  <a href="https://wiki.audit.one/Cryptocom/" target="_self">
    <div class="card">
@@ -67,6 +78,10 @@
    </div>
   </a>
    
+</div>
+ 
+<div class="maincard">
+   
  <a href="https://wiki.audit.one/Ixo/" target="_self">
    <div class="card">
      <div>
@@ -76,11 +91,7 @@
         </p>
      </div>
    </div>
-  </a>
-   
-</div>
- 
-<div class="maincard">
+  </a>   
    
  <a href="https://wiki.audit.one/Juno/" target="_self">
    <div class="card">
@@ -104,6 +115,10 @@
    </div>
   </a>   
    
+ </div>
+ 
+<div class="maincard">
+   
   <a href="https://wiki.audit.one/Persistence/" target="_self">
    <div class="card">
      <div>
@@ -113,11 +128,7 @@
        </p>
      </div>
    </div>
-  </a>
-   
- </div>
- 
-<div class="maincard">
+  </a>  
    
  <a href="https://wiki.audit.one/Polygon/" target="_self">
    <div class="card">
@@ -138,6 +149,10 @@
      </div>
    </div>
   </a>   
+  
+</div>
+
+<div class="maincard">
    
   <a href="https://wiki.audit.one/Solana/" target="_self">
    <div class="card">
@@ -149,10 +164,6 @@
      </div>
    </div>
   </a>
-
-</div>
-
-<div class="maincard">
    
  <a href="https://wiki.audit.one/Stargaze/" target="_self">
    <div class="card">
@@ -180,18 +191,6 @@
 
 <div class="maincard">
    
-  <a href="https://wiki.audit.one/Agoric/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          AGORIC
-           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877472-69c4cc36-7416-42f8-a270-ceff8b68682e.png"> 
-        </p>
-     </div>
-   </div>
-  </a>
-
-
   <a href="https://wiki.audit.one/Band/" target="_self">
    <div class="card">
      <div>
@@ -214,10 +213,6 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
   <a href="https://wiki.audit.one/Harmony/" target="_self">
    <div class="card">
      <div>
@@ -227,8 +222,12 @@
         </p>
      </div>
    </div>
-  </a>
+  </a>   
    
+</div>
+
+<div class="maincard">
+
   <a href="https://wiki.audit.one/Injective/" target="_self">
    <div class="card">
      <div>
@@ -249,11 +248,8 @@
        </p>
      </div>
    </div>
-  </a>   
-</div>
-
-<div class="maincard">
-
+  </a>  
+   
  <a href="https://wiki.audit.one/Kava/" target="_self">
    <div class="card">
      <div>
@@ -263,7 +259,11 @@
        </p>
      </div>
    </div>
-  </a>
+  </a>   
+   
+</div>
+
+<div class="maincard">
    
   <a href="https://wiki.audit.one/Kusama/" target="_self">
    <div class="card">
@@ -285,11 +285,7 @@
        </p>
      </div>
    </div>
-  </a>   
-   
-</div>
-
-<div class="maincard">
+  </a>  
    
   <a href="https://wiki.audit.one/Near/" target="_self">
    <div class="card">
@@ -300,7 +296,11 @@
        </p>
      </div>
    </div>
-  </a>
+  </a>  
+   
+</div>
+
+<div class="maincard">
    
   <a href="https://wiki.audit.one/Skale/" target="_self">
    <div class="card">
@@ -323,9 +323,6 @@
      </div>
    </div>
   </a>
-</div>
-
-<div class="maincard">
    
   <a target="_self">
    <div class="card">
@@ -337,6 +334,6 @@
      </div>
    </div>  
   </a>
-   
+      
 </div>
 
