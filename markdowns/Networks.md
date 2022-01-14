@@ -82,6 +82,17 @@
  
 <div class="maincard">
    
+  <a href="https://wiki.audit.one/Irisnet/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         IRISNET
+         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877673-9bdab8ab-29e9-47c5-b532-653920a555a1.png">
+       </p>
+     </div>
+   </div>
+  </a>  
+   
  <a href="https://wiki.audit.one/Ixo/" target="_self">
    <div class="card">
      <div>
@@ -104,7 +115,11 @@
    </div>
   </a>  
    
-  <a href="https://wiki.audit.one/Osmosis/" target="_self">
+ </div>
+ 
+<div class="maincard">
+   
+ <a href="https://wiki.audit.one/Osmosis/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -114,10 +129,6 @@
      </div>
    </div>
   </a>   
-   
- </div>
- 
-<div class="maincard">
    
   <a href="https://wiki.audit.one/Persistence/" target="_self">
    <div class="card">
@@ -138,6 +149,10 @@
      </p>
    </div>
   </a>   
+  
+</div>
+
+<div class="maincard">
    
   <a href="https://wiki.audit.one/Sentinel/" target="_self">
    <div class="card">
@@ -148,11 +163,7 @@
         </p>
      </div>
    </div>
-  </a>   
-  
-</div>
-
-<div class="maincard">
+  </a>  
    
   <a href="https://wiki.audit.one/Solana/" target="_self">
    <div class="card">
@@ -176,6 +187,10 @@
    </div>
   </a>    
    
+</div>
+
+<div class="maincard">
+
   <a href="https://wiki.audit.one/Terra/" target="_self">
    <div class="card">
      <p class="heading">
@@ -239,17 +254,6 @@
    </div>
   </a>
    
-  <a href="https://wiki.audit.one/Irisnet/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         IRISNET
-         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877673-9bdab8ab-29e9-47c5-b532-653920a555a1.png">
-       </p>
-     </div>
-   </div>
-  </a>  
-   
  <a href="https://wiki.audit.one/Kava/" target="_self">
    <div class="card">
      <div>
@@ -259,13 +263,9 @@
        </p>
      </div>
    </div>
-  </a>   
+  </a> 
    
-</div>
-
-<div class="maincard">
-   
-  <a href="https://wiki.audit.one/Kusama/" target="_self">
+ <a href="https://wiki.audit.one/Kusama/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -276,6 +276,10 @@
    </div>
   </a>  
    
+</div>
+
+<div class="maincard">
+      
  <a href="https://wiki.audit.one/Marlin/" target="_self">
    <div class="card">
      <div>
@@ -298,10 +302,6 @@
    </div>
   </a>  
    
-</div>
-
-<div class="maincard">
-   
   <a href="https://wiki.audit.one/Skale/" target="_self">
    <div class="card">
      <div>
@@ -311,7 +311,11 @@
        </p>
      </div>
    </div>
-  </a> 
+  </a>  
+   
+</div>
+
+<div class="maincard">
    
   <a href="https://wiki.audit.one/Tezos/" target="_self">
    <div class="card">
