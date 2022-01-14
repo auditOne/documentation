@@ -154,6 +154,7 @@ nav:
       - Overview: Networks.md
       - Agoric (BLD):
           - Intro to Agoric: Agoric.md
+          - Stake on Keplr: How_to_stake_BLD_on_Keplr.md         
       - Akash (AKT): 
           - Intro to Akash: Akash.md  
           - Stake on Keplr: How_to_stake_AKT_with_Keplr.md
