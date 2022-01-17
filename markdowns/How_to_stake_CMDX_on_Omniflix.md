@@ -34,7 +34,7 @@ To proceed, hit **Delegate** on the right.
 
 ![Select AUDIT](https://user-images.githubusercontent.com/95366163/149314182-b3711007-ac32-4327-8ff3-ee30cde651b4.png)
 
-### **3.  Choose the amount you wish to delegete**
+### **3.  Choose the amount you wish to delegate**
 
 Once you've clicked on delegate, you will see this screen:
 
