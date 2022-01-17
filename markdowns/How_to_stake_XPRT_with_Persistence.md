@@ -40,7 +40,7 @@ Want to get more info about this commission fee? Go to [what is a validator fee?
 To proceed, hit **Delegate** on the left.
 
 
-### **3.  Choose the amount you wish to delegete**
+### **3.  Choose the amount you wish to delegate**
 
 Once you've clicked on delegate, you will see this screen:
 
