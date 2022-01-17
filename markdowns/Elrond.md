@@ -9,7 +9,7 @@ The network can reportedly achieve up to 15,000 transactions per second, which m
 <br>
 <br>
 
-<div class="maincard">
+<div class="maincard" align="center">
   
   <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
    <div class="image" align="center">
@@ -31,3 +31,29 @@ The network can reportedly achieve up to 15,000 transactions per second, which m
   </a>   
 
 </div>
+
+<div class="maincard">
+   
+<a href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          Stake on Elrond
+           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/149761720-7c71dec0-523f-4733-b5c1-3886406f2601.png"> 
+        </p>
+     </div>
+   </div>
+  </a>   
+   
+ <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Maiar/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         Stake on Maiar
+       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/149761777-2cf095c5-2983-4ed2-8916-8e766ee9d3dd.png"> 
+       </p>
+     </div>
+   </div>
+  </a>
+
+
