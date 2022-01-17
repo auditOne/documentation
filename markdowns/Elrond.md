@@ -11,10 +11,10 @@ The network can reportedly achieve up to 15,000 transactions per second, which m
 
 <div class="maincard" align="center">
   
-  <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
+  <a align="center" href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
    <div class="image" align="center">
      <div>
-       <p align="center">
+       <p>
            <img width="300" src="https://user-images.githubusercontent.com/95366163/149756985-3e2dc968-202d-4e83-86b1-3957b2c1556d.png"> 
         </p>
      </div>
@@ -22,57 +22,9 @@ The network can reportedly achieve up to 15,000 transactions per second, which m
   </a>   
  <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Maiar/" target="_self">
    <div class="image" align="center">
-     <div align="center">
-       <p>
-           <img width="300" src="https://user-images.githubusercontent.com/95366163/149757014-28565134-54bf-4184-abe9-407d78efa12c.png"> 
-        </p>
-     </div>
-   </div>
-  </a>   
-
-</div>
-
-<div class="maincard">
-   
-<a href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          Stake on Elrond
-           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/149761720-7c71dec0-523f-4733-b5c1-3886406f2601.png"> 
-        </p>
-     </div>
-   </div>
-  </a>   
-   
- <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Maiar/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         Stake on Maiar
-       <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/149761777-2cf095c5-2983-4ed2-8916-8e766ee9d3dd.png"> 
-       </p>
-     </div>
-   </div>
-  </a>
-</div>
-
-<div class="maincard" align="center">
-  
-  <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
-   <div class="image">
      <div>
        <p>
-           <img width="425" src="https://user-images.githubusercontent.com/95366163/149756985-3e2dc968-202d-4e83-86b1-3957b2c1556d.png"> 
-        </p>
-     </div>
-   </div>
-  </a>   
- <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Maiar/" target="_self">
-   <div class="image">
-     <div>
-       <p>
-           <img width="425" src="https://user-images.githubusercontent.com/95366163/149757014-28565134-54bf-4184-abe9-407d78efa12c.png"> 
+           <img align="center" width="300" src="https://user-images.githubusercontent.com/95366163/149757014-28565134-54bf-4184-abe9-407d78efa12c.png"> 
         </p>
      </div>
    </div>
