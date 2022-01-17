@@ -34,7 +34,7 @@ Once you've found it, click on the AUDIT.one banner:
 <img width="700" src="https://user-images.githubusercontent.com/95366163/148987367-cfb9c19a-59e3-42da-9d64-c9d16a7b3e88.png">
 
 
-### **3.  Choose the amount you wish to delegete**
+### **3.  Choose the amount you wish to delegate**
 
 On the next screen you will be asked to fill in the amount you wish to stake and find some more information about the validator.
 
