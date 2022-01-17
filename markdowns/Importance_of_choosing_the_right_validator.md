@@ -29,27 +29,27 @@ On the other hand, by depending completely on an exchage for your staking and ke
 
 ## Protocol developer validators
 
-In addition to offering staking services, protocol developer validators support the development of and actively contribute code to the networks they support. A big advantage of these validators is that they normally have a lot of knowledge about the networks they support they are actively involved in development of it. That is why a part of all staking fees are reinvested in the devellopment of the network.
+In addition to offering staking services, protocol developer validators support the development of and actively contribute code to the networks they support. A big advantage of these validators is that they normally have a lot of knowledge about the networks they support as they are actively involved in development of it. That is why a part of all staking fees are reinvested in the devellopment of the network.
 
 A potential disadvantage of these validators is that they often support only a limited number of networks due to the time and resources required to be so heavily involved in these networks.
 
 
 ## Pure infrastructure validators 
 
-Pure infrastructure validators, like AUDIT.one support a wide range of Proof of Stake networks. These professional validators generally are better at comparing different networks, do their own research on networks and have a good understanding of the overall development of the Proof-of-Stake ecosystem as a whole.
+Pure infrastructure validators, like AUDIT.one support a wide range of Proof of Stake networks. These professional validators generally are better at comparing different networks, do their own research and have a good understanding of the overall development of the Proof-of-Stake ecosystem as a whole.
 
 Because this group of validators support several networks, it may be the case that they are less capable of answering very detailed questions about a specific network in comparison to protocol developer validators.
 
 
 ## Fund validators
 
-Fund validators are less important for people who like to stake their tokens as they usually stake their own assets and are not open to delegations. 
+Fund validators are less important for people who like to stake their tokens because they usually stake their own assets and are not open to delegations. 
 You will recognize them when the validator fee is 100%.
 
 
 ## Which type of validator should you choose?
 
-The type of validator you decide to delegate your crypto to will depend on your preferences and what kind of token holder you are. You might find yourself fitting in one particular category but you might perfectly find yourself using different kinds of validators for different networks.
+The type of validator you decide to delegate your assets to will depend on your preferences and what kind of token holder you are. You might find yourself fitting in one particular category but you might perfectly find yourself using different kinds of validators for different networks.
 
   - Are you in for the short-term and prioritize convenience? <br>
       --> **Go with an exchange.** <br>
@@ -63,7 +63,7 @@ The type of validator you decide to delegate your crypto to will depend on your 
 
 ## Last but not least
 
-When choosing the type of validator you fits yout needs, you should look for:
+When choosing the type of validator that fits your needs, you should look for:
 
 - **Reliability**: Choose a validator that knows what they’re doing. Favor providers with proven experience validating on the network you want to support.
 
