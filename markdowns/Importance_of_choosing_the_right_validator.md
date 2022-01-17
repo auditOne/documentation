@@ -24,7 +24,7 @@ A disadvantage of delegating to an individual validator is its less robust suppo
 
 One of the biggest advantages of staking your crypto with exchanges is your own convenience. It is hands down the easiest staking option as you don't need to worry about keeping your private keys somewhere safe or learning about how to stake. There are also very low to no fees to claim your rewards, which by the way are often automatically added to your staked balance. <br>
 
-On the other hand, by depending completely on an exchage for your staking and key managagement, you have a higher risk to centralise the network you are staking on, earn possibly lower rewards due to fractional staking and you might lose all your funds when the exchange for exemple gets hacked.
+On the other hand, by depending completely on an exchage for your staking and key managagement, you have a higher risk to centralise the network you are staking on, earn possibly lower rewards due to fractional staking and you might lose all your funds when the exchange for example gets hacked.
 
 
 ## Protocol developer validators
