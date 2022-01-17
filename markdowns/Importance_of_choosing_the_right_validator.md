@@ -13,6 +13,13 @@ Each one of them have there own advantages and disadvantages.
   4. **Pure infrastructure validators**
   5. **Fund validators**
 
+
+## Individual Validators
+
+As the name insists, an individual validator typically consists of one to four people and are more focused on one or a small amount of networks. Their smaller size and narrower focus can mean that they are more responsive to the questions and needs of their delegators. They are also very valuable to the decentralization of the network.
+
+A disadvantage of delegating to an individual validator is its less robust support and monitoring when compared to professional validators due to the smaller size of the operation.
+
 ## Exchanges
 
 One of the biggest advantages of staking your crypto with exchanges is your own convenience. It is hands down the easiest staking option as you don't need to worry about keeping your private keys somewhere safe or learning about how to stake. There are also very low to no fees to claim your rewards, which by the way are often automatically added to your staked balance. <br>
@@ -33,12 +40,6 @@ Pure infrastructure validators, like AUDIT.one support a wide range of Proof of 
 
 Because this group of validators support several networks, it may be the case that they are less capable of answering very detailed questions about a specific network in comparison to protocol developer validators.
 
-
-## Individual Validators
-
-As the name insists, an individual validator typically consists of one to four people and are more focused on one or a small amount of networks. Their smaller size and narrower focus can mean that they are more responsive to the questions and needs of their delegators. They are also very valuable to the decentralization of the network.
-
-A disadvantage of delegating to an individual validator is its less robust support and monitoring when compared to professional validators due to the smaller size of the operation.
 
 ## Fund validators
 
