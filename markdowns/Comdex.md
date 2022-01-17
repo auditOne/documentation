@@ -6,3 +6,7 @@
 
 Comdex’s journey towards opening financial markets and growing investors’ access progresses by creating the synthetics protocol. Through synthetics, Comdex will innovate to enhance investors’ access to a broad range of asset classes and generate a higher yield from safer avenues for investment. <br>
 <br>
+
+[<p align="center">
+  <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/149760368-279cd871-dd35-448b-b235-1182be32b1dc.png">
+</p>](How_to_stake_CMDX_on_Omniflix.md)
