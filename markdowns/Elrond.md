@@ -9,6 +9,8 @@ The network can reportedly achieve up to 15,000 transactions per second, which m
 <br>
 <br>
 
+<div class="maincard">
+  
   <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
    <div class="image" align="center">
      <div>
@@ -27,4 +29,5 @@ The network can reportedly achieve up to 15,000 transactions per second, which m
      </div>
    </div>
   </a>   
+
 </div>
