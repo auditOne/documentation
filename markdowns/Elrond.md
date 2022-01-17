@@ -55,6 +55,7 @@ The network can reportedly achieve up to 15,000 transactions per second, which m
      </div>
    </div>
   </a>
+</div>
 
 <div class="maincard" align="center">
   
