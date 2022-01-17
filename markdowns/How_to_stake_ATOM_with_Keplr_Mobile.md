@@ -59,8 +59,7 @@ Hit **stake**, wait for the transaction to be completed and finish of by hitting
 ### **Congratulations!** 
 You have now succesfully staked your ATOM tokens!
 
-
-### 4.  **Sit back and watch your tokens earn rewards**
+### 4.  **Claim rewards and restake regularly to benefit from compounding effects**
 
 Make sure to go back to the overview to see the status of your delegation and to claim your rewards:<br>
 
