@@ -3,7 +3,7 @@
 </p>
 
 
-[Agoric](https://agoric.com/) is an open-source development company launching an interoperable [Proof-of-Stake](Proof_of_Stake.md) chain and economy. Our JavaScript-native smart contract platform offers developers a safe, reusable library of [DeFi](DeFi.md) components to rapidly build and deploy on-chain. <br>
+[Agoric](https://agoric.com/) is an open-source development company launching an interoperable [Proof-of-Stake](Proof_of_Stake.md) chain and economy. Their JavaScript-native smart contract platform offers developers a safe, reusable library of [DeFi](DeFi.md) components to rapidly build and deploy on-chain. <br>
 <br>
 
 [<p align="center">
