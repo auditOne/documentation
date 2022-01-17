@@ -40,7 +40,7 @@ You'll get to see our [Voting power](Voting_power.md), the amount of LUNA tokens
 To proceed, hit **Delegate** on the left.
 
 
-### **3.  Choose the amount you wish to delegete**
+### **3.  Choose the amount you wish to delegate**
 
 Once you've clicked on delegate, you will see this screen where you will need to fill in the amount you wish to stake. <br>
 _(By clicking the number next to '**Available**' on the right, the maximum available amount will be filled in automatically)_ <br>
