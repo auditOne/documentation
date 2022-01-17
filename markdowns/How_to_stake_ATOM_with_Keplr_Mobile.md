@@ -42,7 +42,7 @@ Want to get more info about this commission fee? Go to[what is a validator fee?]
 To proceed, hit the **Stake** button.
 
 
-### 3.  **Choose the amount you wish to delegete**
+### **3.  Choose the amount you wish to delegate**
 
 Before you continue to stake, it's very important to understand the concept of an **unbonding period**.
 If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](Unbonding_period.md) <br>
