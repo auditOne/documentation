@@ -43,7 +43,7 @@ Once you're happy with what you see, click on **Become a delegator** to continue
 Want to get more info about this commission fee? Go to [what is a validator fee?](Validator_fee.md)<br>
 
 
-### **3.  Choose the amount you wish to delegete**
+### **3.  Choose the amount you wish to delegate**
 
 Once you've clicked on delegate (or become a delegator), you will see this screen:
 
