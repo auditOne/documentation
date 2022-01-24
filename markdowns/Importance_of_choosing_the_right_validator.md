@@ -36,7 +36,7 @@ A potential disadvantage of these validators is that they often support only a l
 
 ## Pure infrastructure validators 
 
-Pure infrastructure validators, like [AUDIT.one](About_AUDIT.one.md) support a wide range of Proof of Stake networks. These professional validators generally are better at comparing different networks, do their own research and have a good understanding of the overall development of the Proof-of-Stake ecosystem as a whole.
+Pure infrastructure validators, like [AUDIT.one](about_AUDIT.one.md) support a wide range of Proof of Stake networks. These professional validators generally are better at comparing different networks, do their own research and have a good understanding of the overall development of the Proof-of-Stake ecosystem as a whole.
 
 Because this group of validators support several networks, it may be the case that they are less capable of answering very detailed questions about a specific network in comparison to protocol developer validators.
 
