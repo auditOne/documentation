@@ -80,7 +80,7 @@ These rewards will be added to your available eGLD balance which you in your wal
 
 Or you can choose to directly restake your rewards with the same validator or other any other one by choice by clicking on the green **Stake** button.
 
-<img height="500" src="https://user-images.githubusercontent.com/95366163/146975798-13cec948-875d-4c89-9126-eb467967df41.png">
+<img height="300" src="https://user-images.githubusercontent.com/95366163/146975798-13cec948-875d-4c89-9126-eb467967df41.png">
 
 
 
