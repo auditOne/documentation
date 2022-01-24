@@ -71,7 +71,7 @@ Once you understand what it means, hit **Stake** to finalise your transaction an
 You have now succesfully staked your eGLD tokens!
 
 
-### 4.  **Sit back and watch your tokens earn rewards**
+### **4.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
 Make sure to go back to the staking overview to see the status of your delegation and to claim pending rewards.<br>
 
