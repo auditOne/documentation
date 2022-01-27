@@ -26,7 +26,7 @@ EGLD governs the network through staking and serves as the medium of exchange be
 
 ### The Elrond Team
 
-Since the foundation by the brothers @beniaminmincu and @lucianmincu together with @luciantodea , they have gathered a [highly-determined team](https://elrond.com/team/) of 24 experienced entrepreneurs, engineers and researchers as well as a strong advisory panel.
+Since the foundation by the brothers Beniamin and Lucian Mincu together with Lucian Todea , they have gathered a [highly-determined team](https://elrond.com/team/) of 24 experienced entrepreneurs, engineers and researchers as well as a strong advisory panel.
 
 ### Elronds sustainability
 
