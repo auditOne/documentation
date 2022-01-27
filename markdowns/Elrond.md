@@ -35,7 +35,7 @@ Elrond [claims that it has become carbon negative](https://coinquora.com/elrond-
 
 With its **Adaptive State Sharding** and **Secure Proof of Stake** protocols, Elrond brings an exciting approach to blockchain scalability and sustainability, featuring unprecedented transaction speeds and throughput numbers. These are the right ingredients for a future-proof network.
 
-As an experienced validator, we help to keep the Elrond network secure by running enterprise grade validator nodes. A decentralised team of experts and automated monitoring tools ensure our infrastructure is up and running 24/7.
+As an experienced validator, we help to keep the Elrond network secure by running enterprise grade validator nodes. Our decentralised team of experts and automated monitoring tools ensure our infrastructure is up and running 24/7.
 
 You can also contribute to the networks' security and earn rewards at the same time by staking your EGLD tokens!
 
