@@ -29,7 +29,7 @@ On the other hand, by depending completely on an exchage for your staking and ke
 
 ## Protocol developer validators
 
-In addition to offering staking services, protocol developer validators support the development of and actively contribute code to the networks they support. A big advantage of these validators is that they normally have a lot of knowledge about the networks they support as they are actively involved in development of it. That is why a part of all staking fees are reinvested in the devellopment of the network.
+In addition to offering staking services, protocol developer validators help the development of and actively contribute code to the networks they support. A big advantage of these validators is that they normally have a lot of knowledge about the networks they support as they are actively involved in development of it. That is why a part of all staking fees are reinvested in the devellopment of the network.
 
 A potential disadvantage of these validators is that they often support only a limited number of networks due to the time and resources required to be so heavily involved in these networks.
 
