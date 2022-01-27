@@ -41,7 +41,6 @@ You can also contribute to the networks' security and earn rewards at the same t
 
 Find out how with one of our easy step-by-step guides: 
 <br>
-<br>
 
 <div class="maincard" align="center">
   
