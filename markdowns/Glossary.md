@@ -38,6 +38,7 @@ In this glossary we have gathered a list of words and terms that will help you b
 ## Q
 ## R
 ## S
+  - [Secure Proof of Stake](Secure_proof_of_stake.md)
   - [Sharding](Sharding.md)
   - [Slashing](Slashing.md)
   - [Slippage](Slippage.md)
