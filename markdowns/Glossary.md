@@ -3,6 +3,7 @@
 In this glossary we have gathered a list of words and terms that will help you better understand the wonderful world of crypto.
 
 ## A
+  - [Adaptive state sharding](Adaptive_state_sharding.md)
   - [APR](APR.md)
   - [APY](APY.md)
 ## B
