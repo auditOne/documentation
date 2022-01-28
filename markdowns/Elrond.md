@@ -4,7 +4,7 @@
 
 
 [**Elrond**](https://elrond.com/) is a blockchain-based platform built for speed, security and scalability, while maintaining low transaction fees.
-The integrated smart contract execution engine built on WASM, supports the most popular programming languages used by developers.
+The integrated smart contract execution engine built on [WASM](WebAssembly.md), supports the most popular programming languages used by developers.
 
 With its [Adaptive state sharding](Adaptive_state_sharding.md) and [Secure Proof of Stake (SPoS)](Secure_proof_of_stake.md) protocols, Elrond distinguishes itself from other networks and brings an exciting approach to blockchain scalability and sustainability, featuring unprecedented transaction speeds and throughput numbers. These are the right ingredients for a future-proof network.
 
