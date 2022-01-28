@@ -54,6 +54,7 @@ In this glossary we have gathered a list of words and terms that will help you b
   - [Validator fee](Validator_fee.md)
   - [Voting Power](Voting_power.md)
 ## W
+  - [WebAssembly (WASM)](WebAssembly.md)
 ## X
 ## Y
 ## Z
