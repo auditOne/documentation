@@ -13,10 +13,9 @@ The EGLD token governs the network through staking and serves as the medium of e
 Elrond has gathered a [highly-determined team](https://elrond.com/team/) of 24 experienced entrepreneurs, engineers and researchers as well as a strong advisory panel. They [claim to have become carbon negative](https://coinquora.com/elrond-leads-sustainable-innovation-in-european-blockchain/) by offsetting more CO2 than its network accounts for, which is a revolutionary milestone to bringing sustainability to blockchain innovation.
 
 As an experienced validator, we help to keep the Elrond network secure by running enterprise grade validator nodes.
-Our decentralised team of experts and automated monitoring tools ensure our infrastructure is up and running 24/7.
-**You can also contribute to the networks' security and earn rewards at the same time by staking your EGLD tokens!**
+Our decentralised team of experts and automated monitoring tools ensure our infrastructure is up and running 24/7. <br>
 
-Find out how with one of our easy step-by-step staking guides: 
+**You can also contribute to the networks' security and earn rewards at the same time by staking your EGLD tokens!** Find out how with one of our easy step-by-step staking guides: 
 <br>
 
 <div class="maincard" align="center">
