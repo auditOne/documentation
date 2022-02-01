@@ -1,9 +1,14 @@
 name = "audit-docs"
 type = "webpack"
-route = ''
-zone_id = ''
+zone_id = '1e2e76d07fd60c15b9141e107a98602b'
 usage_model = ''
 compatibility_flags = []
 workers_dev = true
 site = {bucket = "./site",entry-point = "workers-site"}
 compatibility_date = "2021-12-08"
+
+[env.staging]
+routes = ["https://staging.wiki.audit.one/*"]
+
+[env.release]
+routes = ["https://wiki.audit.one/*"]
