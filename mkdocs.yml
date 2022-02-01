@@ -2,12 +2,12 @@
 site_name: "AUDIT.one: Staking guides"
 site_description: A step-by-step guide on how to get started with staking
 site_author: 
-site_url: http://docs.pstake.finance/
+site_url: !ENV SITE_URL
 repo_url: https://github.com/auditOne/documentation
 edit_uri: edit/main/markdowns/
 
 # Copyright
-copyright: pStake-docs
+copyright: audit.one
 
 docs_dir: markdowns
 
