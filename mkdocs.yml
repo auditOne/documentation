@@ -3,6 +3,8 @@ site_name: "AUDIT.one: Staking guides"
 site_description: A step-by-step guide on how to get started with staking
 site_author: 
 site_url: http://docs.pstake.finance/
+repo_url: https://github.com/auditOne/documentation
+edit_uri: edit/main/markdowns/
 
 # Copyright
 copyright: pStake-docs
@@ -50,6 +52,9 @@ plugins:
 
 # Customization
 extra:
+  analytics:
+    provider: google
+    property: UA-216679458-2
   cosmos:
     StakedToken: "stkATOM"
     UnstakedToken: "pATOM"
