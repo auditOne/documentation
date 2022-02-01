@@ -20,7 +20,7 @@ Our decentralised team of experts and automated monitoring tools ensure our infr
 
 <div class="maincard" align="center">
   
-  <a align="center" href="https://wiki.audit.one/How_to_stake_eGLD_with_Elrond/" target="_self">
+  <a align="center" href="{{ site_url }}/How_to_stake_eGLD_with_Elrond/" target="_self">
    <div class="image" align="center">
      <div>
        <p>
@@ -29,7 +29,7 @@ Our decentralised team of experts and automated monitoring tools ensure our infr
      </div>
    </div>
   </a>   
- <a href="https://wiki.audit.one/How_to_stake_eGLD_with_Maiar/" target="_self">
+ <a href="{{ site_url }}/How_to_stake_eGLD_with_Maiar/" target="_self">
    <div class="image" align="center">
      <div>
        <p>

@@ -6,7 +6,7 @@ If you're completely new, reading through our [glossary](Glossary.md) would be t
 
 
 <div class="maincard">
-  <a href="https://wiki.audit.one/about_AUDIT.one/" target="_self">
+  <a href="{{ site_url }}/about_AUDIT.one/" target="_self">
    <div class="card">
       <div>
          <p class="heading">About AUDIT.one</p>
@@ -14,7 +14,7 @@ If you're completely new, reading through our [glossary](Glossary.md) would be t
       </div>
       <img width="20" src="../assets/images/Favicon grijs rond.svg" /> 
    </div></a>
- <a href="https://wiki.audit.one/Glossary/" target="_self">
+ <a href="{{ site_url }}/Glossary/" target="_self">
    <div class="card">
       <div>
           <p class="heading">Glossary</p>
@@ -24,7 +24,7 @@ If you're completely new, reading through our [glossary](Glossary.md) would be t
    </div></a>
 </div></a>
 <div class="maincard">
-     <a href="https://wiki.audit.one/Networks/" target="_self">
+     <a href="{{ site_url }}/Networks/" target="_self">
    <div class="card">
       <div>
           <p class="heading">Staking Guides</p>
@@ -33,7 +33,7 @@ If you're completely new, reading through our [glossary](Glossary.md) would be t
       <img src="../assets/images/cardtwo.png" />  
    </div></a> 
 
-   <a href="https://wiki.audit.one/FAQ/" target="_self">
+   <a href="{{ site_url }}/FAQ/" target="_self">
    <div class="card">
       <div>
           <p class="heading">FAQs</p>

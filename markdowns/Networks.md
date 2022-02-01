@@ -10,7 +10,7 @@
 
 <div class="maincard">
    
-  <a href="https://wiki.audit.one/Agoric/" target="_self">
+  <a href="{{ site_url }}/Agoric/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -21,7 +21,7 @@
    </div>
   </a>   
    
- <a href="https://wiki.audit.one/Akash/" target="_self">
+ <a href="{{ site_url }}/Akash/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -32,7 +32,7 @@
    </div>
   </a>
    
-  <a href="https://wiki.audit.one/Comdex/" target="_self">
+  <a href="{{ site_url }}/Comdex/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -47,7 +47,7 @@
    
 <div class="maincard">
    
- <a href="https://wiki.audit.one/Cosmos/" target="_self">
+ <a href="{{ site_url }}/Cosmos/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -58,7 +58,7 @@
    </div>
   </a>  
    
- <a href="https://wiki.audit.one/Cryptocom/" target="_self">
+ <a href="{{ site_url }}/Cryptocom/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -69,7 +69,7 @@
    </div>
   </a>   
    
- <a href="https://wiki.audit.one/Elrond/" target="_self">
+ <a href="{{ site_url }}/Elrond/" target="_self">
    <div class="card"> 
      <p class="heading">
       ELROND 
@@ -82,7 +82,7 @@
  
 <div class="maincard">
    
-  <a href="https://wiki.audit.one/Irisnet/" target="_self">
+  <a href="{{ site_url }}/Irisnet/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -93,7 +93,7 @@
    </div>
   </a>  
    
- <a href="https://wiki.audit.one/Ixo/" target="_self">
+ <a href="{{ site_url }}/Ixo/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -104,7 +104,7 @@
    </div>
   </a>   
    
- <a href="https://wiki.audit.one/Juno/" target="_self">
+ <a href="{{ site_url }}/Juno/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -119,7 +119,7 @@
  
 <div class="maincard">
    
- <a href="https://wiki.audit.one/Osmosis/" target="_self">
+ <a href="{{ site_url }}/Osmosis/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -130,7 +130,7 @@
    </div>
   </a>   
    
-  <a href="https://wiki.audit.one/Persistence/" target="_self">
+  <a href="{{ site_url }}/Persistence/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -141,7 +141,7 @@
    </div>
   </a>  
    
- <a href="https://wiki.audit.one/Polygon/" target="_self">
+ <a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
       POLYGON 
@@ -154,7 +154,7 @@
 
 <div class="maincard">
    
-  <a href="https://wiki.audit.one/Sentinel/" target="_self">
+  <a href="{{ site_url }}/Sentinel/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -165,7 +165,7 @@
    </div>
   </a>  
    
-  <a href="https://wiki.audit.one/Solana/" target="_self">
+  <a href="{{ site_url }}/Solana/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -176,7 +176,7 @@
    </div>
   </a>
    
- <a href="https://wiki.audit.one/Stargaze/" target="_self">
+ <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -191,7 +191,7 @@
 
 <div class="maincard">
 
-  <a href="https://wiki.audit.one/Terra/" target="_self">
+  <a href="{{ site_url }}/Terra/" target="_self">
    <div class="card">
      <p class="heading">
       TERRA
@@ -206,7 +206,7 @@
 
 <div class="maincard">
    
-  <a href="https://wiki.audit.one/Band/" target="_self">
+  <a href="{{ site_url }}/Band/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -217,7 +217,7 @@
    </div>
   </a>
    
-  <a href="https://wiki.audit.one/Celo/" target="_self">
+  <a href="{{ site_url }}/Celo/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -228,7 +228,7 @@
    </div>
   </a>
    
-  <a href="https://wiki.audit.one/Harmony/" target="_self">
+  <a href="{{ site_url }}/Harmony/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -243,7 +243,7 @@
 
 <div class="maincard">
 
-  <a href="https://wiki.audit.one/Injective/" target="_self">
+  <a href="{{ site_url }}/Injective/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -254,7 +254,7 @@
    </div>
   </a>
    
- <a href="https://wiki.audit.one/Kava/" target="_self">
+ <a href="{{ site_url }}/Kava/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -265,7 +265,7 @@
    </div>
   </a> 
    
- <a href="https://wiki.audit.one/Kusama/" target="_self">
+ <a href="{{ site_url }}/Kusama/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -280,7 +280,7 @@
 
 <div class="maincard">
       
- <a href="https://wiki.audit.one/Marlin/" target="_self">
+ <a href="{{ site_url }}/Marlin/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -291,7 +291,7 @@
    </div>
   </a>  
    
-  <a href="https://wiki.audit.one/Near/" target="_self">
+  <a href="{{ site_url }}/Near/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -302,7 +302,7 @@
    </div>
   </a>  
    
-  <a href="https://wiki.audit.one/Skale/" target="_self">
+  <a href="{{ site_url }}/Skale/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -317,7 +317,7 @@
 
 <div class="maincard">
    
-  <a href="https://wiki.audit.one/Tezos/" target="_self">
+  <a href="{{ site_url }}/Tezos/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
