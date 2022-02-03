@@ -7,6 +7,18 @@
 </div>
 
 <div class="maincard">
+   
+  <a href="{{ site_url }}/How_to_create_a_cosmostation_wallet.md/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+       <img  align="left" width="30" src="https://user-images.githubusercontent.com/95366163/152390362-ad1714e5-2a65-4cd4-8e1c-8c85e2970f0b.png"> 
+      Cosmostation Wallet
+        </p>
+     </div>
+   </div>
+  </a>
+
   <a href="{{ site_url }}/How_to_create_an_Elrond_wallet/" target="_self">
    <div class="card">
      <div>
@@ -17,7 +29,11 @@
      </div>
    </div>
   </a>
+   
+</div>
 
+<div class="maincard">
+   
   <a href="{{ site_url }}/How_to_create_a_Keplr_wallet/" target="_self">
    <div class="card">
      <div>
@@ -28,9 +44,7 @@
      </div>
    </div>
   </a>
-</div>
-
-<div class="maincard">
+   
   <a href="{{ site_url }}/How_to_create_a_Persistence_wallet/" target="_self">
    <div class="card"> 
      <p class="heading">
@@ -39,7 +53,11 @@
      </p>
    </div>
   </a>
- 
+   
+</div>
+
+<div class="maincard">
+
  <a href="{{ site_url }}/How_to_create_a_Phantom_wallet/" target="_self">
    <div class="card"> 
      <p class="heading">
@@ -49,10 +67,6 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
  <a href="{{ site_url }}/How_to_create_a_Terra_wallet/" target="_self">
    <div class="card">
      <p class="heading">
