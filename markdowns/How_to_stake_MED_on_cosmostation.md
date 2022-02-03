@@ -23,20 +23,19 @@ Staking MED on Cosmostation is pretty easy when you follow these few steps:
 Open the Cosmostation mobile app on your device and make sure to switch to your **Medibloc wallet** from the available network list. <br>
 You'll get to see an overview of the your current MED balance that is in your Medibloc wallet.
 
-![1](https://user-images.githubusercontent.com/95366163/152330975-457e34b7-3507-4629-986b-8fe4937e8a25.png)
+![1v2](https://user-images.githubusercontent.com/95366163/152378973-6220534d-4d48-418d-aab1-56b833706ac8.png)
 
 
 ### 2.  **Choose AUDIT.one as your validator**
 
-When you've found your Medibloc wallet in the app, click on the **Delegate** button to see the list of all active validators.<br>
-Select the middle button "**Top**" to get the full list of active validators. <br>
+When you've found your Medibloc wallet in the app, click on the **Delegate** button to see the list of all active validators. Select the middle button "**Top**" to get the full list of active validators. <br>
 
 To find us, scroll down the list until you find our logo. <br>
 
 When you click on a validator, you will find some extra info. <br>
 It shows the total assets bonded aka [voting power](Voting_power.md) of the validator, the estimated [APY](APY.md) and the [validator commission fee](Validator_fee.md).
 
-![2](https://user-images.githubusercontent.com/95366163/152356381-7485e4cc-6065-437f-98f1-f526783d6d3f.png)
+![2v2](https://user-images.githubusercontent.com/95366163/152378929-7f989d86-ae35-481b-8af8-9e609fc81a56.png)
 
 Once you understand these terms, tap **Delegate** to continue. <br>
 
@@ -64,7 +63,7 @@ If you understand the concept of an unbonding period, hit **Continue**. <br>
 Wait for your transaction to be excecuted until the overview screen is shown. <br>
 Click **Done** to go back to your wallet.
 
-![4](https://user-images.githubusercontent.com/95366163/152359889-25c5b37d-7524-4b31-9916-f80c69db718f.png)
+![4v2](https://user-images.githubusercontent.com/95366163/152379241-bba62854-4f55-4968-9d90-107d00d7540d.png)
 
 ### **Congratulations!** 
 You have now succesfully staked your MED tokens!
