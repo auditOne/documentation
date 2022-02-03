@@ -32,8 +32,7 @@ When you've found your Medibloc wallet in the app, click on the **Delegate** but
 
 To find us, scroll down the list until you find our logo. <br>
 
-When you click on a validator, you will find some extra info. <br>
-It shows the total assets bonded aka [voting power](Voting_power.md) of the validator, the estimated [APY](APY.md) and the [validator commission fee](Validator_fee.md).
+When you click on a validator, you will find some extra info. It shows the total assets bonded aka [voting power](Voting_power.md) of the validator, the estimated [APY](APY.md) and the [validator commission fee](Validator_fee.md).
 
 ![2v2](https://user-images.githubusercontent.com/95366163/152378929-7f989d86-ae35-481b-8af8-9e609fc81a56.png)
 
