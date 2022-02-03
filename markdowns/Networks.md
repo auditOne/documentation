@@ -119,6 +119,17 @@
  
 <div class="maincard">
    
+<a href="{{ site_url }}/Medibloc/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          MEDIBLOC
+         <img  align="left" width="30" src="https://user-images.githubusercontent.com/95366163/152367874-47b5660d-f3b4-46ee-aae4-72a995f816e8.png"> 
+       </p>
+     </div>
+   </div>
+  </a>   
+
  <a href="{{ site_url }}/Osmosis/" target="_self">
    <div class="card">
      <div>
@@ -140,7 +151,11 @@
      </div>
    </div>
   </a>  
-   
+  
+</div>
+
+<div class="maincard">
+
  <a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
@@ -149,10 +164,6 @@
      </p>
    </div>
   </a>   
-  
-</div>
-
-<div class="maincard">
    
   <a href="{{ site_url }}/Sentinel/" target="_self">
    <div class="card">
@@ -176,6 +187,10 @@
    </div>
   </a>
    
+</div>
+
+<div class="maincard">
+
  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
@@ -187,10 +202,6 @@
    </div>
   </a>    
    
-</div>
-
-<div class="maincard">
-
   <a href="{{ site_url }}/Terra/" target="_self">
    <div class="card">
      <p class="heading">
