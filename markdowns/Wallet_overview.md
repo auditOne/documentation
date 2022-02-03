@@ -8,7 +8,7 @@
 
 <div class="maincard">
    
-  <a href="{{ site_url }}/How_to_create_a_cosmostation_wallet.md/" target="_self">
+  <a href="{{ site_url }}/How_to_create_a_cosmostation_wallet/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
