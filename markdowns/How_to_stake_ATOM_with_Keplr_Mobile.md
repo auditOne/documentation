@@ -51,7 +51,7 @@ Once you understand what it means and you've decided how many tokens you wish to
 The higher the fee you are willing to pay, the faster the transaction will be completed. <br> [Why are there transaction fees?](Transaction_fees.md)
 <br>
 
-Hit **stake**, wait for the transaction to be completed and finish of by hitting the **Confirm** button when it't done.<br>
+Hit **stake**, wait for the transaction to be completed and finish of by hitting the **Confirm** button when it's done.<br>
 
 ![3](https://user-images.githubusercontent.com/95366163/146224038-3d949209-35e1-4b30-93cc-668c2ceaafcc.png)
 
