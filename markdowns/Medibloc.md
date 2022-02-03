@@ -17,4 +17,4 @@ The data is encrypted and transmitted to a separate channel to ensure high data 
 
 [<p align="center">
   <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/152320475-6e0652b8-2ad3-4137-9553-d6345d58b5b1.png">
-</p>](How_to_stake_MED.md)
+</p>](How_to_stake_MED_on_cosmostation.md)
