@@ -150,6 +150,7 @@ nav:
   - Glossary: Glossary.md
   - Crypto wallets:
       - Overview: Wallet_overview.md
+      - Cosmostation wallet: How_to_create_a_cosmostation_wallet.md
       - Elrond wallet: How_to_create_an_Elrond_wallet.md
       - Keplr wallet: How_to_create_a_Keplr_wallet.md
       - Persistence wallet: How_to_create_a_Persistence_wallet.md
