@@ -54,7 +54,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: UA-216679458-2
+    property: !ENV GA_TOKEN
   cosmos:
     StakedToken: "stkATOM"
     UnstakedToken: "pATOM"
