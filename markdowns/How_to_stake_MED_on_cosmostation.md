@@ -78,7 +78,7 @@ Select the validator you have delegated your funds to under the "**My**" tab. <b
 
 Now **Claim your rewards** and they will be added to your available MED balance which you can find in your wallet overview.<br>
 
-<img height="450" src="https://user-images.githubusercontent.com/95366163/152363745-c1a11b5a-867c-4e6e-8184-3c21e843d61e.png">
+![5](https://user-images.githubusercontent.com/95366163/153616610-a32988b0-5d14-4b63-a477-607221dac753.png)
 
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compound_interest.md).
 
