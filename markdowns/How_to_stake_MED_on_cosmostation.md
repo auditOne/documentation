@@ -51,7 +51,7 @@ The higher the fee you are willing to pay, the faster the transaction will be co
 
 You will now see the overview of your transaction. If everything is correct, hit **Confirm**
 
-![3](https://user-images.githubusercontent.com/95366163/152358324-df5884f0-e658-4f0c-85f7-840575d9d18e.png)
+![3](https://user-images.githubusercontent.com/95366163/153613236-0feb7eb1-84fd-4aa2-8beb-4f007705360c.png)
 
 
 Before you finish the transaction, it's very important to understand the concept of an **unbonding period**.
