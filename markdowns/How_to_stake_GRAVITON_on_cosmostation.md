@@ -18,7 +18,7 @@ Before continuing with this guide please be sure that:
 
 Staking GRAVITON on Cosmostation is pretty easy when you follow these few steps:
 
-### 1.  **<a name="step1"> Select your Medibloc wallet in the Cosmostation mobile app </a>**
+### 1.  **<a name="step1"> Select your G-Bridge wallet in the Cosmostation mobile app </a>**
 
 Open the Cosmostation mobile app on your device and make sure to switch to your **G-Bridge wallet** from the available network list. <br>
 You'll get to see an overview of the your current Graviton balance that is in your Medibloc wallet.
