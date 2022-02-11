@@ -82,6 +82,17 @@
  
 <div class="maincard">
    
+ <a href="{{ site_url }}/Gravity_Bridge/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         GRAVITY BRIDGE
+         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/153582519-b821722b-2811-460c-8be4-a6f8c1e41f33.png">
+       </p>
+     </div>
+   </div>
+  </a>
+   
   <a href="{{ site_url }}/Irisnet/" target="_self">
    <div class="card">
      <div>
@@ -104,6 +115,10 @@
    </div>
   </a>   
    
+ </div>
+ 
+<div class="maincard">
+   
  <a href="{{ site_url }}/Juno/" target="_self">
    <div class="card">
      <div>
@@ -113,11 +128,7 @@
        </p>
      </div>
    </div>
-  </a>  
-   
- </div>
- 
-<div class="maincard">
+  </a>     
    
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
@@ -140,8 +151,13 @@
      </div>
    </div>
   </a>   
-   
-  <a href="{{ site_url }}/Persistence/" target="_self">
+  
+  
+</div>
+
+<div class="maincard">
+
+ <a href="{{ site_url }}/Persistence/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -151,11 +167,7 @@
      </div>
    </div>
   </a>  
-  
-</div>
-
-<div class="maincard">
-
+   
  <a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
@@ -175,7 +187,12 @@
      </div>
    </div>
   </a>  
+  
    
+</div>
+
+<div class="maincard">
+
   <a href="{{ site_url }}/Solana/" target="_self">
    <div class="card">
      <div>
@@ -187,11 +204,7 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
- <a href="{{ site_url }}/Stargaze/" target="_self">
+  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
