@@ -17,4 +17,4 @@ If you want to stake your Graviton holders to earn additional rewards, we've cre
 
 [<p align="center">
   <img width="250" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/153582217-057fe883-1624-4ff1-bceb-ad9a06c46465.png">
-</p>](How_to_stake_GRAV_on_cosmostation.md)
+</p>](How_to_stake_GRAVITON_on_cosmostation.md)
