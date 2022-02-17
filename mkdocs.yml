@@ -236,7 +236,7 @@ nav:
           - Stake on Terra: How_to_stake_LUNA_on_Terra.md
       - Tezos (XTZ):
           - Intro to Tezos: Tezos.md
-  - Contribute: CONTRIBUTION.md
+  - Contribute: ../documentation/CONTRIBUTION.md
   - FAQs: FAQ.md
  
 
