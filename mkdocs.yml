@@ -95,7 +95,7 @@ extra:
     - name: Bug Bounty
       icon: ../assets/images/bug_bounty.svg
     - name: Contribute
-      icon: ../assets/images/contribute.svg
+      icon: ../assets/images/Contribute.svg
 
 # extra:
 #   analytics:
