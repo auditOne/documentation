@@ -94,6 +94,8 @@ extra:
       icon: ../assets/images/faq.svg
     - name: Bug Bounty
       icon: ../assets/images/bug_bounty.svg
+    - name: Contribute
+      icon: ../assets/images/contribute.svg
 
 # extra:
 #   analytics:
@@ -234,6 +236,7 @@ nav:
           - Stake on Terra: How_to_stake_LUNA_on_Terra.md
       - Tezos (XTZ):
           - Intro to Tezos: Tezos.md
+  - Contribute: CONTRIBUTE.md
   - FAQs: FAQ.md
  
 
