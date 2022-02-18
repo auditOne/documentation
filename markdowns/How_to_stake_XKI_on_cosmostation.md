@@ -23,7 +23,7 @@ Staking XKI on Cosmostation is pretty easy when you follow these few steps:
 Open the Cosmostation mobile app on your device and make sure to switch to your **Ki wallet** from the available network list. <br>
 You'll get to see an overview of the your current XKI balance that is in your Ki wallet.
 
-![1v2](https://user-images.githubusercontent.com/95366163/152378973-6220534d-4d48-418d-aab1-56b833706ac8.png)
+![1](https://user-images.githubusercontent.com/95366163/154677891-d6b1a7e8-7ce8-4d83-8bb1-cff5a88eaa8d.png)
 
 
 ### 2.  **Choose AUDIT.one as your validator**
@@ -34,7 +34,7 @@ To find us, scroll down the list until you find our logo. <br>
 
 When you click on a validator, you will find some extra info. It shows the total assets bonded aka [voting power](Voting_power.md) of the validator, the estimated [APY](APY.md) and the [validator commission fee](Validator_fee.md).
 
-![2v2](https://user-images.githubusercontent.com/95366163/152378929-7f989d86-ae35-481b-8af8-9e609fc81a56.png)
+![2](https://user-images.githubusercontent.com/95366163/154677914-83199a91-4cdb-43b2-ae71-82877696603f.png)
 
 Once you understand these terms, tap **Delegate** to continue. <br>
 
@@ -51,7 +51,7 @@ The higher the fee you are willing to pay, the faster the transaction will be co
 
 You will now see the overview of your transaction. If everything is correct, hit **Confirm**
 
-![3](https://user-images.githubusercontent.com/95366163/153613236-0feb7eb1-84fd-4aa2-8beb-4f007705360c.png)
+![3](https://user-images.githubusercontent.com/95366163/154678307-2a332d2f-f535-4d02-afea-1f1cb67f9037.png)
 
 
 Before you finish the transaction, it's very important to understand the concept of an **unbonding period**.
@@ -62,7 +62,7 @@ If you understand the concept of an unbonding period, hit **Continue**. <br>
 Wait for your transaction to be excecuted until the overview screen is shown. <br>
 Click **Done** to go back to your wallet.
 
-![4v2](https://user-images.githubusercontent.com/95366163/152379241-bba62854-4f55-4968-9d90-107d00d7540d.png)
+![4](https://user-images.githubusercontent.com/95366163/154677947-2a86fd92-b717-47d7-9a2e-871d321c3afa.png)
 
 ### **Congratulations!** 
 You have now succesfully staked your XKI tokens!
@@ -78,6 +78,6 @@ Select the validator you have delegated your funds to under the "**My**" tab. <b
 
 Now **Claim your rewards** and they will be added to your available XKI balance which you can find in your wallet overview.<br>
 
-![5](https://user-images.githubusercontent.com/95366163/153616610-a32988b0-5d14-4b63-a477-607221dac753.png)
+![5](https://user-images.githubusercontent.com/95366163/154677962-dec83afa-a56b-4a9a-bdc8-0f4715186935.png)
 
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compound_interest.md).
