@@ -141,7 +141,7 @@
    </div>
   </a> 
    
- <a href="{{ site_url }}/Ki-Chain/" target="_self">
+ <a href="{{ site_url }}/Ki_Chain/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
