@@ -60,7 +60,6 @@ The higher the fee you are willing to pay, the faster the transaction will be co
 ### **Congratulations!** 
 You have now succesfully staked your KAVA tokens!
 
-# TO BE FINISHED FROM HERE ON
 
 ### **4.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
@@ -70,6 +69,6 @@ You can claim your pending rewards by clicking on the **Claim** button next to y
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
 Once the transaction is complete, these rewards will be added to your available KAVA balance. <br> <br>
 
-![Claim rewards](https://user-images.githubusercontent.com/95366163/148812377-e135852b-1bfd-41d8-a968-3549a5fdb5ad.png)
+![Claim rewards](https://user-images.githubusercontent.com/95366163/154661860-b200fa38-2acd-469c-9606-46196c6ca91f.png)
 
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compound_interest.md).
