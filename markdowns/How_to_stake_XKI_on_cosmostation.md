@@ -62,7 +62,7 @@ If you understand the concept of an unbonding period, hit **Continue**. <br>
 Wait for your transaction to be excecuted until the overview screen is shown. <br>
 Click **Done** to go back to your wallet.
 
-![4](https://user-images.githubusercontent.com/95366163/154677947-2a86fd92-b717-47d7-9a2e-871d321c3afa.png)
+![4](https://user-images.githubusercontent.com/95366163/154694065-994036d0-99b8-491a-8c3e-0dd22a7b12f4.png)
 
 ### **Congratulations!** 
 You have now succesfully staked your XKI tokens!
