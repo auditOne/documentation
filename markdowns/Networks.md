@@ -129,7 +129,33 @@
      </div>
    </div>
   </a>     
+
+ <a href="{{ site_url }}/Kava/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         KAVA
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877840-28a04b80-b652-4e3a-9b77-04bf763ac287.png">
+       </p>
+     </div>
+   </div>
+  </a> 
    
+ <a href="{{ site_url }}/Ki-Chain/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         KI-CHAIN
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/154679243-488eb469-50d2-4ddf-8468-193727ea4be7.png">
+       </p>
+     </div>
+   </div>
+  </a> 
+   
+</div>
+
+<div class="maincard">
+
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
      <div>
@@ -151,12 +177,7 @@
      </div>
    </div>
   </a>   
-  
-  
-</div>
-
-<div class="maincard">
-
+   
  <a href="{{ site_url }}/Persistence/" target="_self">
    <div class="card">
      <div>
@@ -168,7 +189,11 @@
    </div>
   </a>  
    
- <a href="{{ site_url }}/Polygon/" target="_self">
+</div>
+
+<div class="maincard">
+
+<a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
       POLYGON 
@@ -187,12 +212,7 @@
      </div>
    </div>
   </a>  
-  
    
-</div>
-
-<div class="maincard">
-
   <a href="{{ site_url }}/Solana/" target="_self">
    <div class="card">
      <div>
@@ -204,7 +224,11 @@
    </div>
   </a>
    
-  <a href="{{ site_url }}/Stargaze/" target="_self">
+</div>
+
+<div class="maincard">
+
+ <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -277,18 +301,7 @@
      </div>
    </div>
   </a>
-   
- <a href="{{ site_url }}/Kava/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         KAVA
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877840-28a04b80-b652-4e3a-9b77-04bf763ac287.png">
-       </p>
-     </div>
-   </div>
-  </a> 
-   
+  
  <a href="{{ site_url }}/Kusama/" target="_self">
    <div class="card">
      <div>
@@ -300,10 +313,6 @@
    </div>
   </a>  
    
-</div>
-
-<div class="maincard">
-      
  <a href="{{ site_url }}/Marlin/" target="_self">
    <div class="card">
      <div>
@@ -313,7 +322,11 @@
        </p>
      </div>
    </div>
-  </a>  
+  </a>    
+   
+</div>
+
+<div class="maincard">
    
   <a href="{{ site_url }}/Near/" target="_self">
    <div class="card">
@@ -336,11 +349,7 @@
      </div>
    </div>
   </a>  
-   
-</div>
 
-<div class="maincard">
-   
   <a href="{{ site_url }}/Tezos/" target="_self">
    <div class="card">
      <div>
@@ -352,6 +361,10 @@
    </div>
   </a>
    
+</div>
+
+<div class="maincard">
+
   <a target="_self">
    <div class="card">
      <div>
