@@ -1,6 +1,6 @@
 # How to create a cosmostation wallet
 
-In order to create a comsmostation wallet, you will have to download the mobile aplication on your phone:
+In order to create a cosmostation wallet, you will have to download the mobile aplication on your phone:
 
 - Cosmostation for [iOS](https://apps.apple.com/app/cosmostation/id1459830339)
 - Cosmostation for [Android](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)
