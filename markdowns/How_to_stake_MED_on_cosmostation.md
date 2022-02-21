@@ -2,13 +2,13 @@
   > However, please note that you can use any other validator of your choice. <br>
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
-# How to stake MED tokens on Comsostation 
+# How to stake MED tokens on Cosmostation 
 
 ### Prerequisites:
 
 Before continuing with this guide please be sure that:
 
-- **You have a [comostation wallet](How_to_create_a_cosmostation_wallet.md)**
+- **You have a [cosmostation wallet](How_to_create_a_cosmostation_wallet.md)**
 - **You have installed the mobile Cosmostation app for [iOS](https://apps.apple.com/app/cosmostation/id1459830339) or [Android](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)**
 - **You have MED tokens in your Cosmostation wallet**
 - **You know what [staking](What_is_staking.md) is.**
