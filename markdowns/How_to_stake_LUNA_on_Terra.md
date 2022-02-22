@@ -61,7 +61,7 @@ You have now succesfully staked your LUNA tokens!
 
 <img width="500" src="https://user-images.githubusercontent.com/95366163/147110188-4cc9fa28-8686-4cb6-bfd1-1d7cbf31a717.png">
 
-### **4.   Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
+### **4.   Claim rewards and restake regularly to benefit from [compounding effects](Compound_interest.md)**
 
 Make sure to come back to the [Terra station staking page](https://station.terra.money/staking) to see the status of your delegations. <br>
 
