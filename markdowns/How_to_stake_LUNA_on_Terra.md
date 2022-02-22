@@ -63,7 +63,7 @@ You have now succesfully staked your LUNA tokens!
 
 ### **4.   Claim rewards and restake regularly to benefit from [compounding effects](Compound_interest.md)**
 
-Make sure to come back to the [Terra station staking page](https://station.terra.money/staking) to see the status of your delegations. <br>
+Make sure to come back to the [Terra station staking page](https://station.terra.money/stake) to see the status of your delegations. <br>
 
 After a while you will be able to claim pending rewards by clicking on the **Withdraw all rewards** button on the right side.<br>
 These rewards will be added to your total LUNA balance and will be visible under **Available for delegation**. <br>
