@@ -65,8 +65,8 @@ You have now succesfully staked your LUNA tokens!
 
 Make sure to come back to the [Terra station staking page](https://station.terra.money/stake) to see the status of your delegations. <br>
 
-After a while you will be able to claim pending rewards by clicking on the **Withdraw all rewards** button on the right side.<br>
+After a while you will be able to claim pending rewards by clicking on the **Withdraw all rewards** button on the right side.
 These rewards will be added to your total LUNA balance and will be visible under **Available for delegation**. <br>
-In other words, you will than be able to stake these rewards once more or transfer to another wallet. 
+In other words, you will then be able to stake these rewards once more or transfer to another wallet. 
 
 ![Staking page after](https://user-images.githubusercontent.com/95366163/147111083-c82db1da-c406-4e40-ba01-9d3d143108f7.png)
