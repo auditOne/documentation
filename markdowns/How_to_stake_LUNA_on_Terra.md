@@ -16,9 +16,9 @@ Before continuing with this guide please be sure that:
 
 ***
 
-### **1.  Go to the [Terra station staking page](https://station.terra.money/staking) and connect your wallet**
+### **1.  Go to the [Terra station staking page](https://station.terra.money/stake) and connect your wallet**
 
-You can easily access the page by clicking this link: [Stake LUNA](https://station.terra.money/staking)
+You can easily access the page by clicking this link: [Stake LUNA](https://station.terra.money/stake)
 
 ![Staking page](https://user-images.githubusercontent.com/95366163/147106553-5a0626e3-d777-4165-921a-cacc6c5ceed8.png)
 
