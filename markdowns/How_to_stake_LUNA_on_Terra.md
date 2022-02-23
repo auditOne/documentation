@@ -3,7 +3,7 @@
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 
-# How to stake LUNA tokens on Terra
+# How to stake LUNA tokens on Terra Station
 
 ### Prerequisites:
 
