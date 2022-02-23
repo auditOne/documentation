@@ -71,7 +71,7 @@ Once you agree with this fee, click **Delegate** and wait for your transaction t
 You have now succesfully staked your MATIC tokens!
 
 
-### **4. Claim rewards and restake regularly to benefit from compounding effects**
+### **4. Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
 Make sure to come back to the [Polygon staking dashboard](https://wallet.polygon.technology/staking/) to see the status of your delegations. <br>
 
@@ -79,7 +79,7 @@ You can claim your pending rewards by clicking on the **Withdraw reward** button
 In this case rewards will be added to your total MATIC balance and will be available for trading or restaking. <br>
 
 If you want to restake your rewards directly, then you should click the **Restake reward** button. <br>
-By doing this, your rewards will be added to your staked balance and they will generate [compound interests](Compound_interest.md). <br>
+By doing this, your rewards will be added to your staked balance and they will generate [compound interests](Compounding_interest.md). <br>
 
 
 ![Overview](https://user-images.githubusercontent.com/95366163/148204076-a2d51540-708f-4839-ae4a-1aff675ce9ff.png)
