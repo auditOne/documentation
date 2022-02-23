@@ -60,7 +60,7 @@ The higher the fee you are willing to pay, the faster the transaction will be co
 You have now succesfully staked your XPRT tokens!
 
 
-### **4.  Sit back and watch your tokens earn rewards**
+### **4.  Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
 Make sure to come back to the [Persistence dashboard](https://wallet.persistence.one/dashboard/wallet) to see the status of your delegations. <br>
 
