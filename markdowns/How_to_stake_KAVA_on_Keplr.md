@@ -71,4 +71,4 @@ Once the transaction is complete, these rewards will be added to your available 
 
 ![Claim rewards](https://user-images.githubusercontent.com/95366163/154661860-b200fa38-2acd-469c-9606-46196c6ca91f.png)
 
-You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compound_interest.md).
+You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compounding_interest.md).
