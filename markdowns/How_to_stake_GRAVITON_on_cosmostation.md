@@ -68,7 +68,7 @@ Click **Done** to go back to your wallet.
 You have now succesfully staked your GRAVITON tokens!
 
 
-### 4.  **Claim rewards and restake regularly to benefit from compounding effects**
+### 4.  **Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
 Make sure to come back to your wallet overview to see the status of your delegation and to claim your rewards.<br>
 
@@ -80,4 +80,4 @@ Now **Claim your rewards** and they will be added to your available GRAVITON bal
 
 ![5](https://user-images.githubusercontent.com/95366163/153618562-78d0cb57-a936-4a91-85c4-774ae3edd330.png)
 
-You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compound_interest.md).
+You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compounding_interest.md).
