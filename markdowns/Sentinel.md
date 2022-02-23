@@ -7,6 +7,5 @@ The [**Sentinel Ecosystem**](https://sentinel.co/) is a global network of autono
 <br>
 
 [<p align="center">
-  <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/148816521-1e9cac9f-0d42-4653-b10d-bfb8fc6ae82a.png">
+  <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/155355628-7804fcaf-96ec-4156-a60e-7ab3f9e03bb2.png">
 </p>](How_to_stake_DVPN_on_Keplr.md)
-
