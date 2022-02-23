@@ -58,6 +58,6 @@ You have now succesfully staked your SOL tokens!
 
 Make sure to check your **Phantom web extention** on a regular basis to see the status of your delegation.
 
-Claim your pending rewards in order restake them and go back to [**Step 1**](#step1) to restake your rewards and benefit from [compounding effects](Compound_interest.md).
+Claim your pending rewards in order restake them and go back to [**Step 1**](#step1) to restake your rewards and benefit from [compounding effects](Compounding_interest.md).
 
 
