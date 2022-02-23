@@ -58,7 +58,7 @@ Hit **stake**, wait for the transaction to be completed and finish of by hitting
 You have now succesfully staked your OSMO tokens!
 
 
-### 4.  **Claim rewards and restake regularly to benefit from compounding effects**
+### 4.  **Claim rewards and restake regularly to benefit from [compounding effects](Compounding_interest.md)**
 
 Make sure to go back to the overview to see the status of your delegation and to claim your rewards:<br>
 
