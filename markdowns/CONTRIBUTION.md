@@ -22,33 +22,48 @@ By clicking it you will be redirected to the GitHub sign-in page, where you can 
 
 <img width="350" src="https://user-images.githubusercontent.com/95366163/154495074-bb869e10-31f3-4766-93f6-44f91c8e57ac.png">
 
-Once logged in, you'll be taken to the GitHub built-in text editor where you can make your edits directly. 
+Once logged in, you will first need to **fork** the repository in order to suggest changes.
 
-![image](https://user-images.githubusercontent.com/95366163/154495886-d2c55d35-1124-42c2-9b00-a3cdbf231653.png)
+<img width="600" src="https://user-images.githubusercontent.com/95366163/155556321-309cf523-214c-44e3-a55d-f636f7033be4.png">
 
-When you've completed your changes, you can add any specific details on what was changed and **commit to a new branch**. <br>
+After that, you will be redirected to the GitHub built-in text editor where you can make your edits directly. 
 
+![Contribute1](https://user-images.githubusercontent.com/95366163/155557138-e642412c-b15d-47c5-ba93-4ab352590eb6.png)
 
-![Contribution2](https://user-images.githubusercontent.com/95366163/154499865-134a2c96-9d7d-447a-89f1-25dde1fd800f.png)
+When you've completed your changes, you can add any specific details on what was changed and **propose changes**. <br>
 
-Once you've proposed your changes, it's important to **create a new Pull Request** to the repository. From there, one of the admins will review your changes, and either merge them or request changes.
+![Contribute2](https://user-images.githubusercontent.com/95366163/155557271-e9e50d76-782f-4080-b0ac-54946a09fa64.png)
 
-![Contribution3](https://user-images.githubusercontent.com/95366163/154500054-84af149c-c8d9-469d-9be4-5c8304a69172.png)
+Once you've proposed your changes, it's important to **create a new Pull Request** to the repository. 
+
+![Contribute3](https://user-images.githubusercontent.com/95366163/155557330-5502a339-8b8c-48a8-8312-7ee2c1c13887.png)
+
+Give your pull request a name like "**Update ...**" and pull the request. <br>
+From there, one of the admins will review your changes, and either merge them or request changes.
+
+![Contribute4](https://user-images.githubusercontent.com/95366163/155557588-9ea3b1a2-ec4a-4427-8e61-a2e8ffbd5d61.png)
+
 
 ## Adding a page
 
 To add new pages, you have to create a new file in our [Github repository markdown file](https://github.com/auditOne/documentation/tree/main/markdowns). By clicking on "**Create new file**" under the "**Add file**" tab, you'll be redirected to a blank page.
 
-![Contribution5](https://user-images.githubusercontent.com/95366163/154504871-c0594da9-8483-44fe-9b85-102e6991553a.png)
+![Contribution5](https://user-images.githubusercontent.com/95366163/155559514-856aecfa-1600-48d6-b29c-79f7b493a61b.png)
 
 Give the new page a name, and don't forget to put the **.md** extension at the end of the name. You can now create a new page from scratch.
 
-![image](https://user-images.githubusercontent.com/95366163/154503664-9cd1805c-e5b1-4a5a-a8c8-69b09eca2620.png)
+![Contribute5](https://user-images.githubusercontent.com/95366163/155559552-69c38760-f9cd-46db-b377-6f39322fc525.png)
 
-When your page is done, make sure to propos your file by creating a new branch.
+When your page is done, give some info about your addition and **propose your new file**.
 
-![Contribution4](https://user-images.githubusercontent.com/95366163/154504427-3a004135-0ce1-48fe-92cb-234fa019382c.png)
+![Contribute6](https://user-images.githubusercontent.com/95366163/155559796-65c3f901-2078-4684-83e5-feace289d552.png)
 
-Once you've proposed your page, it's important to **create a new Pull Request** to the repository. From there, one of the admins will review your page, and either merge them or request changes.
+Once you've proposed your page, it's important to **create a new Pull Request** to the repository. 
 
+![Contribute7](https://user-images.githubusercontent.com/95366163/155561534-627c98e2-b37b-48a2-86b9-d7d765e48317.png)
+
+Give your pull request a name like "**Create...**" and pull the request. <br>
+From there, one of the admins will review your new page, and either merge it or request changes.
+
+![Contribute8](https://user-images.githubusercontent.com/95366163/155561850-8f4c1568-b0e8-462b-923b-90b93f51e4e2.png)
 
