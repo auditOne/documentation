@@ -240,6 +240,17 @@
    </div>
   </a>
    
+ <a href="{{ site_url }}/Sommelier/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         SOMMELIER
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/156783575-0c7c2f51-45f8-4dfe-af55-14d5816f8fd7.png">
+       </p>
+     </div>
+   </div>
+  </a>   
+
  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
@@ -249,7 +260,11 @@
        </p>
      </div>
    </div>
-  </a>    
+  </a> 
+   
+</div>
+
+<div class="maincard">
    
   <a href="{{ site_url }}/Terra/" target="_self">
    <div class="card">
