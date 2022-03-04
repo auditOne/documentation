@@ -12,4 +12,4 @@ Evmos has also enabled Cosmos’ Inter-blockchain Communication Protocol (IBC). 
 
 [<p align="center">
   <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/155010736-6ff6f557-e78a-49d3-b31f-500c2253ec76.png">
-</p>](How_to_stake_EVMOS.md)
+</p>](How_to_stake_EVMOS_on_Keplr.md)
