@@ -82,6 +82,17 @@
  
 <div class="maincard">
    
+ <a href="{{ site_url }}/Evmos/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          EVMOS
+            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/155012954-779c3988-e5a5-43c9-bc1b-72f5401e2e1d.png"> 
+        </p>
+     </div>
+   </div>
+  </a>   
+   
  <a href="{{ site_url }}/Gravity_Bridge/" target="_self">
    <div class="card">
      <div>
@@ -104,7 +115,11 @@
    </div>
   </a>  
    
- <a href="{{ site_url }}/Ixo/" target="_self">
+ </div>
+ 
+<div class="maincard">
+ 
+   <a href="{{ site_url }}/Ixo/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -115,9 +130,6 @@
    </div>
   </a>   
    
- </div>
- 
-<div class="maincard">
    
  <a href="{{ site_url }}/Juno/" target="_self">
    <div class="card">
@@ -141,6 +153,10 @@
    </div>
   </a> 
    
+</div>
+
+<div class="maincard">
+   
  <a href="{{ site_url }}/Ki_Chain/" target="_self">
    <div class="card">
      <div>
@@ -152,10 +168,6 @@
    </div>
   </a> 
    
-</div>
-
-<div class="maincard">
-
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
      <div>
@@ -178,6 +190,10 @@
    </div>
   </a>   
    
+</div>
+
+<div class="maincard">
+   
  <a href="{{ site_url }}/Persistence/" target="_self">
    <div class="card">
      <div>
@@ -189,10 +205,6 @@
    </div>
   </a>  
    
-</div>
-
-<div class="maincard">
-
 <a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
@@ -213,6 +225,10 @@
    </div>
   </a>  
    
+</div>
+
+<div class="maincard">
+   
   <a href="{{ site_url }}/Solana/" target="_self">
    <div class="card">
      <div>
@@ -224,10 +240,6 @@
    </div>
   </a>
    
-</div>
-
-<div class="maincard">
-
  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
@@ -275,21 +287,6 @@
      </div>
    </div>
   </a>
-
-   <a href="{{ site_url }}/Evmos/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          EVMOS
-            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/155012954-779c3988-e5a5-43c9-bc1b-72f5401e2e1d.png"> 
-        </p>
-     </div>
-   </div>
-  </a>
-   
-</div>
-
-<div class="maincard">
    
   <a href="{{ site_url }}/Harmony/" target="_self">
    <div class="card">
@@ -302,6 +299,10 @@
    </div>
   </a>   
    
+</div>
+
+<div class="maincard">
+
   <a href="{{ site_url }}/Injective/" target="_self">
    <div class="card">
      <div>
@@ -323,11 +324,6 @@
      </div>
    </div>
   </a>  
-
-   
-</div>
-
-<div class="maincard">
    
  <a href="{{ site_url }}/Marlin/" target="_self">
    <div class="card">
@@ -338,8 +334,12 @@
        </p>
      </div>
    </div>
-  </a>    
+  </a> 
    
+</div>
+
+<div class="maincard">
+    
   <a href="{{ site_url }}/Near/" target="_self">
    <div class="card">
      <div>
@@ -361,10 +361,6 @@
      </div>
    </div>
   </a>  
-   
-</div>
-
-<div class="maincard">
 
   <a href="{{ site_url }}/Tezos/" target="_self">
    <div class="card">
@@ -377,6 +373,10 @@
    </div>
   </a>
    
+</div>
+
+<div class="maincard">
+  
   <a target="_self">
    <div class="card">
      <div>
