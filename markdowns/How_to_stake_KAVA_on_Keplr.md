@@ -35,7 +35,7 @@ Once you've found it, click **manage** on the right side:
 
 This screen will pop up and give you some more info about the validator. 
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/156751732-c8e143d2-7703-41ac-8032-8930223fdf22.png">
+<img width="700" src="https://user-images.githubusercontent.com/95366163/156752120-9d7a092f-cedf-445a-a8ca-c3716be411a1.png">
 
 Click [here](Validator_fee.md) to get more info about this commission fee. <br>
 To proceed, hit **Delegate** on the right bottom.
