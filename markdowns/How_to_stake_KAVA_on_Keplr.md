@@ -35,7 +35,7 @@ Once you've found it, click **manage** on the right side:
 
 This screen will pop up and give you some more info about the validator. 
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/154650274-0a77d3ba-57c0-4aac-8ad7-b2aa96cca88b.png">
+<img width="700" src="https://user-images.githubusercontent.com/95366163/156751732-c8e143d2-7703-41ac-8032-8930223fdf22.png">
 
 Click [here](Validator_fee.md) to get more info about this commission fee. <br>
 To proceed, hit **Delegate** on the right bottom.
@@ -69,6 +69,6 @@ You can claim your pending rewards by clicking on the **Claim** button next to y
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
 Once the transaction is complete, these rewards will be added to your available KAVA balance. <br> <br>
 
-![Claim rewards](https://user-images.githubusercontent.com/95366163/154661860-b200fa38-2acd-469c-9606-46196c6ca91f.png)
+![Claim rewards](https://user-images.githubusercontent.com/95366163/156751845-f5d823a1-177e-4952-9090-40dbd58af812.png)
 
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compounding_interest.md).
