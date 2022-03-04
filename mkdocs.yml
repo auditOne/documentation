@@ -235,6 +235,9 @@ nav:
       - Solana (SOL):
           - Intro to Solana: Solana.md
           - Stake on Phantom: How_to_stake_SOL_on_Phantom.md
+      - Sommelier (SOMM):
+          - Intro to Sommelier: Sommelier.md
+          - Stake on Keplr: How_to_stake_SOMM_on_Keplr.md
       - Stargaze (STAR):
           - Intro to Stargaze: Stargaze.md
           - Stake on Stargaze: How_to_stake_STAR_on_Stargaze.md
