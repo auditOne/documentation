@@ -246,6 +246,9 @@ nav:
           - Stake on Terra Station: How_to_stake_LUNA_on_Terra.md
       - Tezos (XTZ):
           - Intro to Tezos: Tezos.md
+      - Umee (UMEE):
+          - Intro to Umee: Umee.md
+          - Stake on Keplr: How_to_stake_UMEE_on_Keplr.md
   - Contribute: CONTRIBUTION.md
   - FAQs: FAQ.md
  
