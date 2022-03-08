@@ -68,6 +68,6 @@ You can claim your pending rewards by clicking on the **Claim** button next to y
 You will be asked to approve the transaction again with your wallet and choose the transaction fee. <br>
 Once the transaction is complete, these rewards will be added to your available EVMOS balance. <br> <br>
 
-![Claim rewards](https://user-images.githubusercontent.com/95366163/156748789-f475129d-2626-46dc-b87d-207c4d93dd3e.png)
+![Claim rewards](https://user-images.githubusercontent.com/95366163/157229947-b89ca2bf-87c0-44a1-b923-ecef5be00741.png)
 
 You can now go back to [**Step 1**](#step1) and restake your rewards to benefit from [compounding effects](Compounding_interest.md).
