@@ -103,13 +103,13 @@
      </div>
    </div>
   </a>
-  
+ 
   <a href="{{ site_url }}/Injective/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
          INJECTIVE
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877663-7feeddf4-d811-456d-9288-ab808558cb73.png">
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/157484755-9c65e3e2-4cdc-4432-a0ee-d5a907943878.png">
        </p>
      </div>
    </div>
