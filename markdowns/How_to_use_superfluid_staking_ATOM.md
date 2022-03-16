@@ -47,9 +47,12 @@ You can either do this by scrolling down in the list until you find our logo or 
 
 Once you've found it, select it and click on the **Bond & Stake** button.
 <br>
+Approve the transaction by choosing your transaction fee, and you're all set!
+
+<img width="300" src="https://user-images.githubusercontent.com/95366163/158547220-5b09bce6-5c35-4fc1-a144-64e41f7643a5.png">
 
 ### **Congratulations!** 
-You have now activated Superfluid staking on Osmosis and will start to earn extra rewards on your assets.
+You have now activated Superfluid staking for the ATOM/OSMO pool and will start to earn extra rewards on your assets.
 
 You can now see the overview of your Superfluid stake and the estimated [APR](APR.md) that you are earning on the provided liquidity.
 
