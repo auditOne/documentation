@@ -43,7 +43,7 @@ To proceed, you will first have to choose your validator to which you want to de
 
 You can either do this by scrolling down in the list until you find our logo or type in **AUDIT.one** in the search bar on the upper right side.
 
-![Choose AUDIT](https://user-images.githubusercontent.com/95366163/157020221-6e724a18-def5-4d9a-9ff2-fcb9c4698a01.png)
+<img width="500" src="https://user-images.githubusercontent.com/95366163/157020221-6e724a18-def5-4d9a-9ff2-fcb9c4698a01.png">
 
 Once you've found it, select it and click on the **Bond & Stake** button.
 <br>
