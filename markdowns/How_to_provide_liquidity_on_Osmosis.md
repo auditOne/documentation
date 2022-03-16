@@ -20,41 +20,50 @@ Providing liquidity on Osmosis is pretty easy when you follow these few steps:
 
 Which you can easily access by clicking [this link](https://app.osmosis.zone/pools)
 
-![Select Pool](https://user-images.githubusercontent.com/95366163/156808885-d95a4a07-246b-43c4-8848-abaa672bec7a.png)
+![Pool page](https://user-images.githubusercontent.com/95366163/158575423-06079da8-e0c8-4af7-a8aa-56cf952d2a6a.png)
 
 Select the ATOM/OSMO Pool #1 to proceed.
-  > Or the pool you want to provide liquidity to
+  > Or another pool you want to provide liquidity to
 
-### **2.  Enable superfluid staking to earn extra rewards on your assets**
+### **2.  Provide your liquidity**
 
-If you have provided liquidity to the ATOM/OSMO pool with a unboning period of 14 days, you will see a new button "**Go Superfluid**"
+Click on the "**Add/Remove liquidity**" button on the top of the page to get started.
 
-  > Note that superfluid staking is only available for liquidity that was provided with a 14 day unbonding period. If you provided liquidity with 1 or 7 days unbonding, you will need to unbond and get into the 14 day unbonding period to enable superfluid staking.
+![Select pool](https://user-images.githubusercontent.com/95366163/158576785-69aa9be0-26a3-432a-870e-1a3d57e37dab.png)
 
-Click on the button to continue and see the list of available validators.
+You'll get this screen where you have to decide how much liquidity of each token you wish to provide.
+According to the weights in the pool you will have to provide liquidity according to the ratio. 
 
-![Go Superfluid](https://user-images.githubusercontent.com/95366163/157019981-268b45d5-77d1-42fc-a462-a46b8711b890.png)
- 
-### **3.  Choose AUDIT.one as your validator**
+<img width="500" src="https://user-images.githubusercontent.com/95366163/158577727-06010aa3-c877-44fe-a051-f2d53814e4d0.png">
 
-This screen will pop up and show you the bonded liquidity you have provided (with 14 days unbonding) and the estimated amount of OSMO that is available for superliquid staking on the bottom.
+Press **Add liquidity** to continue. <br>
 
-To proceed, you will first have to choose your validator to which you want to delegate your liquid assets.
+As a final step, you have to approve the transaction by choosing the transaction fee, and you're all set!
 
-You can either do this by scrolling down in the list until you find our logo or type in **AUDIT.one** in the search bar on the upper right side.
-
-<img width="500" src="https://user-images.githubusercontent.com/95366163/157020221-6e724a18-def5-4d9a-9ff2-fcb9c4698a01.png">
-
-Once you've found it, select it and click on the **Bond & Stake** button.
-<br>
+<img width="300" src="https://user-images.githubusercontent.com/95366163/158580140-3542f0e7-6f50-462f-9f5b-3fa059be16ae.png">
 
 ### **Congratulations!** 
-You have now activated Superfluid staking on Osmosis and will start to earn extra rewards on your assets.
+You have now succesfully provided liquidity on Osmosis!
 
-You can now see the overview of your Superfluid stake and the estimated [APR](APR.md) that you are earning on the provided liquidity.
+### **3.  Stake your LP tokens to earn rewards on your provided liquidity**
 
-![Overview](https://user-images.githubusercontent.com/95366163/157021633-8ba58a9f-19b6-4db6-9f04-98d7d8fdc4e0.png)
+When you provide liquidity to an LP pool, you get LP tokens as as a reward that can be used for other purposes. <br>
+These LP tokens can be staked to earn income on your provided liquidity.
 
+Click on the "**Start Earning** button to continue.
+
+![Start earning](https://user-images.githubusercontent.com/95366163/158588306-6c35a6ab-8926-4915-a671-5a9ef7c302e0.png)
+
+You will get to see this screen where you'll have to decide on the [unbonding period](Unbonding_period.md).
+
+<img width="500" src="https://user-images.githubusercontent.com/95366163/158589147-8a64de11-3c60-4e2b-acac-40db185680f8.png">
+
+ > **!!!Do keep in mind that in order to be eligible for [superfluid staking](How_to_use_superfluid_staking.md) you have to choose the 14 days unbondingn period**
+
+Decide on how many of you LP tokens you want to stake and hit "**Approve**". <br>
+Approve the transaction by choosing the transaction fee, and you're ready to start earning rewards on your provided liquidity!
+
+<img width="300" src="https://user-images.githubusercontent.com/95366163/158590483-3bfd5bda-f6b4-441e-97de-97db1743d652.png">
 
 
 
