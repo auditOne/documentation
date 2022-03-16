@@ -2,7 +2,7 @@
   > However, please note that you can use any other validator of your choice. <br>
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
-# How to use Superfluid staking on Osmosis
+# How to use Superfluid staking on Osmosis for the ATOM/OSMO pool
 
 ### Prerequisites:
 
