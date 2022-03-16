@@ -176,6 +176,7 @@ nav:
       - Cosmos (ATOM): 
           - Intro to Cosmos: Cosmos.md
           - Stake on Keplr: How_to_stake_ATOM_with_Keplr.md
+          - Superfluid staking: How_to_use_superfluid_staking_ATOM.md
       - Crypto.com (CRO):
           - Intro to Crypto.com: Cryptocom.md
           - Stake on Keplr: How_to_stake_CRO_on_Keplr.md
@@ -246,6 +247,7 @@ nav:
       - Terra (LUNA): 
           - Intro to Terra: Terra.md
           - Stake on Terra Station: How_to_stake_LUNA_on_Terra.md
+          - Superfluid staking: How_to_use_superfluid_staking_LUNA.md
       - Tezos (XTZ):
           - Intro to Tezos: Tezos.md
       - Umee (UMEE):
