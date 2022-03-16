@@ -221,6 +221,7 @@ nav:
       - Osmosis (OSMO): 
           - Intro to Osmosis: Osmosis.md
           - Stake on Keplr: How_to_stake_OSMO_with_Keplr.md
+          - Superfluid staking: How_to_use_superfluid_staking.md
       - Persistence (XPRT): 
           - Intro to Persistence: Persistence.md
           - Stake on Persistence: How_to_stake_XPRT_with_Persistence.md
