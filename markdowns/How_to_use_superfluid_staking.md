@@ -3,6 +3,7 @@
   > Read [our article](Importance_of_choosing_the_right_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 # How to use Superfluid staking on Osmosis
+#### This is a general guide we use the ATOM/OSMO pool as an example, but you can easily follow the same steps with other pools that will become available in the future.
 
 ### Prerequisites:
 
@@ -14,7 +15,6 @@ Before continuing with this guide please be sure that:
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
 ***
-#### FOR THIS GENERAL GUIDE WE USE THE ATOM/OSMO POOL AS AN EXAMPLE. YOU CAN FOLOW THE SAME STEPS WITH OTHER POOLS THAT WILL BECOME AVAILABLE IN THE FUTURE.
 
 Superfluid staking on Osmosis is pretty easy when you follow these few steps:
 
