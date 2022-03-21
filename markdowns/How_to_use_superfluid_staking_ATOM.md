@@ -9,7 +9,7 @@
 Before continuing with this guide please be sure that:
 
 - **You have a [Keplr wallet](How_to_create_a_Keplr_wallet.md)**
-- **You have provided liquidity to the ATOM/OSMO pool on [Osmosis](https://app.osmosis.zone/pools)**
+- **You have [provided liquidity](How_to_provide_liquidity_on_Osmosis.md) to the ATOM/OSMO pool on [Osmosis](https://app.osmosis.zone/pools)**
 - **You know what [staking](What_is_staking.md) is**
 - **You understand [the risks](Risks_of_staking.md) involved with staking**
 
