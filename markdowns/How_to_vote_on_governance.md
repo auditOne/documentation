@@ -27,11 +27,11 @@ Here you will find all previous, current and deposited proposals for the network
 
 ### **2.  Select your vote**
 
-Once you've read through the proposal and formed you answer, click on one of the four options.
+Once you've read through the proposal and formed your answer, click on one of the four options.
 
 <img width="400" src="https://user-images.githubusercontent.com/95366163/159240434-e668fdb1-eb40-4e36-ae7a-a90a4b534d49.png">
 
-Click the **Confirm** button to place your vote.
+Click the **Confirm** button to confirm your choice.
 
 A final transaction approval is needed to finalise voting. <br>
 Choose your transaction fee and click on **Approve**.
