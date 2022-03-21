@@ -41,7 +41,7 @@ Choose your transaction fee and click on **Approve**.
 ### **Congratulations!** 
 You have now succesfully voted on Persistence governance!
 
-You will be taken back to the overview page and will see that your vote has gone through.
+You will be taken back to the overview page and will see your vote.
 
 ![overview](https://user-images.githubusercontent.com/95366163/159241303-4e6178fc-0d00-4366-a555-2ea629fa3118.png)
 
