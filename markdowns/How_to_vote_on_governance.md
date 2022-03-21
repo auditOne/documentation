@@ -21,7 +21,7 @@ Or click on **Vote** to start voting.
 
 Here you will find all previous, current and deposited proposals for the network.
 
-* **Passed**: For these proposals the voting period is over and you can not longer vote on
+* **Passed**: For these proposals the voting period is over so you can not longer vote
 * **Deposit Period**: These proposals are deposited, but not yet open for voting
 * **Voting Period**: These are active proposals on which you can vote
 
