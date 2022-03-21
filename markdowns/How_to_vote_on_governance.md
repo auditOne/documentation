@@ -1,4 +1,4 @@
-# How to vote for Persistence governance proposals on Keplr 
+# How to vote for governance proposals on Keplr 
 
 ### Prerequisites:
 
