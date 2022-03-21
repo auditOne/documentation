@@ -221,6 +221,7 @@ nav:
           - Intro to Near: Near.md
       - Osmosis (OSMO): 
           - Intro to Osmosis: Osmosis.md
+          - Providing liquidity: How_to_provide_liquidity_on_Osmosis.md
           - Stake on Keplr: How_to_stake_OSMO_with_Keplr.md
           - Superfluid staking: How_to_use_superfluid_staking.md
       - Persistence (XPRT): 
