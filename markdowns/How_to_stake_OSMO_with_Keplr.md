@@ -31,11 +31,11 @@ You can either do this by scrolling down in the list until you find our logo or 
 
 Once you've found it, click **manage** on the right side:
 
-![Pick AUDIT one OSMO](https://user-images.githubusercontent.com/95366163/148534478-b088bc1c-ec94-4577-9b65-fe7305b9aea7.png)
+![Pick AUDIT one OSMO](https://user-images.githubusercontent.com/95366163/159654273-f0d91f2d-3888-4611-8ff2-2210bfaab343.png)
 
 This screen will pop up and give you some more info about the validator. 
 
-<img width="700" src="https://user-images.githubusercontent.com/95366163/148533039-a00b4cf5-e902-4923-83bf-d87cd8f8ea27.png">
+<img width="700" src="https://user-images.githubusercontent.com/95366163/159654344-ebb9d66e-0be6-473d-be87-613e3c684280.png">
 
 Click [here](Validator_fee.md) to get more info about this commission fee. <br>
 To proceed, hit **Delegate** on the right bottom.
@@ -45,7 +45,7 @@ To proceed, hit **Delegate** on the right bottom.
 
 Once you've clicked on delegate, you will see this screen:
 
-<img width="981" src="https://user-images.githubusercontent.com/95366163/148533277-796a7e3d-3f2e-4239-be27-750963f76181.png">
+<img width="981" src="https://user-images.githubusercontent.com/95366163/159654671-b5999508-298e-4e38-9dfb-c78ee25f2e2d.png">
 
 If you don't know what an unbonding period is, we suggest you to first learn about it in our [glossary](Unbonding_period.md).
 
