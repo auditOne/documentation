@@ -34,7 +34,7 @@ To find us, you can either scroll down the list until you find our logo or type 
 Once you've found us, **tap to continue**. <br>
 This screen will pop up and give you some more info about AUDIT.one: <br>
 
-<img height="564px" src="https://user-images.githubusercontent.com/95366163/144902637-e9aa2e37-82fc-4802-a457-a5e8ec08b04c.png">
+<img height="564px" src="https://user-images.githubusercontent.com/95366163/159654912-de0ab56f-1423-4067-b059-bdc87a71d608.png">
 
 Want to get more info about this commission fee? Go to[what is a validator fee?](Validator_fee.md) <br>
 To proceed, hit the **Stake** button.
