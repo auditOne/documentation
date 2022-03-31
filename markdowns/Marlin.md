@@ -8,5 +8,5 @@
 
 [<p align="center">
   <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/161115129-6173cb12-1cea-4a96-9473-2a01ee7fa4cd.png">
-</p>](How_tp_stake_POND_on_Arbitrum.md)
+</p>](How_to_stake_POND_on_Arbitrum.md)
 
