@@ -369,11 +369,6 @@
    </div>
   </a>  
 
-   
-   
-   
-   
-     
   <a href="{{ site_url }}/Near/" target="_self">
    <div class="card">
      <div>
@@ -384,10 +379,6 @@
      </div>
    </div>
   </a>  
-   
-</div>
-
-<div class="maincard">
 
   <a href="{{ site_url }}/Skale/" target="_self">
    <div class="card">
@@ -398,7 +389,10 @@
        </p>
      </div>
    </div>
-  </a>  
+  </a>     
+</div>
+
+<div class="maincard">
 
   <a href="{{ site_url }}/Tezos/" target="_self">
    <div class="card">
