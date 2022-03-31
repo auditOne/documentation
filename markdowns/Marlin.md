@@ -6,6 +6,7 @@
 <br>
 
 
-<p align="center">
-  <img width="400" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/149524609-756864ef-1cc9-4eca-8ab9-433b14ad4cbb.png">
-</p>
+[<p align="center">
+  <img width="200" alt="Stake button" src="https://user-images.githubusercontent.com/95366163/161115129-6173cb12-1cea-4a96-9473-2a01ee7fa4cd.png">
+</p>](How_tp_stake_POND_on_Arbitrum.md)
+
