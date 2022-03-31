@@ -181,6 +181,21 @@
    </div>
   </a> 
    
+ <a href="{{ site_url }}/Marlin/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         MARLIN
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960338-2570b76e-35b5-407b-9689-c2e9a348300a.png">
+       </p>
+     </div>
+   </div>
+  </a> 
+   
+</div>
+
+<div class="maincard">
+   
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
      <div>
@@ -191,11 +206,6 @@
      </div>
    </div>
   </a>   
-
-   
-</div>
-
-<div class="maincard">
 
  <a href="{{ site_url }}/Osmosis/" target="_self">
    <div class="card">
@@ -217,7 +227,12 @@
        </p>
      </div>
    </div>
-  </a>  
+  </a>    
+
+   
+</div>
+
+<div class="maincard">
    
 <a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
@@ -226,13 +241,8 @@
        <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987400-d4f74af1-ec96-4d44-a593-19a118a18f95.png">
      </p>
    </div>
-  </a>   
- 
+  </a> 
    
-</div>
-
-<div class="maincard">
-  
   <a href="{{ site_url }}/Sentinel/" target="_self">
    <div class="card">
      <div>
@@ -254,6 +264,11 @@
      </div>
    </div>
   </a>
+
+   
+</div>
+
+<div class="maincard">
    
  <a href="{{ site_url }}/Sommelier/" target="_self">
    <div class="card">
@@ -265,11 +280,6 @@
      </div>
    </div>
   </a>   
-
-   
-</div>
-
-<div class="maincard">
 
  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
@@ -291,6 +301,10 @@
    </div>
   </a>
    
+</div>
+
+<div class="maincard">
+   
   <a href="{{ site_url }}/Umee/" target="_self">
    <div class="card">
      <p class="heading">
@@ -299,6 +313,7 @@
      </p>
    </div>
   </a>
+  
 
 </div>
 
@@ -353,17 +368,11 @@
      </div>
    </div>
   </a>  
+
    
- <a href="{{ site_url }}/Marlin/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         MARLIN
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960338-2570b76e-35b5-407b-9689-c2e9a348300a.png">
-       </p>
-     </div>
-   </div>
-  </a> 
+   
+   
+   
      
   <a href="{{ site_url }}/Near/" target="_self">
    <div class="card">
