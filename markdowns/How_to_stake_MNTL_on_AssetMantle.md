@@ -50,7 +50,7 @@ _(By clicking the word '**Balance**' underneath the entry bar, the maximum avail
 
   > TIP: It might be a good idea to keep a small amount of tokens in your balance to use for future transactions like claiming rewards for example.
 
-Once you've decided how many tokens you wish to stake, hit the **Next** button.
+Once you've decided how many tokens you wish to stake, hit the **Submit** button.
 
 You will be asked to choose the transaction fee (low, average or high). 
 The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](Transaction_fees.md)
