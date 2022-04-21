@@ -8,7 +8,7 @@
 
 <div class="maincard" align="center">
   
-  <a align="center" href="{{ site_url }}/How_to_stake_XPRT_on_Persistence/" target="_self">
+  <a align="center" href="{{ site_url }}/How_to_stake_XPRT_with_Persistence/" target="_self">
    <div class="image" align="center">
      <div>
        <p>
@@ -17,7 +17,7 @@
      </div>
    </div>
   </a>   
- <a href="{{ site_url }}/How_to_stake_XPRT_on_Keplr/" target="_self">
+ <a href="{{ site_url }}/How_to_stake_XPRT_with_Keplr/" target="_self">
    <div class="image" align="center">
      <div>
        <p>
