@@ -166,6 +166,9 @@ nav:
       - Akash (AKT): 
           - Intro to Akash: Akash.md  
           - Stake on Keplr: How_to_stake_AKT_with_Keplr.md
+      - AssetMantle (MNTL):
+          - Intro to AssetMantle: AssetMantle.md
+          - Stake on AssetMantle: How_to_stake_MNTL_on_AssetMantle.md
       - Band (BAND): 
           - Intro to Band: Band.md
       - Celo (CELO): 
@@ -213,12 +216,12 @@ nav:
           - Stake on Cosmostation: How_to_stake_XKI_on_cosmostation.md
       - Kusama (KSM):
           - Intro to Kusama: Kusama.md
-      - Medibloc (MED):
-          - Intro to Medibloc: Medibloc.md
-          - Stake on Cosmostation : How_to_stake_MED_on_cosmostation.md
       - Marlin (POND):
           - Intro to Marlin: Marlin.md
           - Stake on Arbitrum : How_to_stake_POND_on_Arbitrum.md
+      - Medibloc (MED):
+          - Intro to Medibloc: Medibloc.md
+          - Stake on Cosmostation : How_to_stake_MED_on_cosmostation.md
       - Near (NEAR): 
           - Intro to Near: Near.md
       - Osmosis (OSMO): 
