@@ -70,5 +70,5 @@ You can claim your pending rewards by clicking on the green **Claim** button on 
 These rewards will be added to your total MNTL balance and will be visible as **Delegatable** or **Transferable**. <br>
 In other words, you will than be able to stake these rewards once more or transfer to another wallet. 
 
-![Overview](https://user-images.githubusercontent.com/95366163/164422381-4c335719-89d4-4185-aac1-52714ce1ffc8.png)
+![Overview](https://user-images.githubusercontent.com/95366163/164422697-0d7c6c0b-a850-44a8-93c5-620fb3a81414.png)
 
