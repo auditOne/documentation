@@ -32,7 +32,22 @@
    </div>
   </a>
    
-  <a href="{{ site_url }}/Comdex/" target="_self">
+  <a href="{{ site_url }}/AssetMantle/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         ASSETMANTLE
+         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/164425745-e9a384e3-bde9-40c0-a0fa-bafff2d0d64b.png"> 
+       </p>
+     </div>
+   </div>
+  </a>
+ 
+</div>
+   
+<div class="maincard">
+   
+ <a href="{{ site_url }}/Comdex/" target="_self">
    <div class="card">
      <div>
        <p class="heading">
@@ -41,11 +56,7 @@
        </p>
      </div>
    </div>
-  </a>
-   
-</div>
-   
-<div class="maincard">
+  </a>   
    
  <a href="{{ site_url }}/Cosmos/" target="_self">
    <div class="card">
@@ -68,6 +79,11 @@
      </div>
    </div>
   </a>   
+
+   
+</div>
+ 
+<div class="maincard">
    
  <a href="{{ site_url }}/Elrond/" target="_self">
    <div class="card"> 
@@ -77,10 +93,6 @@
      </p>
    </div>
   </a>
-   
-</div>
- 
-<div class="maincard">
    
  <a href="{{ site_url }}/Evmos/" target="_self">
    <div class="card">
@@ -104,6 +116,11 @@
    </div>
   </a>
  
+   
+ </div>
+ 
+<div class="maincard">
+
   <a href="{{ site_url }}/Injective/" target="_self">
    <div class="card">
      <div>
@@ -114,12 +131,7 @@
      </div>
    </div>
   </a>
-  
-   
- </div>
- 
-<div class="maincard">
-   
+     
   <a href="{{ site_url }}/Irisnet/" target="_self">
    <div class="card">
      <div>
@@ -141,6 +153,11 @@
      </div>
    </div>
   </a>   
+
+   
+</div>
+
+<div class="maincard">
    
    
  <a href="{{ site_url }}/Juno/" target="_self">
@@ -153,11 +170,6 @@
      </div>
    </div>
   </a>     
-
-   
-</div>
-
-<div class="maincard">
 
  <a href="{{ site_url }}/Kava/" target="_self">
    <div class="card">
@@ -181,6 +193,10 @@
    </div>
   </a> 
    
+</div>
+
+<div class="maincard">
+
  <a href="{{ site_url }}/Marlin/" target="_self">
    <div class="card">
      <div>
@@ -191,11 +207,7 @@
      </div>
    </div>
   </a> 
-   
-</div>
-
-<div class="maincard">
-   
+      
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
      <div>
@@ -217,7 +229,12 @@
      </div>
    </div>
   </a>   
+ 
    
+</div>
+
+<div class="maincard">
+  
  <a href="{{ site_url }}/Persistence/" target="_self">
    <div class="card">
      <div>
@@ -228,11 +245,6 @@
      </div>
    </div>
   </a>    
-
-   
-</div>
-
-<div class="maincard">
    
 <a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
@@ -253,6 +265,10 @@
      </div>
    </div>
   </a>  
+
+</div>
+
+<div class="maincard">
    
   <a href="{{ site_url }}/Solana/" target="_self">
    <div class="card">
@@ -264,11 +280,6 @@
      </div>
    </div>
   </a>
-
-   
-</div>
-
-<div class="maincard">
    
  <a href="{{ site_url }}/Sommelier/" target="_self">
    <div class="card">
@@ -291,6 +302,10 @@
      </div>
    </div>
   </a> 
+
+</div>
+
+<div class="maincard">
    
   <a href="{{ site_url }}/Terra/" target="_self">
    <div class="card">
@@ -300,11 +315,7 @@
      </p>
    </div>
   </a>
-   
-</div>
-
-<div class="maincard">
-   
+      
   <a href="{{ site_url }}/Umee/" target="_self">
    <div class="card">
      <p class="heading">
