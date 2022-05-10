@@ -14,7 +14,7 @@ Although your tokens always stay yours, you need to unstake them before you can 
 
 If you hold cryptocurrencies that you can stake and you aren't planning to trade it in the near future, then you should stake them if possible. It doesn't require any work on your part, and you'll be earning more crypto as a reward for staking.
 
-What if you don't have any crypto you can stake yet? There are many netowrks that offer staking, but you should first evaluate whether the cryptocurrency you're looking at is a good investment. It only makes sense to buy a crypto for staking if you also believe it's a good long-term investment.
+What if you don't have any crypto you can stake yet? There are many networks that offer staking, but you should first evaluate whether the cryptocurrency you're looking at is a good investment. It only makes sense to buy a crypto for staking if you also believe it's a good long-term investment.
 
 **Here is a list of cryptocurrencies that you can stake with us to get you started:** [Available networks for staking](Networks.md)
 
