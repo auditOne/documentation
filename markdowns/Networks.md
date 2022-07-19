@@ -306,15 +306,7 @@
 </div>
 
 <div class="maincard">
-   
-  <a href="{{ site_url }}/Terra/" target="_self">
-   <div class="card">
-     <p class="heading">
-      TERRA
-      <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146987147-0f3caf37-90f4-4b4d-89e0-b97dea313fba.png">
-     </p>
-   </div>
-  </a>
+  
       
   <a href="{{ site_url }}/Umee/" target="_self">
    <div class="card">
