@@ -361,17 +361,6 @@
 
 <div class="maincard">
 
-  <a href="{{ site_url }}/Tezos/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         TEZOS
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960796-cb4b0898-37d0-4842-b9d2-87a4118c8aad.png">
-       </p>
-     </div>
-   </div>
-  </a>
-
  <a target="_self">
    <div class="card">
      <div>
