@@ -322,42 +322,6 @@
 
 ## Staking guides being created
 
-<div class="maincard">
-   
-  <a href="{{ site_url }}/Band/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         BAND
-           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877506-2d4572d1-cca4-41b1-a321-6987e9d64124.png">
-       </p>
-     </div>
-   </div>
-  </a>
-   
-  <a href="{{ site_url }}/Celo/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          CELO
-            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877575-f3f911de-542a-4b32-9540-0fefa58ce3f6.png"> 
-        </p>
-     </div>
-   </div>
-  </a>
-   
-  <a href="{{ site_url }}/Harmony/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          HARMONY
-         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877649-7684ea99-5380-496f-8b94-c7798f9129a4.png">
-        </p>
-     </div>
-   </div>
-  </a>   
-   
-</div>
 
 <div class="maincard">
 
