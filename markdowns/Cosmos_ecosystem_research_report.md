@@ -1,5 +1,7 @@
 # Cosmos Ecosystem Research
 
+## JULY 2022
+
 The Cosmos Ecosystem is constantly expanding, with more projects entering the exciting world of IBC. This is good news for all Cosmonauts and the future of the crypto industry, as we continue to improve, develop, and create more utility for the entire ecosystem. 
 
 However, this also means that it can become quite overwhelming for those who are new to the space. 
