@@ -12,7 +12,7 @@ In order to acquire more in-depth knowledge and a better overall understanding o
 
 With 48 active chains within the Cosmos Ecosystem, there are plenty to choose from and each has its own respective features and utility. We’ve selected 10 chains based on the highest staked marketcap (Marketcap / Staked Value) to base our research on (as seen below).
 
-![Overview](https://user-images.githubusercontent.com/95366163/181273713-2193822a-622a-4753-bdd5-8934028cf353.png)
+![Cosmos Chains Table](https://user-images.githubusercontent.com/95366163/181470142-e171acfb-3264-4913-8ade-cc981a901bdc.png)
 
 ### Overview
 
@@ -61,13 +61,13 @@ Juno is a layer 1 smart contract network that aims to solve first-generation sma
 
 The below graph highlights the total staked value (in millions of dollars) of PoS assets on each respective network:
 
-![Staked Value](https://user-images.githubusercontent.com/95366163/180195354-6fe9e2e8-4014-42de-a71b-0dc1b28fd7f9.png)
+![Highest Staked Value](https://user-images.githubusercontent.com/95366163/181470368-1b923aeb-ad25-4802-912c-51e504d31747.png)
 
 Cosmos Hub is the clear frontrunner based on its staked value, with over $1.79B worth of $ATOM staked on-chain. Kava is next in line with $201M in staked value, followed by Osmosis, Secret Network, Band Protocol, and Juno
 
 Although the previous data points paint an important picture, the value of staked assets isn’t the most important metric to determine a chain’s security. In order to better understand how secure a chain is, the staking ratio is the most valuable metrics (# staked tokens in comparison to the total circulating supply).
 
-![Staking Ratio](https://user-images.githubusercontent.com/95366163/180195449-35cb5d05-47ff-4d1f-bd2a-373804e9741b.png)
+![Staking Ratio](https://user-images.githubusercontent.com/95366163/181470401-8dd2032e-b34b-43bd-b6a3-a8915582ac32.png)
 
 When looking at a chain’s staking ratio, the rankings completely change. Based on the above chart, Persistence is now the leader, boasting a staking ratio of 86% of its $XPRT token. It’s then followed by Band Protocol, Akash Network, Cosmos Hub, Juno and Secret. The higher a network’s staking ratio, the more secure it becomes.
 
@@ -89,13 +89,13 @@ In summary, the staking ratio influences the staking rewards users receive for s
 
 The chains with currently the highest inflation rate are:
 
-![Inflation rate](https://user-images.githubusercontent.com/95366163/180196063-a41d5dc1-05ab-4916-840d-324b5f9821c1.png)
+![Inflation Rate](https://user-images.githubusercontent.com/95366163/181470448-8f1bef64-9aa5-4ea0-ac8e-edbdd308e5fb.png)
 
 Evmos sits at number 1 with an inflation rate of 122,56%, followed by Kava at 100%. For Kava, this means that the same amount of tokens will be minted as there are currently - the tokens in circulation will also be doubled. Osmosis is in the third position with under 50%, then comes Juno with 40%, Persistence with around 30%, and Secret Network with an inflation rate of 15%.
 
 When looking at the highest staking rewards, we get a different ranking distribution:
 
-![Staking Rewards](https://user-images.githubusercontent.com/95366163/180196103-e76d6e8f-67d8-4c71-a3b0-f3e328d14aaa.png)
+![Staking Rewards](https://user-images.githubusercontent.com/95366163/181470489-39fe8b9b-a766-4f22-93ca-29ff126a959d.png)
 
 Evmos currently offers the highest staking rewards with more than 430%, followed by Juno with 66.3%, Persistence with ~34%, and Osmosis, Kava and Secret Network following.
 
@@ -104,7 +104,7 @@ Evmos currently offers the highest staking rewards with more than 430%, followed
 
 The active number of stakers indicates how many native token holders have staked their assets on the respective networks and includes both new and current stakers.
 
-![Active stakers](https://user-images.githubusercontent.com/95366163/180195509-d92661a1-f066-4280-bf3c-b359e5b21d75.png)
+![Active Stakers](https://user-images.githubusercontent.com/95366163/181470543-2fe83646-dca6-4b98-83b0-88a7de11dbf2.png)
 
 These numbers also give a good indication of how large the average delegation is per staker, calculated by dividing the total staked value by the number of active stakers. It’s important to note that a large portion of the total staked value can be staked by the network itself (via self-delegation).
 
@@ -113,12 +113,16 @@ These numbers also give a good indication of how large the average delegation is
 To see how truly decentralized a network is, we can take a look at some important metrics. 
 The first is to view how many validators are active on the chain.
 
-![Active validators](https://user-images.githubusercontent.com/95366163/180195770-0e47580e-0203-4656-86df-827713b0bfa5.png)
+![Active Validators](https://user-images.githubusercontent.com/95366163/181470637-2ed517ea-7e03-4dee-90f7-7d7ed6e044f1.png)
 
 The bigger the active validator set, the more decentralized it makes the network, as delegations will be spread over a larger amount of different validators.
 
 But how decentralized a network really is can be determined by how many validators have a combined voting power of 67%. The more equal the delegation is spread across the validator set, the more decentralized the network becomes.
 
-![67%](https://user-images.githubusercontent.com/95366163/180195962-956d4162-3bf1-4fca-bc8e-1588c6a62972.png)
+![Voting Power Divided by X Validators](https://user-images.githubusercontent.com/95366163/181470697-53469665-a2df-48b4-aef3-db5a0b9b04a8.png)
 
 In the above chart, we can see that Juno has the highest score with a voting power of more than 67% being distributed across 34 different validators - this indicates that Juno is a very decentralized chain. Others that are highly decentralized (based on this criteria) are Osmosis, Cosmos and Evmos. Akash Network and Secret Network follow but are almost at a distribution of half the number of validators as Juno.
+
+### Conclusion
+
+When we look at any network in the Cosmos Ecosystem, there is a lot more than market cap alone. It is important to keep an eye on metrics like staking ratio, distributed voting power and how many validators are in the active set. And when you look for the highest return, you should understand the difference and the correlation between staking rewards and inflation rate. 
