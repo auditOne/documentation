@@ -70,6 +70,20 @@
    </div>
   </a>   
 
+  <a href="{{ site_url }}/Elrond/" target="_self">
+   <div class="card"> 
+     <p class="heading">
+      ELROND 
+     <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/146986696-60e625c7-7966-48fa-bfd2-da671c451302.png">
+     </p>
+   </div>
+  </a>
+
+   
+</div>
+ 
+<div class="maincard">
+   
   <a href="{{ site_url }}/Evmos/" target="_self">
    <div class="card">
      <div>
@@ -81,11 +95,7 @@
    </div>
   </a>  
    
-</div>
- 
-<div class="maincard">
    
-
  <a href="{{ site_url }}/Gravity_Bridge/" target="_self">
    <div class="card">
      <div>
@@ -108,6 +118,12 @@
    </div>
   </a>
    
+   
+ </div>
+ 
+
+<div class="maincard">
+
   <a href="{{ site_url }}/Juno/" target="_self">
    <div class="card">
      <div>
@@ -119,12 +135,32 @@
    </div>
   </a>  
    
- </div>
- 
+<a href="{{ site_url }}/Kava/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         KAVA
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877840-28a04b80-b652-4e3a-9b77-04bf763ac287.png">
+       </p>
+     </div>
+   </div>
+  </a> 
 
-<div class="maincard">
+ <a href="{{ site_url }}/Ki_Chain/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         KI-CHAIN
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/154679243-488eb469-50d2-4ddf-8468-193727ea4be7.png">
+       </p>
+     </div>
+   </div>
+  </a>
+   
+</div>
 
-      
+<div class="maincard">  
+   
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
      <div>
@@ -197,6 +233,17 @@
 
 <div class="maincard">
 
+<a href="{{ site_url }}/Sommelier/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         SOMMELIER
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/156783575-0c7c2f51-45f8-4dfe-af55-14d5816f8fd7.png">
+       </p>
+     </div>
+   </div>
+  </a>  
+   
  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
@@ -225,6 +272,17 @@
 
 <div class="maincard">
 
+<a href="{{ site_url }}/Celo/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          CELO
+            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877575-f3f911de-542a-4b32-9540-0fefa58ce3f6.png"> 
+        </p>
+     </div>
+   </div>
+  </a>
+   
  <a href="{{ site_url }}/Kusama/" target="_self">
    <div class="card">
      <div>
@@ -247,6 +305,11 @@
    </div>
   </a>  
 
+   
+</div>
+
+<div class="maincard">
+
   <a href="{{ site_url }}/Skale/" target="_self">
    <div class="card">
      <div>
@@ -256,11 +319,8 @@
        </p>
      </div>
    </div>
-  </a>     
-</div>
-
-<div class="maincard">
-
+  </a>  
+   
  <a target="_self">
    <div class="card">
      <div>
