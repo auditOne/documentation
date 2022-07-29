@@ -1,6 +1,5 @@
-# Staking Report: Top 10 Cosmos Chains 
+# Staking Report: Top 10 Cosmos Chains (July 2022)
 
-### JULY 2022
 
 The Cosmos Ecosystem is constantly expanding, with more projects entering the exciting world of IBC. This is good news for all Cosmonauts and the future of the crypto industry, as we continue to improve, develop, and create more utility for the entire ecosystem. 
 
