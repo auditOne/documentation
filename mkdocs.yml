@@ -94,6 +94,8 @@ extra:
       icon: ../assets/images/faq.svg
     - name: Bug Bounty
       icon: ../assets/images/bug_bounty.svg
+    - name: Research
+      icon: ../assets/images/Research.svg
     - name: Contribute
       icon: ../assets/images/Contribute.svg
 
