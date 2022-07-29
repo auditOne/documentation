@@ -8,54 +8,55 @@ However, this also means that it can become quite overwhelming for those who are
 
 In order to acquire more in-depth knowledge and a better overall understanding of the Cosmos ecosystem, we’ve developed a report that will further explore key staking statistics. With this information, users will have an easier time finding the right project/chain to support and stake their assets with.
 
-![image](https://user-images.githubusercontent.com/95366163/180196792-ee16189b-c66b-4875-85f4-ab80b4103c06.png)
+<p align="center"> 
+<img width="700" src="https://user-images.githubusercontent.com/95366163/180196792-ee16189b-c66b-4875-85f4-ab80b4103c06.png">
+</p>
 
 With 48 active chains within the Cosmos Ecosystem, there are plenty to choose from and each has its own respective features and utility. We’ve selected 10 chains based on the highest staked marketcap (Marketcap / Staked Value) to base our research on (as seen below).
 
-![Cosmos Chains Table](https://user-images.githubusercontent.com/95366163/181470142-e171acfb-3264-4913-8ade-cc981a901bdc.png)
+![Cosmos Chains Table](https://user-images.githubusercontent.com/95366163/181772928-a4079d79-be88-4333-b103-4ab59cb164bc.png)
 
 ### Overview
 
-**Osmosis** 
-
-Osmosis is an AMM (Automated Market Maker) protocol that allows developers to create applications with sovereign liquidity pools. It was built using the Cosmos SDK and makes use of IBC (Inter-Blockchain Communication) to facilitate cross-chain transactions. In other words, Osmosis is a DEX (decentralized exchange) designed particularly for Cosmos, with the intention to spread to other blockchains in the future.
-
-**Cosmos Hub**
+1. **Cosmos Hub**
 
 Cosmos Hub is an ever-expanding ecosystem of blockchains of interconnected apps and services, built for a decentralized future that can scale and interoperate with each other. Before Cosmos Hub, blockchains were siloed and unable to communicate. In addition, they were hard to build and could only handle a small number of transactions per second. Cosmos Hub solves these problems with an entirely new technical vision.
 
-**Secret Network**
-
-Secret Network is a privacy-oriented blockchain built on Cosmos where smart contracts (called Secret Contracts) allow dApps to use private data on the platform, similar to how smart contracts operate on other blockchains. However, Secret Contracts transfer encrypted inputs into encrypted outputs without exposing data. This is made possible thanks to the encrypted contract states during the execution.
-
-**Kava**
+2. **Kava**
 
 Kava is a layer-1 blockchain featuring a developer-optimized co-chain architecture that combines the two most used permissionless ecosystems (Ethereum and Cosmos) into a single scalable network. Its co-chains combine the flexibility and speed of Ethereum smart contract development with the interoperability of the Cosmos SDK in a single network, all powered by the ultra-fast Tendermint consensus engine.
 
-**Akash Network**
+3. **Osmosis** 
 
-Akash Network provides a fast, efficient, and low-cost application deployment solution. Developers leveraging Akash’s platform can access cloud computing at up to three times less than the cost of centralized cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. Utilizing containerization and open-source technology, Akash Network leverages 85% of underutilized cloud capacity in 8.4 million global data centers, enabling anyone to buy and sell cloud computing.
+Osmosis is an AMM (Automated Market Maker) protocol that allows developers to create applications with sovereign liquidity pools. It was built using the Cosmos SDK and makes use of IBC (Inter-Blockchain Communication) to facilitate cross-chain transactions. In other words, Osmosis is a DEX (decentralized exchange) designed particularly for Cosmos, with the intention to spread to other blockchains in the future.
 
-**Persistence**
+4. **Secret Network**
 
-Persistence is a Tendermint-based specialised layer-1 focused on creating use-cases around liquid staked assets. It’s aiming to become the liquid staking hub for the PoS (Proof-of-Stake) economy, facilitating the issuance and deployment of liquid-staked stkASSETs in the DeFi ecosystem to allow users to earn staking rewards while simultaneously participating in DeFi primitives.
+Secret Network is a privacy-oriented blockchain built on Cosmos where smart contracts (called Secret Contracts) allow dApps to use private data on the platform, similar to how smart contracts operate on other blockchains. However, Secret Contracts transfer encrypted inputs into encrypted outputs without exposing data. This is made possible thanks to the encrypted contract states during the execution.
 
-**Band Protocol**
+5. **Band Protocol**
 
 Band Protocol tackles the problem of having access to trusted data and services over the traditional Web 2 space for any dApp by building a decentralized bridge, enabling secure interoperability between smart contracts and the traditional web.
 
-**Evmos**
-
-Evmos is a scalable PoS blockchain with a high throughput that’s EVM-compatible and IBC-enabled. It’s primarily designed to funnel Ethereum applications into the vast Cosmos ecosystem to benefit both users and developers to make the blockchain simpler to use.  
-
-**Injective**
-
-Injective Protocol is an Ethereum-compatible, front-running resistant, and completely decentralized cross-chain protocol. It not only supports existing Ethereum users but also is intended to help connect users from various blockchain networks together into a single crypto community. The interoperable backbone that powers Injective Protocol enables cross-chain interactions between sovereign blockchains.
-
-**Juno**
+6. **Juno**
 
 Juno is a layer 1 smart contract network that aims to solve first-generation smart contract bottlenecks, which are limited scalability and high deployment costs for deployment and execution. The network offers a seamless and simple environment for developers across the globe to efficiently deploy scalable, secure dApps.
 
+7. **Persistence**
+
+Persistence is a Tendermint-based specialised layer-1 focused on creating use-cases around liquid staked assets. It’s aiming to become the liquid staking hub for the PoS (Proof-of-Stake) economy, facilitating the issuance and deployment of liquid-staked stkASSETs in the DeFi ecosystem to allow users to earn staking rewards while simultaneously participating in DeFi primitives.
+
+8. **Evmos**
+
+Evmos is a scalable PoS blockchain with a high throughput that’s EVM-compatible and IBC-enabled. It’s primarily designed to funnel Ethereum applications into the vast Cosmos ecosystem to benefit both users and developers to make the blockchain simpler to use.  
+
+9. **Akash Network**
+
+Akash Network provides a fast, efficient, and low-cost application deployment solution. Developers leveraging Akash’s platform can access cloud computing at up to three times less than the cost of centralized cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. Utilizing containerization and open-source technology, Akash Network leverages 85% of underutilized cloud capacity in 8.4 million global data centers, enabling anyone to buy and sell cloud computing.
+
+10. **Injective**
+
+Injective Protocol is an Ethereum-compatible, front-running resistant, and completely decentralized cross-chain protocol. It not only supports existing Ethereum users but also is intended to help connect users from various blockchain networks together into a single crypto community. The interoperable backbone that powers Injective Protocol enables cross-chain interactions between sovereign blockchains.
 
 ### Staked Value & Staking Ratio
 
@@ -69,7 +70,7 @@ Although the previous data points paint an important picture, the value of stake
 
 ![Staking Ratio](https://user-images.githubusercontent.com/95366163/181470401-8dd2032e-b34b-43bd-b6a3-a8915582ac32.png)
 
-When looking at a chain’s staking ratio, the rankings completely change. Based on the above chart, Persistence is now the leader, boasting a staking ratio of 86% of its $XPRT token. It’s then followed by Band Protocol, Akash Network, Cosmos Hub, Juno and Secret. The higher a network’s staking ratio, the more secure it becomes.
+When looking at a chain’s staking ratio, the rankings completely change. Based on the above chart, Persistence is now the leader, boasting a staking ratio of 86% of its $XPRT token. It’s then followed by Band Protocol, Akash Network, Cosmos Hub, Juno and Secret. Considering a the same token price, the higher a network’s staking ratio, the more secure it becomes.
 
 
 ### Staking Rewards
@@ -83,7 +84,8 @@ The inflation rate will also change much slower than the staking rewards rate do
 - If the staking ratio is higher than 67%, the inflation ratio will slowly decrease
 - If the staking ratio is lower than 67%, the inflation ratio will slowly increase
 
-Now how are they correlated? Staking rewards = inflation rate / staking ratio
+Now how are they correlated? Staking rewards = inflation rate / staking ratio <br>
+*(Except for Osmosis, where a part of the inflation rate goes to LP rewards)*
 
 In summary, the staking ratio influences the staking rewards users receive for staking their tokens.
 
@@ -113,13 +115,13 @@ These numbers also give a good indication of how large the average delegation is
 To see how truly decentralized a network is, we can take a look at some important metrics. 
 The first is to view how many validators are active on the chain.
 
-![Active Validators](https://user-images.githubusercontent.com/95366163/181470637-2ed517ea-7e03-4dee-90f7-7d7ed6e044f1.png)
+![Active Validators](https://user-images.githubusercontent.com/95366163/181773115-fe5d05dd-9fcd-46bf-8395-d4d94d2ece7f.png)
 
 The bigger the active validator set, the more decentralized it makes the network, as delegations will be spread over a larger amount of different validators.
 
 But how decentralized a network really is can be determined by how many validators have a combined voting power of 67%. The more equal the delegation is spread across the validator set, the more decentralized the network becomes.
 
-![Voting Power Divided by X Validators](https://user-images.githubusercontent.com/95366163/181470697-53469665-a2df-48b4-aef3-db5a0b9b04a8.png)
+![Validators Controling 67%](https://user-images.githubusercontent.com/95366163/181773167-2595d4cd-b81f-4d0f-b8cf-9ab501c72c53.png)
 
 In the above chart, we can see that Juno has the highest score with a voting power of more than 67% being distributed across 34 different validators - this indicates that Juno is a very decentralized chain. Others that are highly decentralized (based on this criteria) are Osmosis, Cosmos and Evmos. Akash Network and Secret Network follow but are almost at a distribution of half the number of validators as Juno.
 
