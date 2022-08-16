@@ -69,7 +69,7 @@ Besides all that, there is a huge NFT ecosystem that is emerging on Elrond, with
 <img width="805" alt="Untitled 13 47 03" src="https://user-images.githubusercontent.com/95366163/184906734-e6951b9a-27e8-46a5-9523-6cf36e842273.png">
 
   
-$EGLD or ‘eGold’ is the native token of the Elrond Network. Just like many crypto currencies, $EGLD had its glory days around the end of 2021 with an all time high of ****$542.58. Current market conditions have forced the price down between $50 and $70 dollars at the moment.
+$EGLD or ‘eGold’ is the native token of the Elrond Network. Just like many crypto currencies, $EGLD had its glory days around the end of 2021 with an all time high of $542.58. Current market conditions have forced the price down between $50 and $70 dollars at the moment.
 
 Considering this, the total market capitalization of Elrond is still valued at $1,402,492,400 with 22,823,310 tokens in circulation. These tokens are all spread over 1,784,989 unique addresses.
 
