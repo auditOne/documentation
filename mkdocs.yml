@@ -199,9 +199,6 @@ nav:
       - Kava (KAVA): 
           - Intro to Kava: Kava.md
           - Stake on Keplr: How_to_stake_KAVA_on_Keplr.md
-      - Ki-Chain (XKI): 
-          - Intro to Ki-Chain: Ki_Chain.md
-          - Stake on Cosmostation: How_to_stake_XKI_on_cosmostation.md
       - Kusama (KSM):
           - Intro to Kusama: Kusama.md
       - Medibloc (MED):
@@ -236,8 +233,6 @@ nav:
       - Stargaze (STAR):
           - Intro to Stargaze: Stargaze.md
           - Stake on Stargaze: How_to_stake_STAR_on_Stargaze.md
-      - Tezos (XTZ):
-          - Intro to Tezos: Tezos.md
       - Umee (UMEE):
           - Intro to Umee: Umee.md
           - Stake on Keplr: How_to_stake_UMEE_on_Keplr.md
