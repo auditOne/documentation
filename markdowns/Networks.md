@@ -146,20 +146,6 @@
    </div>
   </a> 
 
- <a href="{{ site_url }}/Ki_Chain/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         KI-CHAIN
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/154679243-488eb469-50d2-4ddf-8468-193727ea4be7.png">
-       </p>
-     </div>
-   </div>
-  </a>
-   
-</div>
-
-<div class="maincard">  
    
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
@@ -170,7 +156,12 @@
        </p>
      </div>
    </div>
-  </a>   
+  </a>  
+   
+</div>
+
+<div class="maincard">  
+ 
 
  <a href="{{ site_url }}/Osmosis/" target="_self">
    <div class="card">
@@ -192,13 +183,9 @@
        </p>
      </div>
    </div>
-  </a>     
-</div>
-
-<div class="maincard">
-  
+  </a>  
    
-<a href="{{ site_url }}/Polygon/" target="_self">
+   <a href="{{ site_url }}/Polygon/" target="_self">
    <div class="card">
      <p class="heading">
       POLYGON 
@@ -206,6 +193,10 @@
      </p>
    </div>
   </a> 
+   
+</div>
+
+<div class="maincard">
    
   <a href="{{ site_url }}/Sentinel/" target="_self">
    <div class="card">
@@ -228,10 +219,6 @@
      </div>
    </div>
   </a>
-   
-</div>
-
-<div class="maincard">
 
 <a href="{{ site_url }}/Sommelier/" target="_self">
    <div class="card">
@@ -242,8 +229,12 @@
        </p>
      </div>
    </div>
-  </a>  
+  </a>     
    
+</div>
+
+<div class="maincard">
+ 
  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
      <div>
@@ -321,16 +312,6 @@
    </div>
   </a>  
 
-  <a href="{{ site_url }}/Tezos/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         TEZOS
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960796-cb4b0898-37d0-4842-b9d2-87a4118c8aad.png">
-       </p>
-     </div>
-   </div>
-  </a>
    
  <a target="_self">
    <div class="card">
