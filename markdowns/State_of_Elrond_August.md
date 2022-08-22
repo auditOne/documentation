@@ -1,4 +1,4 @@
-# State of Elrond: July 2022 Report
+# State of Elrond: August 2022 Report
 
 ![Title Slide (1)](https://user-images.githubusercontent.com/95366163/185878097-9f3deb4e-9fb0-4a6c-832e-cc75b25aa71f.png)
 
