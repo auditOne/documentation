@@ -25,7 +25,7 @@ As more and more projects build their applications on the Elrond network, the Ec
 
 Here are some of the highlights:
 
-1. **[Maiar](https://maiar.com/)** 
+**[Maiar](https://maiar.com/)** 
 
 Maiar is Elrond’s digital non-custodial wallet that runs on every mobile phone. The non-custodial feature of the wallet and the smooth UX makes the registration process more straightforward and effortless, even for beginners. Maiar uses progressive security to minimize the onboarding friction which allows you to create a wallet using only your phone number.
 
@@ -33,24 +33,24 @@ Maiar offers a digital identity layer that starts with a service mapping the pho
 
 If you rather not share your phone number, special usernames called ‘Herotags’ can be provided through a DNS service deployed on Elrond Network. The approach of progressive security makes sure that the more you use the app, the more sophisticated security features are triggered, to help you stay safe and your assets secure.
 
-2. **[Maiar Exchange](https://maiar.exchange/)**
+**[Maiar Exchange](https://maiar.exchange/)**
 
 Maiar also provides a decentralized exchange built on the Elrond blockchain. This exchange allows users to trade, swap, farm, and provide liquidity for digital assets and cryptocurrencies. The Maiar exchange supports 19 assets, including their own native token (MEX), and 11 on Jungle which is the complementary DEX product that allows automated and permissionless token listings. On top of that it includes an analytics section for additional information including price charts, volume charts, and more.
 
 
-3. [**Ad-Astra Portal**](https://ad-astra.elrond.com/)
+[**Ad-Astra Portal**](https://ad-astra.elrond.com/)
 
 This is Elrond’s token bridge that enables assets to flow freely between Elrond and Ethereum, and soon other EVM compatible blockchains. 
 
 The portal has a security-first design using audited smart contracts and has been publicly battle tested, to ensure that all scenarios are comprehensively explored and validated. They work together with strategic infrastructure partners to ensure a decentralized, transparent and highly available passage for assets flowing through the bridge.
 
-4. **[UTrust](https://utrust.com/)**
+**[UTrust](https://utrust.com/)**
 
 In January this year, Elrond has acquired the crypto payments service provider Utrust. With this acquisition they aim for two major things: To make payments faster, cheaper and more secure by using internet-scale blockchain technology. And to transform payment processing services from a cost for merchants into an income stream. Together with the Utrust team they intend to revolutionize e-commerce and payments.
 
 Utrust is the leading cryptocurrency payment solution designed to modernize the financial and payments industry and solve the problems of traditional payment methods by enabling immediate transactions, buyer protection, and instant settlements for merchants.
 
-5. [**TwisPay**](https://www.twispay.com/en/)
+[**TwisPay**](https://www.twispay.com/en/)
 
 Earlier this year, the National Bank of Romania has officially approved Elronds acquisition of the e-money institution TwisPay. TwisPay it is a financial institution licensed to provide payment services and to issue electronic money in accordance with the legislation in force and with the authorization received from the National Bank of Romania. Apart from that it is a principal member of Visa and of MasterCard.
 
@@ -58,7 +58,7 @@ E-money has been designed as a digital alternative to cash for automating financ
 
 This puts Elrond in a strategic position to offer a sustainable infrastructure for a completely new payment rails that is faster, cheaper, transparent, and open to people all around the world.
 
- 6. **NFT Ecosystem** 
+ **NFT Ecosystem** 
 
 Besides all that, there is a huge NFT ecosystem that is emerging on Elrond, with tons of projects, marketplaces, tools and even gaming.
 
