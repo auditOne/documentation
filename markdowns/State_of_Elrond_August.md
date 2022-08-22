@@ -67,7 +67,7 @@ Besides all that, there is a huge NFT ecosystem that is emerging on Elrond, with
 ## EGLD Overview
 
 - **Total Market Cap:** $1.2B+
-- **24-Hr Trading Volume:** $31,64M
+- **24-Hr Trading Volume:** $31,67M
 - **Unique Wallet Addresses:** 1.79M+
 - **Circulating Supply:** 22,851,273
 
@@ -84,7 +84,7 @@ As you can see in the graph above, Elrond has seen a steady growth in unique add
 
 ## State of staking
 
-- **Total staked:** 13,356,213
+- **Total staked:** 13,356,229
 - **Staking Ratio:** 58.44%
 - **Staking rewards:** 13.68%
 
@@ -92,7 +92,7 @@ As you can see in the graph above, Elrond has seen a steady growth in unique add
 
 Just like the number of addresses we can more or less observe a steady growth of the staking ratio, which is very positive for the security of the network. There was a fallback around December last year, but this has already been recovered completely. 
 
-About 13,356,213 tokens or almost 58,5% of the total supply is being staked at this moment and distributed over an active set of 379 unique validators. Meaning that more than half of the tokens are used to make the network more secure and thanks to Elrond sharding approach, these are widely scattered over a large group of validator nodes which in its turn benefits decentralization.
+About 13,356,229 tokens or almost 58,5% of the total supply is being staked at this moment and distributed over an active set of 379 unique validators. Meaning that more than half of the tokens are used to make the network more secure and thanks to Elrond sharding approach, these are widely scattered over a large group of validator nodes which in its turn benefits decentralization.
 
 Although stakers have many providers to choose from to delegate their $EGLD, 67% of all voting power lies with the top 21 validators. If we look at the number of possible validators there are, this seems low, but it’s actually pretty good compared to the top networks in the Cosmos Ecosystem.
 
