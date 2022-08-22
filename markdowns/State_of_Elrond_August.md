@@ -96,7 +96,8 @@ About 13,356,229 tokens or almost 58,5% of the total supply is being staked at t
 
 Although stakers have many providers to choose from to delegate their $EGLD, 67% of all voting power lies with the top 21 validators. If we look at the number of possible validators there are, this seems low, but it’s actually pretty good compared to the top networks in the Cosmos Ecosystem.
 
-Together with the unique manner in which Elrond selects its validators, we can say that they have an increased network security.
+Together with the fact that after each epoch the set of validators is completely shuffled by randomly distributing them into shards, we can say that they have an increased network security.
+
 
 ## Closing note
 
