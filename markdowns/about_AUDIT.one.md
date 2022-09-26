@@ -35,6 +35,6 @@ We have a deep understanding of the importance of having a fault-tolerant and at
 You can reach out to us on
 
 - Email: hello@audit.one.
-- Telegram: @auditone
+- Telegram: https://t.me/AuditOne
 - Twitter: @AuditOne_
 - Website: https://audit.one/
