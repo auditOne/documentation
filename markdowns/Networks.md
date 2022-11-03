@@ -58,17 +58,6 @@
      </div>
    </div>
   </a>  
-   
- <a href="{{ site_url }}/Cryptocom/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         CRYPTO.COM
-         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877600-2a7f0740-caf2-473d-8132-f0f42f497875.png">
-       </p>
-     </div>
-   </div>
-  </a>   
 
   <a href="{{ site_url }}/Elrond/" target="_self">
    <div class="card"> 
@@ -78,11 +67,6 @@
      </p>
    </div>
   </a>
-
-   
-</div>
- 
-<div class="maincard">
    
   <a href="{{ site_url }}/Evmos/" target="_self">
    <div class="card">
@@ -95,6 +79,11 @@
    </div>
   </a>  
    
+   
+</div>
+ 
+<div class="maincard">
+
    
  <a href="{{ site_url }}/Gravity_Bridge/" target="_self">
    <div class="card">
@@ -117,13 +106,7 @@
      </div>
    </div>
   </a>
-   
-   
- </div>
  
-
-<div class="maincard">
-
   <a href="{{ site_url }}/Juno/" target="_self">
    <div class="card">
      <div>
@@ -133,7 +116,13 @@
        </p>
      </div>
    </div>
-  </a>  
+  </a>    
+   
+ </div>
+ 
+
+<div class="maincard">
+
    
 <a href="{{ site_url }}/Kava/" target="_self">
    <div class="card">
@@ -157,10 +146,6 @@
      </div>
    </div>
   </a>  
-   
-</div>
-
-<div class="maincard">  
  
 
  <a href="{{ site_url }}/Osmosis/" target="_self">
@@ -173,6 +158,11 @@
      </div>
    </div>
   </a>   
+   
+</div>
+
+<div class="maincard">  
+
   
  <a href="{{ site_url }}/Persistence/" target="_self">
    <div class="card">
@@ -194,10 +184,6 @@
    </div>
   </a> 
    
-</div>
-
-<div class="maincard">
-   
   <a href="{{ site_url }}/Sentinel/" target="_self">
    <div class="card">
      <div>
@@ -208,6 +194,11 @@
      </div>
    </div>
   </a>  
+   
+</div>
+
+<div class="maincard">
+
 
  <a href="{{ site_url }}/Solana/" target="_self">
    <div class="card">
@@ -219,21 +210,6 @@
      </div>
    </div>
   </a>
-
-<a href="{{ site_url }}/Sommelier/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         SOMMELIER
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/156783575-0c7c2f51-45f8-4dfe-af55-14d5816f8fd7.png">
-       </p>
-     </div>
-   </div>
-  </a>     
-   
-</div>
-
-<div class="maincard">
  
  <a href="{{ site_url }}/Stargaze/" target="_self">
    <div class="card">
@@ -263,16 +239,6 @@
 
 <div class="maincard">
 
-<a href="{{ site_url }}/Celo/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          CELO
-            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877575-f3f911de-542a-4b32-9540-0fefa58ce3f6.png"> 
-        </p>
-     </div>
-   </div>
-  </a>
 
 <a href="{{ site_url }}/Cronos/" target="_self">
    <div class="card">
@@ -296,31 +262,6 @@
    </div>
   </a>  
 
-</div>
-
-<div class="maincard">
-   
- <a href="{{ site_url }}/Kusama/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          KUSAMA
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960323-b686eafd-ca94-4fad-b39d-c7a70dd8d029.png">
-        </p>
-     </div>
-   </div>
-  </a>  
-
-  <a href="{{ site_url }}/Near/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         NEAR
-        <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960351-2ff1e92d-abd2-48f2-bafb-089e196dcad2.png">
-       </p>
-     </div>
-   </div>
-  </a>  
 
   <a href="{{ site_url }}/Skale/" target="_self">
    <div class="card">
@@ -336,7 +277,7 @@
 </div>
 
 <div class="maincard">
-
+   
   <a href="{{ site_url }}/Tgrade/" target="_self">
    <div class="card">
      <div>
