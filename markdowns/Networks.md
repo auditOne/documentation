@@ -273,6 +273,32 @@
      </div>
    </div>
   </a>
+
+<a href="{{ site_url }}/Cronos/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          CRONOS
+            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/199702174-c0837c80-2b2b-46e2-b5f4-cc3fe9a4164a.png"> 
+        </p>
+     </div>
+   </div>
+  </a> 
+   
+<a href="{{ site_url }}/Cudos/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+          CUDOS
+            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/199701561-a116c144-a822-4cca-92d3-89f38a934442.png"> 
+        </p>
+     </div>
+   </div>
+  </a>  
+
+</div>
+
+<div class="maincard">
    
  <a href="{{ site_url }}/Kusama/" target="_self">
    <div class="card">
@@ -296,11 +322,6 @@
    </div>
   </a>  
 
-   
-</div>
-
-<div class="maincard">
-
   <a href="{{ site_url }}/Skale/" target="_self">
    <div class="card">
      <div>
@@ -311,7 +332,21 @@
      </div>
    </div>
   </a>  
+   
+</div>
 
+<div class="maincard">
+
+  <a href="{{ site_url }}/Tgrade/" target="_self">
+   <div class="card">
+     <div>
+       <p class="heading">
+         TGRADE
+          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/199702935-2cadf0ca-200f-491f-a809-a832e11c9da1.png">
+       </p>
+     </div>
+   </div>
+  </a> 
    
  <a target="_self">
    <div class="card">
