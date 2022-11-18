@@ -21,33 +21,6 @@
    </div>
   </a>   
    
-   
-  <a href="{{ site_url }}/AssetMantle/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         ASSETMANTLE
-         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/164425745-e9a384e3-bde9-40c0-a0fa-bafff2d0d64b.png"> 
-       </p>
-     </div>
-   </div>
-  </a>
- 
-  <a href="{{ site_url }}/Comdex/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         COMDEX
-         <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877586-ecff7913-195a-481e-b402-15a0adcb3140.png"> 
-       </p>
-     </div>
-   </div>
-  </a>   
-   
-</div>
-   
-<div class="maincard">
-   
  <a href="{{ site_url }}/Cosmos/" target="_self">
    <div class="card">
      <div>
@@ -67,6 +40,10 @@
      </p>
    </div>
   </a>
+ 
+ </div>
+ 
+<div class="maincard">
    
   <a href="{{ site_url }}/Evmos/" target="_self">
    <div class="card">
@@ -78,12 +55,6 @@
      </div>
    </div>
   </a>  
-   
-   
-</div>
- 
-<div class="maincard">
-
    
  <a href="{{ site_url }}/Gravity_Bridge/" target="_self">
    <div class="card">
@@ -106,7 +77,11 @@
      </div>
    </div>
   </a>
+
+</div>
  
+<div class="maincard">
+     
   <a href="{{ site_url }}/Juno/" target="_self">
    <div class="card">
      <div>
@@ -117,12 +92,6 @@
      </div>
    </div>
   </a>    
-   
- </div>
- 
-
-<div class="maincard">
-
    
 <a href="{{ site_url }}/Kava/" target="_self">
    <div class="card">
@@ -147,6 +116,9 @@
    </div>
   </a>  
  
+</div>
+ 
+<div class="maincard">   
 
  <a href="{{ site_url }}/Osmosis/" target="_self">
    <div class="card">
@@ -158,10 +130,6 @@
      </div>
    </div>
   </a>   
-   
-</div>
-
-<div class="maincard">  
 
   
  <a href="{{ site_url }}/Persistence/" target="_self">
@@ -183,23 +151,11 @@
      </p>
    </div>
   </a> 
-   
-  <a href="{{ site_url }}/Sentinel/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          SENTINEL
-           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960568-2586b051-db7e-4777-8d73-3923ddbfb6f7.png">
-        </p>
-     </div>
-   </div>
-  </a>  
-   
+ 
 </div>
-
-<div class="maincard">
-
-
+ 
+<div class="maincard">   
+  
  <a href="{{ site_url }}/Solana/" target="_self">
    <div class="card">
      <div>
@@ -210,17 +166,7 @@
      </div>
    </div>
   </a>
- 
- <a href="{{ site_url }}/Stargaze/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         STARGAZE
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147960574-7518774d-02dc-4927-ac4a-dac305c1685b.png">
-       </p>
-     </div>
-   </div>
-  </a> 
+
       
   <a href="{{ site_url }}/Umee/" target="_self">
    <div class="card">
