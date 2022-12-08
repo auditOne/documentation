@@ -160,10 +160,7 @@ nav:
       - Persistence wallet: How_to_create_a_Persistence_wallet.md
       - Phantom wallet: How_to_create_a_Phantom_wallet.md
   - Active networks <br> and staking guides:
-      - Overview: Networks.md
-      - Agoric (BLD):
-          - Intro to Agoric: Agoric.md
-          - Stake on Keplr: How_to_stake_BLD_on_Keplr.md         
+      - Overview: Networks.md     
       - Cosmos (ATOM): 
           - Intro to Cosmos: Cosmos.md
           - Providing liquidity: How_to_provide_liquidity_on_Osmosis.md
@@ -171,8 +168,6 @@ nav:
           - Superfluid staking: How_to_use_superfluid_staking_ATOM.md
       - Cronos (CRO):
           - Intro to Cronos: Cronos.md
-      - Cudos (CUDOS):
-          - Intro to Cudos: Cudos.md
       - Elrond (eGLD): 
           - Intro to Elrond: Elrond.md
           - Stake on Elrond: How_to_stake_eGLD_with_Elrond.md
@@ -186,12 +181,6 @@ nav:
       - Injective (INJ):    
            - Intro to Injective: Injective.md
            - Stake on Cosmostation : How_to_stake_INJ_on_cosmostation.md
-      - Juno (JUNO):
-          - Intro to Juno: Juno.md
-          - Stake on Omniflix: How_to_stake_JUNO_on_Omniflix.md
-      - Kava (KAVA): 
-          - Intro to Kava: Kava.md
-          - Stake on Keplr: How_to_stake_KAVA_on_Keplr.md
       - Medibloc (MED):
           - Intro to Medibloc: Medibloc.md
           - Stake on Cosmostation : How_to_stake_MED_on_cosmostation.md
@@ -215,9 +204,6 @@ nav:
           - Stake on Phantom: How_to_stake_SOL_on_Phantom.md
       - Tgrade (TGD):
           - Intro to Tgrade: Tgrade.md
-      - Umee (UMEE):
-          - Intro to Umee: Umee.md
-          - Stake on Keplr: How_to_stake_UMEE_on_Keplr.md
   - Research:
       - Top 10 Cosmos Chains July: Cosmos_ecosystem_research_report_July.md
       - State of Elrond August: State_of_Elrond_August.md
