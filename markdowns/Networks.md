@@ -8,18 +8,7 @@
    </div>
 </div>
 
-<div class="maincard">
-   
-  <a href="{{ site_url }}/Agoric/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          AGORIC
-           <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877472-69c4cc36-7416-42f8-a270-ceff8b68682e.png"> 
-        </p>
-     </div>
-   </div>
-  </a>   
+<div class="maincard"> 
    
  <a href="{{ site_url }}/Cosmos/" target="_self">
    <div class="card">
@@ -40,10 +29,6 @@
      </p>
    </div>
   </a>
- 
- </div>
- 
-<div class="maincard">
    
   <a href="{{ site_url }}/Evmos/" target="_self">
    <div class="card">
@@ -55,6 +40,10 @@
      </div>
    </div>
   </a>  
+   
+</div>
+ 
+<div class="maincard">  
    
  <a href="{{ site_url }}/Gravity_Bridge/" target="_self">
    <div class="card">
@@ -77,33 +66,6 @@
      </div>
    </div>
   </a>
-
-</div>
- 
-<div class="maincard">
-     
-  <a href="{{ site_url }}/Juno/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         JUNO
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877791-9f8672ed-526c-490c-b967-d3b79794e35f.png">
-       </p>
-     </div>
-   </div>
-  </a>    
-   
-<a href="{{ site_url }}/Kava/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-         KAVA
-          <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/147877840-28a04b80-b652-4e3a-9b77-04bf763ac287.png">
-       </p>
-     </div>
-   </div>
-  </a> 
-
    
 <a href="{{ site_url }}/Medibloc/" target="_self">
    <div class="card">
@@ -167,16 +129,6 @@
    </div>
   </a>
 
-      
-  <a href="{{ site_url }}/Umee/" target="_self">
-   <div class="card">
-     <p class="heading">
-      UMEE
-      <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/157275932-eabfc221-0fcc-4af5-9107-4e335e3804db.png">
-     </p>
-   </div>
-  </a>
-  
 
 </div>
 
@@ -196,17 +148,6 @@
      </div>
    </div>
   </a> 
-   
-<a href="{{ site_url }}/Cudos/" target="_self">
-   <div class="card">
-     <div>
-       <p class="heading">
-          CUDOS
-            <img align="left" width="30" src="https://user-images.githubusercontent.com/95366163/199701561-a116c144-a822-4cca-92d3-89f38a934442.png"> 
-        </p>
-     </div>
-   </div>
-  </a>  
 
 
   <a href="{{ site_url }}/Skale/" target="_self">
@@ -219,10 +160,7 @@
      </div>
    </div>
   </a>  
-   
-</div>
 
-<div class="maincard">
    
   <a href="{{ site_url }}/Tgrade/" target="_self">
    <div class="card">
@@ -234,6 +172,11 @@
      </div>
    </div>
   </a> 
+ 
+ </div>
+ 
+<div class="maincard">
+   
    
  <a target="_self">
    <div class="card">
