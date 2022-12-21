@@ -4,25 +4,25 @@ In this glossary we have gathered a list of words and terms that will help you b
 
 ## A
 
-* [Adaptive state sharding](../networks/markdowns/adaptive\_state\_sharding.md)
-* [APR](../networks/markdowns/apr.md)
-* [APY](../networks/markdowns/apy.md)
+* [Adaptive state sharding](../markdowns/adaptive\_state\_sharding.md)
+* [APR](../markdowns/apr.md)
+* [APY](../markdowns/apy.md)
 
 ## B
 
-* [Blockchain](../networks/markdowns/blockchain.md)
+* [Blockchain](../markdowns/blockchain.md)
 
 ## C
 
-* [Cloud computing](../networks/markdowns/cloud\_computing.md)
+* [Cloud computing](../markdowns/cloud\_computing.md)
 * [Compound interest](../markdowns/Compound\_interest.md)
-* [Containerization](../networks/markdowns/containerization.md)
-* [Cryptocurrency](../networks/markdowns/cryptocurrency.md)
+* [Containerization](../markdowns/containerization.md)
+* [Cryptocurrency](../markdowns/cryptocurrency.md)
 
 ## D
 
-* [DAO](../networks/markdowns/dao.md)
-* [DeFi](../networks/markdowns/defi.md)
+* [DAO](../markdowns/dao.md)
+* [DeFi](../markdowns/defi.md)
 
 ## E
 
@@ -30,7 +30,7 @@ In this glossary we have gathered a list of words and terms that will help you b
 
 ## G
 
-* [Gas fees](../networks/markdowns/gas\_fees.md)
+* [Gas fees](../markdowns/gas\_fees.md)
 
 ## H
 
@@ -42,22 +42,22 @@ In this glossary we have gathered a list of words and terms that will help you b
 
 ## L
 
-* [Liquid staking](../networks/markdowns/liquid\_staking.md)
+* [Liquid staking](../markdowns/liquid\_staking.md)
 
 ## M
 
-* [Market cap](../networks/markdowns/market\_cap.md)
+* [Market cap](../markdowns/market\_cap.md)
 
 ## N
 
-* [NFT](../networks/markdowns/nft.md)
+* [NFT](../markdowns/nft.md)
 
 ## O
 
 ## P
 
-* [Proof of Stake](../networks/markdowns/proof\_of\_stake.md)
-* [Proof of Work](../networks/markdowns/proof\_of\_work.md)
+* [Proof of Stake](../markdowns/proof\_of\_stake.md)
+* [Proof of Work](../markdowns/proof\_of\_work.md)
 
 ## Q
 
@@ -65,29 +65,29 @@ In this glossary we have gathered a list of words and terms that will help you b
 
 ## S
 
-* [Secure Proof of Stake](../networks/markdowns/secure\_proof\_of\_stake.md)
-* [Sharding](../networks/markdowns/sharding.md)
-* [Slashing](../networks/markdowns/slashing.md)
-* [Slippage](../networks/markdowns/slippage.md)
-* [Smart contracts](../networks/markdowns/smart\_contracts.md)
+* [Secure Proof of Stake](../markdowns/secure\_proof\_of\_stake.md)
+* [Sharding](../markdowns/sharding.md)
+* [Slashing](../markdowns/slashing.md)
+* [Slippage](../markdowns/slippage.md)
+* [Smart contracts](../markdowns/smart\_contracts.md)
 
 ## T
 
-* [Transaction fees](../networks/markdowns/transaction\_fees.md)
+* [Transaction fees](../markdowns/transaction\_fees.md)
 
 ## U
 
-* [Unbonding period](../networks/markdowns/unbonding\_period.md)
-* [Uptime](../networks/markdowns/uptime.md)
+* [Unbonding period](../markdowns/unbonding\_period.md)
+* [Uptime](../markdowns/uptime.md)
 
 ## V
 
-* [Validator fee](../networks/markdowns/validator\_fee.md)
-* [Voting Power](../networks/markdowns/voting\_power.md)
+* [Validator fee](../markdowns/validator\_fee.md)
+* [Voting Power](../markdowns/voting\_power.md)
 
 ## W
 
-* [WebAssembly (WASM)](../networks/markdowns/webassembly.md)
+* [WebAssembly (WASM)](../markdowns/webassembly.md)
 
 ## X
 
