@@ -1,10 +1,3 @@
----
-description: >-
-  Welcome to AUDIT.one Docs! Here you can find anything and everything related
-  to our validator. We invite you to learn, participate, explore, stake and
-  connect with us on this journey.
----
-
 # Overview
 
 {% hint style="warning" %}
