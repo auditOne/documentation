@@ -18,14 +18,14 @@ Before continuing with this guide please be sure that:
 
 ***
 
-#### 1. **Select the Cosmos network in the Keplr mobile app**
+### 1. **Select the Cosmos network in the Keplr mobile app**
 
 Open the Keplr mobile app on your device and select the **Cosmos network** from the available network list.\
 You'll get to see an overview of the your current ATOM balance that is on your Keplr wallet.
 
 ![1](https://user-images.githubusercontent.com/95366163/146221515-2b520072-4b3c-400f-b489-c281ae222c3e.png)
 
-#### 2. **Choose AUDIT.one as your validator**
+### 2. **Choose AUDIT.one as your validator**
 
 When you've selected the Osmosis network in the app, click on the **Stake** button to see the list of all active validators.\
 To find us, you can either scroll down the list until you find our logo or type in **AUDIT.one** in the search bar on top.\
@@ -42,7 +42,7 @@ This screen will pop up and give you some more info about AUDIT.one:\
 Want to get more info about this commission fee? Go to[what is a validator fee?](../../markdowns/validator\_fee.md)\
 To proceed, hit the **Stake** button.
 
-#### **3. Choose the amount you wish to delegate**
+### **3. Choose the amount you wish to delegate**
 
 Before you continue to stake, it's very important to understand the concept of an **unbonding period**. If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](../../markdowns/unbonding\_period.md)\
 
@@ -60,7 +60,7 @@ Hit **stake**, wait for the transaction to be completed and finish of by hitting
 
 You have now succesfully staked your ATOM tokens!
 
-#### 4. **Claim rewards and restake regularly to benefit from** [**compounding effects**](../../markdowns/compounding\_interest.md)
+### 4. **Claim rewards and restake regularly to benefit from** [**compounding effects**](../../markdowns/compounding\_interest.md)
 
 Make sure to go back to the overview to see the status of your delegation and to claim your rewards:\
 

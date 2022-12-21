@@ -19,13 +19,13 @@ Before continuing with this guide please be sure that:
 
 Staking ATOM on Keplr is pretty easy when you follow these few steps:
 
-#### **1. Go to the**[**Cosmos staking page**](https://wallet.keplr.app/#/cosmoshub/stake)
+### **1. Go to the**[**Cosmos staking page**](https://wallet.keplr.app/#/cosmoshub/stake)
 
 Which you can easily access by clicking [this link](https://wallet.keplr.app/#/cosmoshub/stake)
 
 ![Atom stake](https://user-images.githubusercontent.com/95366163/148550933-00ca0531-275b-45d9-b26c-08118f748b8e.png)
 
-#### **2. Choose AUDIT.one as your validator**
+### **2. Choose AUDIT.one as your validator**
 
 You can either do this by scrolling down in the list until you find our logo or you can use the shortcut _"Ctrl + F / Command + F"_ on your keyboard and type in **AUDIT.one**
 
@@ -42,7 +42,7 @@ This screen will pop up and give you some more info about the validator.
 Click [here](../../markdowns/validator\_fee.md) to get more info about this commission fee.\
 To proceed, hit **Delegate** on the right bottom.
 
-#### **3. Choose the amount you wish to delegate**
+### **3. Choose the amount you wish to delegate**
 
 Once you've clicked on delegate, you will see this screen:
 
@@ -64,7 +64,7 @@ There you will find more details about the delegation and see all previous trans
 
 You have now succesfully staked your ATOM tokens!
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../../markdowns/compounding\_interest.md)
+### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../../markdowns/compounding\_interest.md)
 
 Make sure to check your **Keplr web extention** on a regular basis to see the status of your delegation.
 
