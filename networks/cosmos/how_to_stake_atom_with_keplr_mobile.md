@@ -4,7 +4,7 @@
 > However, please note that you can use any other validator of your choice.\
 > Read [our article](../../markdowns/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
-## How to stake ATOM tokens on Keplr [![](https://user-images.githubusercontent.com/95366163/145463431-e952e520-622d-4592-9760-ac8140d45d3c.png)](how\_to\_stake\_atom\_with\_keplr.md)
+## How to stake ATOM tokens on Keplr&#x20;
 
 #### Prerequisites:
 

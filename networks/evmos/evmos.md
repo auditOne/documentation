@@ -1,4 +1,4 @@
-# Evmos
+# Intro to Evmos
 
 ![](https://user-images.githubusercontent.com/95366163/155010719-83c89fc8-5946-4d32-a362-fd29646f2cca.png)
 
