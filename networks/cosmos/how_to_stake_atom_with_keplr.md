@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](../../markdowns/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake ATOM tokens on Keplr
 
@@ -12,8 +12,8 @@ Before continuing with this guide please be sure that:
 
 * **You have a** [**Keplr wallet**](../../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
 * **You have ATOM tokens in your Keplr wallet**
-* **You know what** [**staking**](../../markdowns/what\_is\_staking.md) **is**
-* **You understand** [**the risks**](../../markdowns/risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../../getting-started/what\_is\_staking.md) **is**
+* **You understand** [**the risks**](../../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -39,7 +39,7 @@ This screen will pop up and give you some more info about the validator.
 
 <figure><img src="https://user-images.githubusercontent.com/95366163/148533039-a00b4cf5-e902-4923-83bf-d87cd8f8ea27.png" alt=""><figcaption></figcaption></figure>
 
-Click [here](../../markdowns/validator\_fee.md) to get more info about this commission fee.\
+Click [here](../../glossary/validator\_fee.md) to get more info about this commission fee.\
 To proceed, hit **Delegate** on the right bottom.
 
 ### **3. Choose the amount you wish to delegate**
@@ -48,11 +48,11 @@ Once you've clicked on delegate, you will see this screen:
 
 <figure><img src="https://user-images.githubusercontent.com/95366163/148552925-64d2c5dd-8b46-4edc-9ba6-1d3ad11271a2.png" alt=""><figcaption></figcaption></figure>
 
-If you don't know what an unbonding period is, we suggest you to first learn about it in our [glossary](../../markdowns/unbonding\_period.md).
+If you don't know what an unbonding period is, we suggest you to first learn about it in our [glossary](../../glossary/unbonding\_period.md).
 
 Once you understand what it means and you've decided how many tokens you wish to stake, hit the **Delegate** button on the right.
 
-You will be asked to approve the transaction with your wallet and choose the [transaction fee](../../markdowns/transaction\_fees.md) (low, average or high).\
+You will be asked to approve the transaction with your wallet and choose the [transaction fee](../../glossary/transaction\_fees.md) (low, average or high).\
 The higher the fee you are willing to pay, the faster the transaction will be completed.
 
 <figure><img src="https://user-images.githubusercontent.com/95366163/148551655-96a6534e-e067-4b85-ac84-feb32776d6ff.png" alt=""><figcaption></figcaption></figure>
@@ -64,7 +64,7 @@ There you will find more details about the delegation and see all previous trans
 
 You have now succesfully staked your ATOM tokens!
 
-### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../../markdowns/compounding\_interest.md)
+### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../../glossary/compounding\_interest.md)
 
 Make sure to check your **Keplr web extention** on a regular basis to see the status of your delegation.
 
@@ -76,4 +76,4 @@ Once the transaction is complete, these rewards will be added to your available 
 
 ![Claim rewards](https://user-images.githubusercontent.com/95366163/148552494-0e195005-9f28-40f4-b2e4-d5dafb689518.png)
 
-You can now go back to [**Step 1**](how\_to\_stake\_atom\_with\_keplr.md#step1) and restake your rewards to benefit from [compounding effects](../../markdowns/compounding\_interest.md).
+You can now go back to [**Step 1**](how\_to\_stake\_atom\_with\_keplr.md#step1) and restake your rewards to benefit from [compounding effects](../../glossary/compounding\_interest.md).

@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake eGLD on Maiar
 
@@ -13,8 +13,8 @@ Before continuing with this guide please be sure that:
 * **You have an** [**Elrond wallet**](../crypto-wallets/how\_to\_create\_an\_elrond\_wallet.md) OR **You've created a wallet using the Maiar app**.
 * **You have installed the mobile Maiar app for** [**iOS**](https://apps.apple.com/us/app/maiar/id1519405832?shortlink=f0b7455c\&c=Website%20App%20Store%20Download%20Link\&pid=website\&deep\_link\_value=appstore) **or** [**Android**](https://play.google.com/store/apps/details?id=com.elrond.maiar.wallet\&shortlink=52dcde54\&c=Website%20Google%20Play%20Download%20Link\&pid=website\&deep\_link\_value=googleplay)
 * **You have at least one** [**eGLD tokens**](how\_to\_get\_egld\_tokens.md) **in your wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is.**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -67,7 +67,7 @@ Once you're ready, hit **Continue** once again.\
 
 > _Remember that this method requires a minimum delegation of 1 eGLD_
 
-Before you continue to stake on the next screen, it's very important to understand the concept of an **unbonding period**. If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](unbonding\_period.md)\
+Before you continue to stake on the next screen, it's very important to understand the concept of an **unbonding period**. If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](../glossary/unbonding\_period.md)\
 
 
 Once you understand what it means, hit **Stake** to finalise your transaction and done!\
@@ -79,7 +79,7 @@ Once you understand what it means, hit **Stake** to finalise your transaction an
 
 You have now succesfully staked your eGLD tokens!
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to go back to the staking overview to see the status of your delegation and to claim pending rewards.\
 

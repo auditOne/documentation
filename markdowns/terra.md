@@ -2,7 +2,7 @@
 
 [**Terra**](https://www.terra.money/) offers multiple stablecoin options that provide instant settlement. They rely on a price-stability algorithm that actively alters the monetary supply of an asset to retain value. In this way, Terra can provide users with lower fees, more stability, seamless cross-border exchanges, and highly responsive financial assets.
 
-Terra's ultimate goal is to disrupt traditional banking via the mass adoption of stablecoin [cryptocurrencies](cryptocurrency.md) and [DeFi](defi.md) infrastructure.
+Terra's ultimate goal is to disrupt traditional banking via the mass adoption of stablecoin [cryptocurrencies](../glossary/cryptocurrency.md) and [DeFi](../glossary/defi.md) infrastructure.
 
 \[
 

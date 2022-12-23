@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/95366163/149309302-0b7a21f4-25a6-4872-a980-b7093205f1d9.png)
 
-[**Juno**](https://www.junonetwork.io/) is the permissionless neutral home of CosmWasm interoperable [smart contracts](../../markdowns/smart\_contracts.md) and the InterWasm [DAO](../../markdowns/dao.md). The ecosystem is pioneering CosmWasm development and adoption.
+[**Juno**](https://www.junonetwork.io/) is the permissionless neutral home of CosmWasm interoperable [smart contracts](../../glossary/smart\_contracts.md) and the InterWasm [DAO](../../glossary/dao.md). The ecosystem is pioneering CosmWasm development and adoption.
 
 Juno is a layer 1 smart contract network that tries to solve the first generation smart contract bottlenecks which are limited scalability, high cost for deployment and execution and offers an easy environment for developers across the globe to deploy scalable, secure decentralized applications efficiently.
 

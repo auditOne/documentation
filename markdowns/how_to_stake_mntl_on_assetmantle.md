@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake MNTL tokens on AssetMantle
 
@@ -12,8 +12,8 @@ Before continuing with this guide please be sure that:
 
 * **You have a** [**Keplr wallet**](../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
 * **You have MNTL tokens in your Keplr wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is.**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -35,7 +35,7 @@ This screen will pop up and give you some more info about AUDIT.one.
 
 ![](https://user-images.githubusercontent.com/95366163/164421462-695a20ea-67d2-4351-b0ba-a97f4897862e.png)
 
-Want to get more info about this commission fee? Go to [what is a validator fee?](validator\_fee.md)\
+Want to get more info about this commission fee? Go to [what is a validator fee?](../glossary/validator\_fee.md)\
 To proceed, hit **Delegate** on the left.
 
 #### **3. Choose the amount you wish to delegate**
@@ -51,7 +51,7 @@ _(By clicking the word '**Balance**' underneath the entry bar, the maximum avail
 
 Once you've decided how many tokens you wish to stake, hit the **Submit** button.
 
-You will be asked to choose the transaction fee (low, average or high). The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](transaction\_fees.md)
+You will be asked to choose the transaction fee (low, average or high). The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](../glossary/transaction\_fees.md)
 
 ![](https://user-images.githubusercontent.com/95366163/164422158-ede25d61-2256-40ad-95cb-ec8763841b6d.png)
 
@@ -59,7 +59,7 @@ You will be asked to choose the transaction fee (low, average or high). The high
 
 You have now succesfully staked your MNTL tokens!
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to come back to the [AssetMantle dashboard](https://wallet.assetmantle.one/dashboard/wallet) to see the status of your delegations.\
 

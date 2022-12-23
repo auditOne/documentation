@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake eGLD on Elrond
 
@@ -12,8 +12,8 @@ Before continuing with this guide please be sure that:
 
 * **You have an** [**Elrond wallet**](../crypto-wallets/how\_to\_create\_an\_elrond\_wallet.md)
 * **You have at least one eGLD token in your Elrond wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is.**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -41,7 +41,7 @@ Once you've found it, select AUDIT.one and hit **Continue**:
 On the following screen you will see some more info about AUDIT.one:
 
 * A [link](https://audit.one) to our website
-* [The validator commission fee](validator\_fee.md)
+* [The validator commission fee](../glossary/validator\_fee.md)
 * The Annual Percentage Rate (APR).
 
 Here you will be asked how many eGLD tokens you would like to stake.\
@@ -67,7 +67,7 @@ Wait for the transaction to be processed, and you're all done!
 
 You have now succesfully staked your eGLD tokens!
 
-#### **3. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **3. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to come back to the [Elrond staking dashboard](https://wallet.elrond.com/delegation) to see the status of your delegations.\
 

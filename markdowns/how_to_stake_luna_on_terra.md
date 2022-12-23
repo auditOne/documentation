@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake LUNA tokens on Terra Station
 
@@ -12,8 +12,8 @@ Before continuing with this guide please be sure that:
 
 * **You have a** [**Terra wallet**](how\_to\_create\_a\_terra\_wallet.md) OR **any other wallet that holds LUNA tokens**.
 * **You have LUNA tokens in your wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is.**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -32,7 +32,7 @@ Once you've found it, click on our name to continue:
 ![Choose Audit](https://user-images.githubusercontent.com/95366163/147106785-b9712e57-d4e2-4dcb-babe-72e03ead55c3.png)
 
 The screen underneath will pop up and give you some more info about AUDIT.one.\
-You'll get to see our [Voting power](voting\_power.md), the amount of LUNA tokens we stake ourself, our commission or [validator fee](validator\_fee.md) and our [Uptime](uptime.md).
+You'll get to see our [Voting power](../glossary/voting\_power.md), the amount of LUNA tokens we stake ourself, our commission or [validator fee](../glossary/validator\_fee.md) and our [Uptime](../glossary/uptime.md).
 
 ![Info Audit](https://user-images.githubusercontent.com/95366163/147106900-3b07da12-3b39-4a4c-a535-13416bb55c08.png)
 
@@ -50,7 +50,7 @@ Once you've decided how many tokens you wish to stake, hit the **Next** button.\
 
 
 You will be asked to confirm the transaction with your password.\
-The [transaction fee](transaction\_fees.md) is shown and and you'll get a notice that it might be a good idea, to keep a small amount of LUNA in your wallet to be able to pay future transaction fees if you want to claim pending rewards or if you want to redelegate them.\
+The [transaction fee](../glossary/transaction\_fees.md) is shown and and you'll get a notice that it might be a good idea, to keep a small amount of LUNA in your wallet to be able to pay future transaction fees if you want to claim pending rewards or if you want to redelegate them.\
 
 
 Fill in your password and hit **Delegate** to finalise the transaction.
@@ -63,7 +63,7 @@ You have now succesfully staked your LUNA tokens!
 
 ![](https://user-images.githubusercontent.com/95366163/147110188-4cc9fa28-8686-4cb6-bfd1-1d7cbf31a717.png)
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to come back to the [Terra station staking page](https://station.terra.money/stake) to see the status of your delegations.\
 

@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/95366163/148080933-a709b855-5d2a-40b3-82c5-e571a86ccb5c.png)
 
-[Solana](https://solana.com/) is a decentralized blockchain built to enable scalable, user-friendly apps for the world. Solana claims to be the fastest blockchain in the world and the fastest growing ecosystem in crypto, with over 400 projects spanning [DeFi](defi.md), [NFTs](nft.md), Web3 and more.
+[Solana](https://solana.com/) is a decentralized blockchain built to enable scalable, user-friendly apps for the world. Solana claims to be the fastest blockchain in the world and the fastest growing ecosystem in crypto, with over 400 projects spanning [DeFi](../glossary/defi.md), [NFTs](../glossary/nft.md), Web3 and more.
 
 \[
 

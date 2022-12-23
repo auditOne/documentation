@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/95366163/153456547-2019f773-6f78-4365-8f6f-84e958401a39.png)
 
-[**Gravity Bridge**](https://www.gravitybridge.net/) chain is an open and decentralised bridge that unlocks interoperability and liquidity between [blockchain](../../markdowns/blockchain.md) ecosystems. It is designed to move assets to and from EVM based chains and Cosmos SDK based chains. In other words: The bridge can be used to bring Ethereum assets to the Cosmos ecosystem and Cosmos assets to Ethereum.
+[**Gravity Bridge**](https://www.gravitybridge.net/) chain is an open and decentralised bridge that unlocks interoperability and liquidity between [blockchain](../../glossary/blockchain.md) ecosystems. It is designed to move assets to and from EVM based chains and Cosmos SDK based chains. In other words: The bridge can be used to bring Ethereum assets to the Cosmos ecosystem and Cosmos assets to Ethereum.
 
 Gravity bridge is secured directly by a more than 100 validators. The control of the assets in the bridge is by design as decentralised as the chain running the bridge. Validators are required to run specific Gravity Bridge related components to maintain the Ethereum side of the bridge while relayers help read from the Cosmos chain and submit transactions to Ethereum.
 

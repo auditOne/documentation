@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake CMDX tokens on Omniflix
 
@@ -12,8 +12,8 @@ Before continuing with this guide please be sure that:
 
 * **You have a** [**Keplr wallet**](../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
 * **You have CMDX tokens in your Keplr wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -29,7 +29,7 @@ Which you can easily access by clicking [this link](https://comdex.omniflix.co/s
 
 You can either do this by scrolling down in the list until you find our logo or you can use the shortcut _"Ctrl + F / Command + F"_ on your keyboard and type in **AUDIT.one**
 
-Next to the validator's name and logo, you will also find the [voting power](voting\_power.md) and the [commission fee](validator\_fee.md).\
+Next to the validator's name and logo, you will also find the [voting power](../glossary/voting\_power.md) and the [commission fee](../glossary/validator\_fee.md).\
 To proceed, hit **Delegate** on the right.
 
 ![Select AUDIT](https://user-images.githubusercontent.com/95366163/149314182-b3711007-ac32-4327-8ff3-ee30cde651b4.png)
@@ -40,7 +40,7 @@ Once you've clicked on delegate, you will see this screen:
 
 ![](https://user-images.githubusercontent.com/95366163/149314219-0e7cecd2-a4a0-41ed-99de-f091680f2609.png)
 
-You will be asked to approve the transaction with your wallet and choose the [transaction fee](transaction\_fees.md) (low, average or high).\
+You will be asked to approve the transaction with your wallet and choose the [transaction fee](../glossary/transaction\_fees.md) (low, average or high).\
 The higher the fee you are willing to pay, the faster the transaction will be completed.
 
 ![](https://user-images.githubusercontent.com/95366163/149314295-3212bf5e-6019-4c10-88c4-fbf708582ac5.png)
@@ -52,7 +52,7 @@ There you will find more details about the delegation and see all previous trans
 
 You have now succesfully staked your CMDX tokens!
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to check your **Omniflix dashboard** on a regular basis to see the status of your delegation.
 
@@ -76,4 +76,4 @@ Once the transaction is complete, these rewards will be added to your available 
 Here again you can check the status of your transaction by clicking on the transaction hash on the right.\
 
 
-You can now go back to [**Step 1**](how\_to\_stake\_cmdx\_on\_omniflix.md#step1) and restake your rewards to benefit from [compounding effects](compounding\_interest.md).
+You can now go back to [**Step 1**](how\_to\_stake\_cmdx\_on\_omniflix.md#step1) and restake your rewards to benefit from [compounding effects](../glossary/compounding\_interest.md).

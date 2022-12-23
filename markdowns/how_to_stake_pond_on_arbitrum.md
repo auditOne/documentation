@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake POND tokens on Arbitrum
 
@@ -13,8 +13,8 @@ Before continuing with this guide please be sure that:
 * **You have a** [**MetaMask wallet**](https://myterablock.medium.com/how-to-create-or-import-a-metamask-wallet-a551fc2f5a6b)
 * **You have added the Arbitrum network to MetaMask**
 * **You have POND tokens in your MetaMask wallet on the** [**Arbitrum network**](https://blog.marlin.org/migrating-the-marlin-network-from-ethereum-to-arbitrum)
-* **You know what** [**staking**](what\_is\_staking.md) **is.**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -48,7 +48,7 @@ Here you will need to fill in the amount of POND you wish to stake.\
 
 When you've decided how many tokens you wish to stake, you'll first have to **approve** your POND tokens.\
 You'll be redirected to your MetaMask wallet to sign the approval and get to see the estimated approval fee.\
-The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](transaction\_fees.md)
+The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](../glossary/transaction\_fees.md)
 
 Once that is done, you will be able to click on the **Confirm** button on the bottom.
 
@@ -61,7 +61,7 @@ Once you agree with this fee, sign the transaction and wait for it to be execute
 
 You have now succesfully staked your POND tokens!
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to come back to your [Marlin stash dashboard](https://arb1.marlin.org/relay/stash) to see the status of your delegations.\
 
@@ -72,4 +72,4 @@ In this case rewards will be added to your total POND balance and will be availa
 
 ![My stash](https://user-images.githubusercontent.com/95366163/161113630-385b4131-4066-42ef-b880-f9bbef80fd61.png)
 
-To restake your rewards in order to generate [compound interests](compounding\_interest.md), you can now go back to [**Step 1**](how\_to\_stake\_pond\_on\_arbitrum.md#step1).\
+To restake your rewards in order to generate [compound interests](../glossary/compounding\_interest.md), you can now go back to [**Step 1**](how\_to\_stake\_pond\_on\_arbitrum.md#step1).\

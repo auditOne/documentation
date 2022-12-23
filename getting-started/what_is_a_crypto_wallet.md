@@ -10,8 +10,8 @@ Unlike a normal wallet, which can hold actual cash, crypto wallets technically d
 
 Crypto wallets range from simple-to-use apps to more complex security solutions. The main types of wallets you can choose from include:
 
-* **Hardware wallets aka Cold wallets:** Cold wallets are not connected to the internet and really all they do is store your private keys. You are responsible to store your hardware wallet in a safe place and is only connected to a computer when you want to use your tokens. The idea is to try to balance security and convenience. Hardware wallets are always [non-custodial](non\_custodial.md)
-* **Online wallets aka Hot wallets:** Hot wallets are also secured with private keys, but come in custodial and [non-custodial](non\_custodial.md) forms.
+* **Hardware wallets aka Cold wallets:** Cold wallets are not connected to the internet and really all they do is store your private keys. You are responsible to store your hardware wallet in a safe place and is only connected to a computer when you want to use your tokens. The idea is to try to balance security and convenience. Hardware wallets are always [non-custodial](../glossary/non\_custodial.md)
+* **Online wallets aka Hot wallets:** Hot wallets are also secured with private keys, but come in custodial and [non-custodial](../glossary/non\_custodial.md) forms.
   * **Custodial Wallets** are defined as wallets in which the private keys are held by a third party. Meaning, the third party has full control over your funds while you only have to give permission to send or receive payments. This is the case with many crypto exchanges. They often come with built-in wallets, meaning you can trade and store from a single interface and don't need to worry about key management.
   * **Non-custodial wallets** are software wallets that lets you be your own bank. This implies that users have full control over their assets and for which only you, have access to the private key.
 
@@ -21,4 +21,4 @@ If you want to be able to see in real-time what your assets are doing and want t
 
 Whichever option you choose to go with, just make sure that you store your keys safely, and that you remember the passwords for your wallets. You don’t want to lose your digital assets because you forgot or misplaced your keys!
 
-**Check out our** [**wallets guides**](wallet\_overview.md) **to create your own non-custodial hot wallet!**
+**Check out our** [**wallets guides**](../markdowns/wallet\_overview.md) **to create your own non-custodial hot wallet!**

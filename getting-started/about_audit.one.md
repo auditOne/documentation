@@ -1,4 +1,4 @@
-# ❔ About AUDIT.one
+# About AUDIT.one
 
 [AUDIT.one](https://audit.one) is the infrastructure arm of [Persistence](https://persistence.one) and has become one of the biggest validators in South Asia, running nodes across 15 leading networks such as [Cosmos](../networks/cosmos/), [Osmosis](broken-reference), [Polygon](broken-reference) and [many more](../markdowns/networks.md).
 

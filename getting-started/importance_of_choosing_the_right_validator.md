@@ -32,7 +32,7 @@ A potential disadvantage of these validators is that they often support only a l
 
 ## Pure infrastructure validators
 
-Pure infrastructure validators, like [AUDIT.one](../../getting-started/about\_audit.one.md) support a wide range of Proof of Stake networks. These professional validators generally are better at comparing different networks, do their own research and have a good understanding of the overall development of the Proof-of-Stake ecosystem as a whole.
+Pure infrastructure validators, like [AUDIT.one](about\_audit.one.md) support a wide range of Proof of Stake networks. These professional validators generally are better at comparing different networks, do their own research and have a good understanding of the overall development of the Proof-of-Stake ecosystem as a whole.
 
 Because this group of validators support several networks, it may be the case that they are less capable of answering very detailed questions about a specific network in comparison to protocol developer validators.
 
@@ -63,6 +63,6 @@ When choosing the type of validator that fits your needs, you should look for:
 
 * **Reliability**: Choose a validator that knows what they’re doing. Favor providers with proven experience validating on the network you want to support.
 * **Communication**: Do you get enough information and support from them, on a regular basis? Be sure to pick a team that makes you comfortable and matches your availability.
-* **Economics**: Look for a [competitive fee](validator\_fee.md). “The lower, the better”, is not always the best strategy when choosing a validator.
+* **Economics**: Look for a [competitive fee](../glossary/validator\_fee.md). “The lower, the better”, is not always the best strategy when choosing a validator.
 
 > Always do your own research before choosing a network and/or validator to delegate your assets to.

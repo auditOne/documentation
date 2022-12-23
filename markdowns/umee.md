@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/95366163/157274600-7b813ae1-d5d9-49c0-a406-7dd299f40b3a.png)
 
-[Umee](https://agoric.com/) is a cross chain [DeFi](defi.md) hub. It's a universal, permissionless platform meant to serve all types of users and projects throughout their DeFi journeys. Umee aims to provide users with the ability to easily lend and borrow across different [blockchains](blockchain.md) and is determined to provide the necessary infrastructure for users and builders to access cross chain leverage and liquidity.\
+[Umee](https://agoric.com/) is a cross chain [DeFi](../glossary/defi.md) hub. It's a universal, permissionless platform meant to serve all types of users and projects throughout their DeFi journeys. Umee aims to provide users with the ability to easily lend and borrow across different [blockchains](../glossary/blockchain.md) and is determined to provide the necessary infrastructure for users and builders to access cross chain leverage and liquidity.\
 \
 
 

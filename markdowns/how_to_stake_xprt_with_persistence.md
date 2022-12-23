@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake XPRT tokens on Persistence
 
@@ -12,8 +12,8 @@ Before continuing with this guide please be sure that:
 
 * **You have a** [**Persistence wallet**](../crypto-wallets/how\_to\_create\_a\_persistence\_wallet.md)
 * **You have** [**XPRT tokens**](how\_to\_get\_xprt\_tokens.md) **in your Persistence wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is.**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -35,7 +35,7 @@ This screen will pop up and give you some more info about AUDIT.one.
 
 ![](https://user-images.githubusercontent.com/95366163/146362728-2a8755df-a96d-4f92-a40b-e33cb490796e.png)
 
-Want to get more info about this commission fee? Go to [what is a validator fee?](validator\_fee.md)\
+Want to get more info about this commission fee? Go to [what is a validator fee?](../glossary/validator\_fee.md)\
 To proceed, hit **Delegate** on the left.
 
 #### **3. Choose the amount you wish to delegate**
@@ -49,7 +49,7 @@ _(By clicking the word '**Balance**' underneath the entry bar, the maximum avail
 
 Once you've decided how many tokens you wish to stake, hit the **Next** button.
 
-You will be asked to choose the transaction fee (low, average or high). The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](transaction\_fees.md)
+You will be asked to choose the transaction fee (low, average or high). The higher the fee you are willing to pay, the faster the transaction will be completed. [Why are there transaction fees?](../glossary/transaction\_fees.md)
 
 ![](https://user-images.githubusercontent.com/95366163/146365376-77fc715c-a942-4a06-9c6f-0d8937ff0004.png)
 
@@ -57,7 +57,7 @@ You will be asked to choose the transaction fee (low, average or high). The high
 
 You have now succesfully staked your XPRT tokens!
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to come back to the [Persistence dashboard](https://wallet.persistence.one/dashboard/wallet) to see the status of your delegations.\
 

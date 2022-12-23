@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake XKI tokens on Cosmostation
 
@@ -13,8 +13,8 @@ Before continuing with this guide please be sure that:
 * **You have a** [**cosmostation wallet**](../crypto-wallets/how\_to\_create\_a\_cosmostation\_wallet.md)
 * **You have installed the mobile Cosmostation app for** [**iOS**](https://apps.apple.com/app/cosmostation/id1459830339) **or** [**Android**](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)
 * **You have XKI tokens in your Cosmostation wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is.**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -35,7 +35,7 @@ When you've found your Ki wallet in the app, click on the **Delegate** button to
 To find us, scroll down the list until you find our logo.\
 
 
-When you click on a validator, you will find some extra info. It shows the total assets bonded aka [voting power](voting\_power.md) of the validator, the estimated [APY](apy.md) and the [validator commission fee](validator\_fee.md).
+When you click on a validator, you will find some extra info. It shows the total assets bonded aka [voting power](../glossary/voting\_power.md) of the validator, the estimated [APY](../glossary/apy.md) and the [validator commission fee](../glossary/validator\_fee.md).
 
 ![2](https://user-images.githubusercontent.com/95366163/154677914-83199a91-4cdb-43b2-ae71-82877696603f.png)
 
@@ -51,7 +51,7 @@ Fill in the amount you wish to stake and hit **Next**
 You can add a memo to your delegation, but this is not obligatory. Continue by clicking **Next**\
 
 
-You will be asked to choose the [transaction fee](transaction\_fees.md) (tiny, low or average). The higher the fee you are willing to pay, the faster the transaction will be completed.
+You will be asked to choose the [transaction fee](../glossary/transaction\_fees.md) (tiny, low or average). The higher the fee you are willing to pay, the faster the transaction will be completed.
 
 > TIP: Click on ‘**Check Estimate Gas Amount**’ to minimize your fee.
 
@@ -59,7 +59,7 @@ You will now see the overview of your transaction. If everything is correct, hit
 
 ![3](https://user-images.githubusercontent.com/95366163/154678307-2a332d2f-f535-4d02-afea-1f1cb67f9037.png)
 
-Before you finish the transaction, it's very important to understand the concept of an **unbonding period**. If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](unbonding\_period.md)\
+Before you finish the transaction, it's very important to understand the concept of an **unbonding period**. If you don't know what an unbonding period is, we suggest you to first read the guide on [what is an unbonding period?](../glossary/unbonding\_period.md)\
 
 
 If you understand the concept of an unbonding period, hit **Continue**.\
@@ -74,7 +74,7 @@ Click **Done** to go back to your wallet.
 
 You have now succesfully staked your XKI tokens!
 
-#### 4. **Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### 4. **Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to come back to your wallet overview to see the status of your delegation and to claim your rewards:\
 
@@ -90,4 +90,4 @@ Now **Claim your rewards** and they will be added to your available XKI balance 
 
 ![5](https://user-images.githubusercontent.com/95366163/154677962-dec83afa-a56b-4a9a-bdc8-0f4715186935.png)
 
-You can now go back to [**Step 1**](how\_to\_stake\_xki\_on\_cosmostation.md#step1) and restake your rewards to benefit from [compounding effects](compounding\_interest.md).
+You can now go back to [**Step 1**](how\_to\_stake\_xki\_on\_cosmostation.md#step1) and restake your rewards to benefit from [compounding effects](../glossary/compounding\_interest.md).

@@ -2,7 +2,7 @@
 
 > This guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to use Superfluid staking on Osmosis
 
@@ -14,8 +14,8 @@ Before continuing with this guide please be sure that:
 
 * **You have a** [**Keplr wallet**](../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
 * **You have** [**provided liquidity**](how\_to\_provide\_liquidity\_on\_osmosis.md) **to the ATOM/OSMO pool on** [**Osmosis**](https://app.osmosis.zone/pools)
-* **You know what** [**staking**](what\_is\_staking.md) **is**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -58,6 +58,6 @@ Once you've found it, select it and click on the **Bond & Stake** button.\
 
 You have now activated Superfluid staking on Osmosis and will start to earn extra rewards on your assets.
 
-You can now see the overview of your Superfluid stake and the estimated [APR](apr.md) that you are earning on the provided liquidity.
+You can now see the overview of your Superfluid stake and the estimated [APR](../glossary/apr.md) that you are earning on the provided liquidity.
 
 ![Overview](https://user-images.githubusercontent.com/95366163/157021633-8ba58a9f-19b6-4db6-9f04-98d7d8fdc4e0.png)

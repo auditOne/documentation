@@ -2,7 +2,7 @@
 
 > This staking guide shows how you can stake with **AUDIT.one**.\
 > However, please note that you can use any other validator of your choice.\
-> Read [our article](importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+> Read [our article](../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 
 ## How to stake SOL tokens on Phantom
 
@@ -12,8 +12,8 @@ Before continuing with this guide please be sure that:
 
 * **You have a** [**Phantom wallet**](../crypto-wallets/how\_to\_create\_a\_phantom\_wallet.md)
 * **You have SOL tokens in your Phantom wallet**
-* **You know what** [**staking**](what\_is\_staking.md) **is**
-* **You understand** [**the risks**](risks\_of\_staking.md) **involved with staking**
+* **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is**
+* **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
@@ -40,7 +40,7 @@ On the next screen you will be asked to fill in the amount you wish to stake and
 
 ![](https://user-images.githubusercontent.com/95366163/148987877-a0b1c7b8-146d-47db-9773-f2fd90e95c13.png)
 
-Click [here](validator\_fee.md) to get more info about this commission fee.\
+Click [here](../glossary/validator\_fee.md) to get more info about this commission fee.\
 To proceed, fill in the amount you would like to stake and hit the **Stake button** on the right.
 
 Wait until the transaction is excecuted and **done!**
@@ -54,8 +54,8 @@ There you will find more details about the delegation and see all previous trans
 
 You have now succesfully staked your SOL tokens!
 
-#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](compounding\_interest.md)
+#### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../glossary/compounding\_interest.md)
 
 Make sure to check your **Phantom web extention** on a regular basis to see the status of your delegation.
 
-Claim your pending rewards in order restake them and go back to [**Step 1**](how\_to\_stake\_sol\_on\_phantom.md#step1) to restake your rewards and benefit from [compounding effects](compounding\_interest.md).
+Claim your pending rewards in order restake them and go back to [**Step 1**](how\_to\_stake\_sol\_on\_phantom.md#step1) to restake your rewards and benefit from [compounding effects](../glossary/compounding\_interest.md).

@@ -18,7 +18,7 @@ With 48 active chains within the Cosmos Ecosystem, there are plenty to choose fr
 
 Cosmos Hub is an ever-expanding ecosystem of blockchains of interconnected apps and services, built for a decentralized future that can scale and interoperate with each other. Before Cosmos Hub, blockchains were siloed and unable to communicate. In addition, they were hard to build and could only handle a small number of transactions per second. Cosmos Hub solves these problems with an entirely new technical vision.
 
-**2.** [**Kava**](kava.md)
+**2.** [**Kava**](../markdowns/kava.md)
 
 Kava is a layer-1 blockchain featuring a developer-optimized co-chain architecture that combines the two most used permissionless ecosystems (Ethereum and Cosmos) into a single scalable network. Its co-chains combine the flexibility and speed of Ethereum smart contract development with the interoperability of the Cosmos SDK in a single network, all powered by the ultra-fast Tendermint consensus engine.
 
@@ -30,7 +30,7 @@ Osmosis is an AMM (Automated Market Maker) protocol that allows developers to cr
 
 Secret Network is a privacy-oriented blockchain built on Cosmos where smart contracts (called Secret Contracts) allow dApps to use private data on the platform, similar to how smart contracts operate on other blockchains. However, Secret Contracts transfer encrypted inputs into encrypted outputs without exposing data. This is made possible thanks to the encrypted contract states during the execution.
 
-**5.** [**Band Protocol**](band.md)
+**5.** [**Band Protocol**](../markdowns/band.md)
 
 Band Protocol tackles the problem of having access to trusted data and services over the traditional Web 2 space for any dApp by building a decentralized bridge, enabling secure interoperability between smart contracts and the traditional web.
 
@@ -46,7 +46,7 @@ Persistence is a Tendermint-based specialised layer-1 focused on creating use-ca
 
 Evmos is a scalable PoS blockchain with a high throughput that’s EVM-compatible and IBC-enabled. It’s primarily designed to funnel Ethereum applications into the vast Cosmos ecosystem to benefit both users and developers to make the blockchain simpler to use.
 
-**9.** [**Akash Network**](akash.md)
+**9.** [**Akash Network**](../markdowns/akash.md)
 
 Akash Network provides a fast, efficient, and low-cost application deployment solution. Developers leveraging Akash’s platform can access cloud computing at up to three times less than the cost of centralized cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. Utilizing containerization and open-source technology, Akash Network leverages 85% of underutilized cloud capacity in 8.4 million global data centers, enabling anyone to buy and sell cloud computing.
 
