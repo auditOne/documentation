@@ -1,8 +1,10 @@
 # How to stake ATOM with Keplr Mobile
 
-> This staking guide shows how you can stake with **AUDIT.one**.\
-> However, please note that you can use any other validator of your choice.\
-> Read [our article](../../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+{% hint style="info" %}
+This staking guide shows how you can stake with **AUDIT.one**.\
+However, please note that you can use any other validator of your choice.\
+Read [our article](../../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
+{% endhint %}
 
 ## How to stake ATOM tokens on Keplr&#x20;
 
@@ -39,7 +41,7 @@ This screen will pop up and give you some more info about AUDIT.one:\
 
 <figure><img src="https://user-images.githubusercontent.com/95366163/146221598-76045eaa-05f6-44a8-ab1c-962d1484eac3.png" alt=""><figcaption></figcaption></figure>
 
-Want to get more info about this commission fee? Go to[what is a validator fee?](../../glossary/validator\_fee.md)\
+Want to get more info about this commission fee? Go to [what is a validator fee?](../../glossary/validator\_fee.md)\
 To proceed, hit the **Stake** button.
 
 ### **3. Choose the amount you wish to delegate**
@@ -51,14 +53,14 @@ Once you understand what it means and you've decided how many tokens you wish to
 [Why are there transaction fees?](../../glossary/transaction\_fees.md)\
 
 
-Hit **stake**, wait for the transaction to be completed and finish of by hitting the **Confirm** button when it's done.\
+Hit **stake**, wait for the transaction to be completed and finish off by hitting the **Confirm** button when it's done.\
 
 
 ![3](https://user-images.githubusercontent.com/95366163/146224038-3d949209-35e1-4b30-93cc-668c2ceaafcc.png)
 
 #### **Congratulations!**
 
-You have now succesfully staked your ATOM tokens!
+You have now successfully staked your ATOM tokens!
 
 ### 4. **Claim rewards and restake regularly to benefit from** [**compounding effects**](../../glossary/compounding\_interest.md)
 

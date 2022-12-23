@@ -1,5 +1,7 @@
 ---
 description: Here you'll find the most frequently asked questions
+cover: https://waysup.eu/wp-content/uploads/2018/07/banner-faq.png
+coverY: -69.01432181971356
 ---
 
 # ❓ FAQ's

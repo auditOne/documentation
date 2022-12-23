@@ -1,4 +1,4 @@
-# How to stake ATOM with Keplr
+# How to stake XPRT on Keplr
 
 {% hint style="info" %}
 This staking guide shows how you can stake with **AUDIT.one**.\
@@ -6,26 +6,26 @@ However, please note that you can use any other validator of your choice.\
 Read [our article](../../getting-started/importance\_of\_choosing\_the\_right\_validator.md) why it is important to spend some time choosing the right validator before you stake.
 {% endhint %}
 
-## How to stake ATOM tokens on Keplr
+## How to stake XPRT tokens on Keplr
 
 #### Prerequisites:
 
 Before continuing with this guide please be sure that:
 
 * **You have a** [**Keplr wallet**](../../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
-* **You have ATOM tokens in your Keplr wallet**
+* **You have XPRT tokens in your Keplr wallet**
 * **You know what** [**staking**](../../getting-started/what\_is\_staking.md) **is**
 * **You understand** [**the risks**](../../getting-started/risks\_of\_staking.md) **involved with staking**
 
 ***
 
-Staking ATOM on Keplr is pretty easy when you follow these few steps:
+Staking XPRT on Keplr is pretty easy when you follow these few steps:
 
-### **1. Go to the**[**Cosmos staking page**](https://wallet.keplr.app/#/cosmoshub/stake)
+### **1. Go to the**[**Persistence staking page**](https://wallet.keplr.app/#/core/stake)
 
-Which you can easily access by clicking [this link](https://wallet.keplr.app/#/cosmoshub/stake)
+Which you can easily access by clicking [this link](https://wallet.keplr.app/#/core/stake)
 
-![Atom stake](https://user-images.githubusercontent.com/95366163/148550933-00ca0531-275b-45d9-b26c-08118f748b8e.png)
+![Screen](https://user-images.githubusercontent.com/95366163/148555158-4dab8818-466b-4264-933c-0b8e4e0f96eb.png)
 
 ### **2. Choose AUDIT.one as your validator**
 
@@ -33,9 +33,7 @@ You can either do this by scrolling down in the list until you find our logo or 
 
 Once you've found it, click **manage** on the right side:
 
-&#x20;
-
-<figure><img src="https://user-images.githubusercontent.com/95366163/148550983-bbdac063-7e37-4e66-a716-c259fcedb4c1.png" alt=""><figcaption></figcaption></figure>
+![Select AUDIT](https://user-images.githubusercontent.com/95366163/148555137-229daa34-72f1-403b-8b9e-5c14b7a797f1.png)
 
 This screen will pop up and give you some more info about the validator.
 
@@ -48,7 +46,7 @@ To proceed, hit **Delegate** on the right bottom.
 
 Once you've clicked on delegate, you will see this screen:
 
-<figure><img src="https://user-images.githubusercontent.com/95366163/148552925-64d2c5dd-8b46-4edc-9ba6-1d3ad11271a2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://user-images.githubusercontent.com/95366163/148555199-0018410e-0f6d-4c0c-9707-6995aee93954.png" alt=""><figcaption></figcaption></figure>
 
 If you don't know what an unbonding period is, we suggest you to first learn about it in our [glossary](../../glossary/unbonding\_period.md).
 
@@ -57,14 +55,14 @@ Once you understand what it means and you've decided how many tokens you wish to
 You will be asked to approve the transaction with your wallet and choose the [transaction fee](../../glossary/transaction\_fees.md) (low, average or high).\
 The higher the fee you are willing to pay, the faster the transaction will be completed.
 
-<figure><img src="https://user-images.githubusercontent.com/95366163/148551655-96a6534e-e067-4b85-ac84-feb32776d6ff.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://user-images.githubusercontent.com/95366163/148555558-bda348f8-3baf-45ad-8183-0724e3bc5310.png" alt=""><figcaption></figcaption></figure>
 
-If you want to check the status of your transaction, you can fill in your wallet address on [Minstscan.io](https://www.mintscan.io/cosmos).\
-There you will find more details about the delegation and see all previous transactions that have been made.s
+If you want to check the status of your transaction, you can fill in your wallet address on [Minstscan.io](https://www.mintscan.io/persistence).\
+There you will find more details about the delegation and see all previous transactions that have been made.
 
 #### **Congratulations!**
 
-You have now successfully staked your ATOM tokens!
+You have now successfully staked your XPRT tokens!
 
 ### **4. Claim rewards and restake regularly to benefit from** [**compounding effects**](../../glossary/compounding\_interest.md)
 
@@ -72,10 +70,10 @@ Make sure to check your **Keplr web extention** on a regular basis to see the st
 
 You can claim your pending rewards by clicking on the **Claim** button next to your **Pending staking awards**.\
 You will be asked to approve the transaction again with your wallet and choose the transaction fee.\
-Once the transaction is complete, these rewards will be added to your available ATOM balance.\
+Once the transaction is complete, these rewards will be added to your available AKT balance.\
 \
 
 
-![Claim rewards](https://user-images.githubusercontent.com/95366163/148552494-0e195005-9f28-40f4-b2e4-d5dafb689518.png)
+![Claim rewards](https://user-images.githubusercontent.com/95366163/148556552-01c2ec75-8a10-4797-bd03-c5d9e7e4955c.png)
 
-You can now go back to [**Step 1**](how\_to\_stake\_atom\_with\_keplr.md#step1) and restake your rewards to benefit from [compounding effects](../../glossary/compounding\_interest.md).
+You can now go back to [**Step 1**](how\_to\_stake\_xprt\_with\_keplr.md#step1) and restake your rewards to benefit from [compounding effects](../../glossary/compounding\_interest.md).

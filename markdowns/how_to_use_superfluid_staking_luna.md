@@ -11,7 +11,7 @@
 Before continuing with this guide please be sure that:
 
 * **You have a** [**Keplr wallet**](../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
-* **You have** [**provided liquidity**](how\_to\_provide\_liquidity\_on\_osmosis.md) **to the LUNA/OSMO pool on** [**Osmosis**](https://app.osmosis.zone/pools)
+* **You have** [**provided liquidity**](../networks/evmos-5/how\_to\_provide\_liquidity\_on\_osmosis.md) **to the LUNA/OSMO pool on** [**Osmosis**](https://app.osmosis.zone/pools)
 * **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is**
 * **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 

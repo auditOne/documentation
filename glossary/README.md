@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://www.m2mconnectivity.com.au/wp-content/uploads/2020/07/banner_blog_20200428.jpg
+coverY: 29.11541701769166
+---
+
 # 📝 Glossary
 
 In this glossary we have gathered a list of words and terms that will help you better understand the wonderful world of crypto.

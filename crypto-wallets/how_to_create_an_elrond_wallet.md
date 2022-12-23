@@ -49,7 +49,7 @@ Here you will have to upload the Keystore File that you've just generated and st
 
 <figure><img src="https://user-images.githubusercontent.com/95366163/146783831-b2bd137f-90cb-4999-87a1-d2456d339388.png" alt=""><figcaption></figcaption></figure>
 
-Hit **Access Wallet** one more time and BOOM, you can now [add eGLD to you wallet](../markdowns/how\_to\_get\_egld\_tokens.md) and [start staking](../markdowns/how\_to\_stake\_egld\_with\_elrond.md).
+Hit **Access Wallet** one more time and BOOM, you can now [add eGLD to you wallet](broken-reference) and [start staking](../markdowns/how\_to\_stake\_egld\_with\_elrond.md).
 
 ![Dashboard](https://user-images.githubusercontent.com/95366163/146786617-2ab0e1c1-5c88-4866-8719-ab3ab838e04c.png)
 

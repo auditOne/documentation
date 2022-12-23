@@ -12,7 +12,7 @@ Before continuing with this guide please be sure that:
 
 * **You have an** [**Elrond wallet**](../crypto-wallets/how\_to\_create\_an\_elrond\_wallet.md) OR **You've created a wallet using the Maiar app**.
 * **You have installed the mobile Maiar app for** [**iOS**](https://apps.apple.com/us/app/maiar/id1519405832?shortlink=f0b7455c\&c=Website%20App%20Store%20Download%20Link\&pid=website\&deep\_link\_value=appstore) **or** [**Android**](https://play.google.com/store/apps/details?id=com.elrond.maiar.wallet\&shortlink=52dcde54\&c=Website%20Google%20Play%20Download%20Link\&pid=website\&deep\_link\_value=googleplay)
-* **You have at least one** [**eGLD tokens**](how\_to\_get\_egld\_tokens.md) **in your wallet**
+* **You have at least one** [**eGLD tokens**](broken-reference) **in your wallet**
 * **You know what** [**staking**](../getting-started/what\_is\_staking.md) **is.**
 * **You understand** [**the risks**](../getting-started/risks\_of\_staking.md) **involved with staking**
 

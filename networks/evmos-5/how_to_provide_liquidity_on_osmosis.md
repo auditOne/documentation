@@ -1,8 +1,9 @@
 # How to provide liquidity on Osmosis
 
-> This guide shows how you can provide liquidity in the ATOM/OSMO pool.\
-> However, please note that you can choose to provide liquidity to any other pool of your choice.\
-> The steps are exactly the same.
+{% hint style="info" %}
+This guide shows how you can provide liquidity in the ATOM/OSMO pool.\
+However, please note that you can choose to provide liquidity to any other pool of your choice. The steps are exactly the same.
+{% endhint %}
 
 ## How to provide liquidity on Osmosis
 
@@ -10,9 +11,9 @@
 
 Before continuing with this guide please be sure that:
 
-* **You have a** [**Keplr wallet**](../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
+* **You have a** [**Keplr wallet**](../../crypto-wallets/how\_to\_create\_a\_keplr\_wallet.md)
 * **You have ATOM and OSMO tokens on your** [**Osmosis**](https://app.osmosis.zone/pools) **balance**
-* **You understand the risks of** [**impermanent loss**](Impermanent\_loss.md)
+* **You understand the risks of** [**impermanent loss**](../../markdowns/Impermanent\_loss.md)
 
 ***
 
@@ -49,7 +50,7 @@ As a final step, you have to approve the transaction by choosing the transaction
 
 #### **Congratulations!**
 
-You have now succesfully provided liquidity on Osmosis!
+You have now successfully provided liquidity on Osmosis!
 
 ### **3. Stake your LP tokens to earn rewards on your provided liquidity**
 
@@ -60,7 +61,7 @@ Click on the "**Start Earning** button to continue.
 
 ![Start earning](https://user-images.githubusercontent.com/95366163/158588306-6c35a6ab-8926-4915-a671-5a9ef7c302e0.png)
 
-You will get to see this screen where you'll have to decide on the [unbonding period](../glossary/unbonding\_period.md).
+You will get to see this screen where you'll have to decide on the [unbonding period](../../glossary/unbonding\_period.md).
 
 <figure><img src="https://user-images.githubusercontent.com/95366163/158589147-8a64de11-3c60-4e2b-acac-40db185680f8.png" alt=""><figcaption></figcaption></figure>
 
