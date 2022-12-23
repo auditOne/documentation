@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://static.vecteezy.com/system/resources/previews/014/295/442/original/cronos-cro-coin-cryptocurrency-concept-banner-background-vector.jpg
+cover: https://www.analyticsinsight.net/wp-content/uploads/2022/02/og-image.png
 coverY: 0
 ---
 
