@@ -10,7 +10,6 @@
 [MEDIBLOC <img src="https://user-images.githubusercontent.com/95366163/152367874-47b5660d-f3b4-46ee-aae4-72a995f816e8.png" alt="" data-size="line">](../../markdowns/%7B%7B%20site\_url%20%7D%7D/Medibloc/)\
 [OSMOSIS <img src="https://user-images.githubusercontent.com/95366163/146988252-fc0e5f59-8c7a-4b16-bdbd-189b95d9ac5c.png" alt="" data-size="line">](../../markdowns/%7B%7B%20site\_url%20%7D%7D/Osmosis/)\
 [PERSISTENCE <img src="https://user-images.githubusercontent.com/95366163/146986555-3060bdf6-661b-4627-b428-a381a308c959.png" alt="" data-size="line">](../../markdowns/%7B%7B%20site\_url%20%7D%7D/Persistence/)\
-[POLYGON <img src="https://user-images.githubusercontent.com/95366163/146987400-d4f74af1-ec96-4d44-a593-19a118a18f95.png" alt="" data-size="line">](../../markdowns/%7B%7B%20site\_url%20%7D%7D/Polygon/)
 
 ## Staking guides being created
 
