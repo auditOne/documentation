@@ -168,10 +168,6 @@ nav:
           - Superfluid staking: How_to_use_superfluid_staking_ATOM.md
       - Cronos (CRO):
           - Intro to Cronos: Cronos.md
-      - Elrond (eGLD): 
-          - Intro to Elrond: Elrond.md
-          - Stake on Elrond: How_to_stake_eGLD_with_Elrond.md
-          - Stake on Maiar: How_to_stake_eGLD_with_Maiar.md
       - Evmos (EVMOS):
           - Intro to Evmos: Evmos.md
           - Stake on Keplr: How_to_stake_EVMOS_on_Keplr.md
@@ -194,8 +190,6 @@ nav:
           - Stake on Persistence: How_to_stake_XPRT_with_Persistence.md
           - Stake on Keplr: How_to_stake_XPRT_with_Keplr.md
           - Governance: How_to_vote_on_governance.md
-      - Skale (SKL): 
-          - Intro to Skale: Skale.md
       - Tgrade (TGD):
           - Intro to Tgrade: Tgrade.md
   - Research:
